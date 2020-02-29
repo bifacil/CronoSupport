@@ -1,0 +1,2181 @@
+﻿_New;New
+Catalog;Catalog
+All;All
+OpenBrowser;Open browser
+UnrecognizedActionColon;Unrecognized action:
+SupportsNullsColonParameter;Supports nulls: {0}
+UnauthorizedAccessParameter;Unauthorized access {0}
+UndefinedCatalogInQueryExceptionMessage;Bad query definition. The catalog does not exists.
+TestsSmtpAccountWrongCredentialsMessage;Wrong credentials, check user and password.
+FieldsColon;Fields:
+BusinessItemEmptyNameMessage;You must especify a name for this business item
+ExecutionComplete;Execution complete
+ExecutionCompleteWithUnexpectedExitCode;Execution complete with an unexpected ExitCode.
+ExecuteParameterBetweenQuotes;Execute {0}
+ExecuteProcedureParameterBetweenQuotes;Execute procedure '{0}'
+ExecutingDot;Executing.
+TestConnectionUnassignedDataSourceMessage;Unassigned datasource
+ExecutingRowParameter;Executing row {0}
+CatalogNotFromUriExceptionMessage;The catalog is not obtained by uri.
+TableRowContentIsNotTableColumnExceptionMessage;The row content must be TABLE COLUMN
+TableContentIsNotTableColumnExceptionMessage;The table content must be TABLE COLUMN
+DirectoryNotFoundOrNotAccessibleExceptionMessage;The directory does not exists or is not accessible:
+DirectoryNotFoundExceptionMessage;The directory does not exists:
+FileNotEqualParameterExceptionMessage;The file is not exactly equal. ({0})
+FileNotFoundOrNotAccessibleExceptionMessage;The file does not exists or is not accessible:
+InitializationMethodNotStaticExceptionMessage;The method '{0}' of {1} must be static
+ParameterNameWithSpacesExceptionMessage;A parameter name cannot contain spaces.
+NullQueryParameterExceptionMessage;The parameter query cannot be NULL
+CronoServerDoesNotSupportFeatureExceptionMessage;The server does not support this feature.
+CorrectElement;Correct element
+ReadingErrorParameterBetweenQuotes;Reading error '{0}'
+ErrorParsingThisSentenceColonParameter;Error parsing this sentence:|{0}
+ErrorInFileParameter;Error in the file {0}
+IsForeignKeyColonParameter;Is foreign key: {0}
+IsPrimaryKeyColonParameter;Is primary key: {0}
+IsDeferrableColonParameter;Is deferrable: {0}
+IsClusteredColonParameter;Is clustered: {0}
+IsUniqueColonParameter;Is unique: {0}
+IsDisabledColonParameter;Is disabled: {0}
+MultipleMethodsWithSameAttributeExceptionMessage;There are several methods with the attribute {0}
+IncorrectExpressionColonParameter;Incorrect expression: {0}
+CubeWithUnknownColumnsExceptionMessage;This cube cannot be evaluated because it contains unknown columns.
+BadExtensionDefinitionExceptionMessage;Bad extension definition for {0}
+JoinDateAndDurationOfVerificationParameters;Date of verification: {0}|Verification duration: {0} seconds
+IncorrectFileFormat;Incorrect file format
+DateColonParameter;Date: {0}
+IncorrectVersionFormatColonParameter;Incorrect version format: {0}
+HourStringToTimeSpanExceptionMessage;Incorrect hour hh:mm:ss ({0}).
+UserProfileAccessProblemExceptionMessage;A problem has occurred accessing to the user profile.
+RestrictionTypeColonParameter;Restriction type: {0}
+ColumnCountColonParameter;Column count: {0}
+ColumnColonParameter;Column: {0}
+TableColonParameterDotParameter;Table: {0}.{1}
+RestrictionNameColonParameter;Restriction name: {0}
+InitiallyDeferredColonParameter;Initially deferred: {0}
+BusinessItemEmptyDefinitionMessage;Enter the SELECT clause.
+BusinessItemDefinitionTooLongMessage;The SELECT clause of this business item is too long (maximum 1000 characters).
+IncorrectInstallation;Incorrect installation
+CollectionAlreadyBeingUpdatedExceptionMessage;The collection is already being updated.
+QueryResultNotScalarExceptionMessage;The query must return one row and one column.
+QueryResultEmptyMustBeSingleRowExceptionMessage;The query has not returned any records. It must return exactly 1.
+QueryResultMoreThanOneRowMustBeSingleRowExceptionMessage;The query returned {0} records. It must return exactly 1.
+DeveloperMode;Developer mode
+ExecutingTheQuery;Executing the query
+RowsHaveBeenObtainedParameter;{0} rows have been obtained
+NullActionsToExecuteExceptionMessage;The actions to execute (Actions) must be defined.
+ProvidedServerAddressIsMisspelledMessage;The provided server address is misspelled.
+ProvidedServerAddressNotCronoServerMessage;The provided server address does not belongs to a crono server.
+NullDataVariablesExceptionMessage;The variables (Data) must be defined.
+ExpressionAlreadyBeenSetted;Expression already setted
+InstructionNotASELECTStatement;The instruction is not a SELECT statement
+UrlIncorrectFormatParameterBetweenQuotes;The url '{0}' has not a correct format.
+CronoServerConnectionHasBeenEstablished;Connection to the server has been established.
+ShowingPartialResults;Showing partial results.
+UnneededCallExceptionMessage;Is not needed to call here
+UrlNotUsingS3ProtocolExceptionMessage;The url does not use the s3 protocol
+Columns;Columns
+BusinessItem;BusinessItem
+_Default;Default
+Values;Values
+Action;Action
+WithoutProxy;Without proxy
+Configuration;Configuration
+Executed;Executed
+ErrorParameterParameter;Error {0} {1}
+UnexpectedError;Unexpected error
+_Date;Date
+Information;Information
+Numerical;Numerical
+Job;Job
+AndLowerCase;and
+ParameterAndParameter;{0} and {1}
+FilteredBetweenParentheses;(filtered)
+SubqueryBetweenParentheses;(Subquery)
+AllBetweenParentheses;(All)
+OrLowerCase;or
+LogLocationColon;Log location:
+Warning;Warning
+TextFile;Text file
+BatchFiles;Batch files
+CsvFiles;CSV files
+ImageFiles;Image files
+ExecutableFiles;Executable files
+EtlFiles;ETL files
+ScheduleFiles;Schedule files
+SqlFiles;SQL files
+TmpFiles;Tmp files
+XpsFiles;XPS files
+_Boolean;Boolean
+_String;String
+WithProxy;With proxy
+LocalCube;Local cube
+Count;Count
+UserData;User dat
+AutomaticDetection;Automatic detection
+RtfFormat;RTF format
+Formula;Formula
+BmpImage;BMP image
+EmfImage;EMF image
+JpegImage;JPEG image
+PngImage;PNG image
+TIFFImage;TIFF image
+Report;Report
+GetCall;GET call
+PostCall;POST call
+Maximum;Maximum
+Minimum;Minimum
+None;None
+NameColonParameter;Name: {0}
+Average;Average
+CronoEtlProject;Crono ETL project
+TestsResults;Test results
+Secondary;Secondary
+Sum;Sum
+CompatibleFilesParameterBetweenParenthesesBarParameterBar;Compatible files ({0})|{1}|
+DeleteDirectoryConfirmation;Are you sure you want to delete this folder and all its content?
+DeleteFileConfirmation;Are you sure you want to delete this file?
+_404FileNotFound;404. The file path which you requested is not found
+ServerIsNotInformed;The server is not informed.
+ResourceDirectoryNotExistsParameterBetweenQuotes;The resource directory '{0}' does not exists
+DataBaseConnectionNotExistsParameter;The database conection "{0}" does not exists.
+NoDataBaseConectionEstablished;There is no connection established to a database.
+ConditionNotMet;The condition is not met.
+FileNotFoundParameter;Could not find the file {0}
+FileNotFoundOfColon;Could not find the file of:
+FileToSaveNotSpecified;The file where to save was not specified
+ConnectionNotSpecified;The conection was not specified.
+ServerUrlNotSpecified;The server url address was not specified
+SourceCatalogOfCubeNotSet;The source catalog of this cube was not specified.
+MessageOutputNotSet;The message output was not specified
+CouldNotAccessToParameter;Could not access to '{0}'
+CouldNotExecuteActionCorrectlyMaxIterationCount;Could not execute the action correctly, it is been reached the max iteration count.
+CouldNotFindInexistentTempFile;Could not find an inexistent temporary file
+CouldNotConnectMailServerCheckFieldAndRetry;Could not connect with the mail server, check fields, or try it later.
+CouldNotSaveFileParameterColonParameter;Could not save the file '{0}': {1}
+CannotCreateEngineUndefinedHandlerFile;Cannot create an Engine because the handler file is not defined.
+CannotCreateDirectConnectionToCronoServerConnection;Cannot create a direct connection with a connection string of type Crono Server
+KeyNameColonParameter;Key name: {0}
+MachineNameColonParameter;Machine name: {0}
+IndexNameColonParameter;Index name: {0}
+PanelParameter;Panel {0}
+UpdateRuleColonParameter;Update rule: {0}
+DeleteRuleColonParameter;Delete rule: {0}
+BadRouteDefinitionColonParameter;Bad route definition: {0}
+ConditionIsMetActionsWillBeExecuted;The condition is met. The actions will be executed.
+NullForEachItemsExceptionMessage;The query of the block FOR EACH (Items) must be defined.
+NullForEachActionsExceptionMessage;The actions of the block FOR EACH (Actions) must be defined.
+NullCronoSqlCodeToExecuteExceptionMessage;The Crono SQL code to execute (Code) must be defined.
+NullConditionExceptionMessage;The condition (Condition) must be defined
+DataBaseParameterBetweenQuotesHasBeenDeleted;The database '{0}' has been deleted.
+FollowingActionsHaveBeenExecutedColon;The following actios have been executed:
+AllAccountDataCorrectlyEvaluated;All account data have been evaluated correctly.
+RecompileRequiredToIncorporateChanges;Recompile is required in order to incorporate the changes:
+BadSegmentDefinitionColonParameter;Bad segment definition: {0}
+DestinationTableColonParameter;Destination table: {0}
+SourceTableColonParameter;Source table: {0}
+HasDiferentFilesCountDotParameterBetweenParentheses;They have diferent number of files. ({0})
+HasDiferentSubfoldersCountDotParameterBetweenParentheses;They have diferent number of subfolders. ({0})
+UnsupportedDataTypeColonParameter;Unsupported data type: {0}
+DataTypeColonParameter;Data type: {0}
+UserColonParameter;User: {0}
+UndefinedVariableInDictionaryKeyColonParameterBetweenParentheses;Undefined variable in the dictionary (key: {0})
+ParameterEmpty;{0} empty
+ParameterRowsRead;{0} rows read.
+ParameterCorrectlyExecuted;{0} correctly executed
+ParameterRecordsAffected;{0} records affected.
+FileRemovedFromRecentList;File removed from recent list
+FileNotExistsColon;The file does not exists:
+ItemNotFoundColon;Item not found:
+DataSourceIsNotInformed;DataSource is not informed.
+CouldNotAccessToRouteParameterBetweenQuotes;Could not access to the route '{0}'
+CronoBusinessIntelligencePlatform;Crono Business Intelligence platform
+InvertTableColumnXNotUniqueValues;In order to invert the table, the column {0} must have unique values.
+ParameterFilteredByParameter;{0} filtered by {1}
+PrintableReport;Printable report
+ValuesLowercase;values
+ValueLowercase;value
+Properties;Properties
+Update;Update
+Help;Help
+Connection;Connection
+Query;Query
+Options;Options
+Open;Open
+Close;Close
+Delete;Delete
+Modify;Edit
+Table;Table
+Tables;Tables
+File;File
+Copy;Copy
+Status;Status
+Image;Image
+Parameter;Parameter
+DatabaseColonParameter;Database: {0}
+View;View
+NewDocument;New document
+CheckJoins;Check joins
+Folder;Folder
+Scheme;Scheme
+CreationDate;Creation date
+Database;Database
+LastModification;Last modification
+Name;Name
+Multivalue;Multivalue
+ActionColon;Action:
+DateColon;Date:
+AllRightsReserved;All rights reserved.
+Hyperlink;Hyperlink
+Obsolete;Obsolete
+ErrorReadingParameter;Error reading {0}
+NotKnownNamespaceParameterBetweenQuotes;Not known namespace '{0}'
+CouldNotSaveOnTheServerParameterBetweenParentheses;Could not save on the server ({0})
+NotSupportedResponseParameterBetweenParentheses;Not supported response ({0})
+CssSelectorAbsentOrBadlyDefined;CSS selector absent or badly defined.
+Yes;Yes
+ItMustOnlyBeCalledIfTheNodeIsFile;It must only be called if the node is <file>.
+AnItemWithSameKeyParameterBetweenQuotesWasAlreadyAdded;An item with the same key '{0}' was already added
+Group;Group
+UnrecognizedTransformationType;Unrecognized transformation type
+SystemLanguage;System language
+Spanish;Spanish
+English;English
+Equal;Equal
+InTheList;In the list
+Distinct;Distinct
+OutOfTheList;Out of the list
+LessThan;Less than
+GreaterThan;Greater than
+LessThanOrEqualTo;Less than or equal to
+GreaterThanOrEqualTo;Grater than or equal to
+Between;Between
+Contains;Contains
+NotContains;Not contains
+StartsWith;Starts with
+NotStartsWith;Not starts with
+EndsWith;Ends with
+NotEndsWith;Not ends with
+LikePattern;Like pattern
+NotLikePattern;Not like pattern
+IsNull;Is null
+IsNotNull;Is not null
+That;That
+ThatNot;That not
+InSubQuery;In subquery
+NotInSubquery;Not in subquery
+Key;Key
+Value;Value
+Add;Add
+Up;Up
+Down;Down
+Executing;Executing
+Variable;Variable
+Queries;Queries
+SendEmailParameterBetweenParentheses;Send email ({0})
+FileOfParameterMbUploadedToColonParameter;File of {0}Mb  uploaded to: {1}
+CurrentlyOnlyCompressedCopiesSupported;Currently only compressed copies (.zip) are supported
+DataBasePatternBetweenParenthesesColon;Database (pattern):
+EachMarkdownbuilderCanOnlyBeUsedOnce;Each Markdownbuilder can only be used once.
+UnknownFileContent;Unknown file content.
+ExcelContentNotDefined;Content of the excel not defined
+EmailNotSendedParenthesesBecauseIsTesting;Email not sended (because it's testing).
+SourceMustBeSpecified;A source must be specified
+TheDestinationFileOutputMustBeDefined;The destination file (Output) must be defined.
+TablesBetweenQuotesPropertyMustBeDefined;'Tables' property must be defined
+DuringTestsNotPublished;During the tests it is not published
+TheCubeHasBeenGeneratedCorrectly;The cube has been generated correctly
+TheFileMustHaveZipExtension;The file must have ZIP extension
+ExcelFileWithSeveralTableCannotUseUseExcelFilenameAsTableName;The ExcelFileHas several tables so it is not possible to use the option 'UseExcelFilenameAsTableName'
+ExistingSnapshotInDestinationFolderNotMatchLocationInSourceFolder;The existing snapshot in the destination folder does not match the location of the source folder.
+ZipNotContainsSingleFile;The ZIP does not contains a single file
+EnquecuedTheStatusUpdate;Enqueued the status update
+ItIsNeededSmtpAccountToSendEmail;It is needed to specify an SMTP account in order to send the email.
+ItIsNeededRequestUri;It is needed to specify [RequestUri]
+ItIsNeededInformExcelFile;It is needed to inform the 'ExcelFile'
+ItIsNeededToInformProfilesList;It is needed to inform the 'Profiles' list.
+ThisDeviceNotConfiguredToUseGoogleCalendarService;This device is not configured to use the Google Calendar service.
+ThisJobHasNoActionDefined;This job has no action defined.
+ThisLogHasNotBeenSaved;This log has not been saved
+ThisRecordBelongsAnotherDatabase;This record belongs to another database.
+ThisTypeNotInheritDatabase;This type does not inherits from database
+TablesStructuresNotSupported;Tables structures not supported.
+EventCorrectlyRegistered;Event correctly registered.
+ExcelGeneratedCorrectly;Excel generated correctly
+UnknownActionExists;An unknown action exists.
+MissingMemoryLocationQuestion;Missing memory location?
+DatabaseRestorationHasBeenCompleted;The database restoration has been completed.
+UnexpectedErrorOccurredWhileExecutingQuery;An unexpected error occurred while executing a query.
+ErrorOccurredDuringCubeCreation;An error occurred during the cube creation.
+DeviceIdentification;Device identification.
+DestinationFolderCannotBeInsideSourceFolder;The destination folder cannot be inside the source folder.
+SourceFolderCannotBeInsideDestinationFolder;The source folder cannot be inside the destination folder.
+EntityNotAssociatedWithDatabase;The entity is not associated with any database.
+EntityAlreadyAssociatedWithDatabase;The entity is already associated with a database.
+TableStructureIsUnknown;The table structure is unknown.
+ImagesNotWellSorted;The images are not well sorted
+TheSourceExcelFileNotExists;The source Excel file does not exists.
+ThereAreNoFilesInStage;There are no files in stage.
+ThereIsNoFilePendingToLoad;There is no file pending to load
+RotationSchemeNotDefined;The rotation scheme was not defined.
+JoinBetweenTablesNotFound;The relation between this two tables was not found.
+BaseDirectoryNotSpecified;The base directory (Directory) was not specified.
+SourceDirectoryNotSpecified;The source directory (SourceDirectory) was not specified.
+XmlFileNotSpecified;The XML file (File) was not specified.
+AmazonBucketNameNotSpecified;The amazon bucket name was not specified.
+FileNameToLoadNotSpecified;The file name to load (Filename) was not specified.
+NameOfSourceDatabaseNotSpecified;The name of the source database (SourceDatabaseName) was not specified.
+TargetSchemaNotSpecified;The 'TargetSchema' was not specified
+BakDirectoryNotSpecified;The folder where to perform the backup (BakDirectory) was not specified
+DatasetLocationNotSpecified;The 'Dataset' location was not specified
+TablesToLoadNotSpecified;The table to load (Tables) were not specified.
+CouldNotCreateEventInGoogleCalendar;Could not create the event in Google Calendar.
+CouldNotDetermineCurrentVersion;Could not determine the current version.
+CouldNotDetermineIfExistsAnyUpdateAvailable;Could not determine if exists any update available
+CouldNotDeleteTheEvent;Could not delete the event.
+CouldNotObtainEventInfo;Could not obtain the event information.
+CannotDiscardChangesOnFileWithoutChanges;Cannot discard changes on a file without changes.
+ItHasNotSenseToFindItself;It has not sense to find itself.
+ServerNameColon;Server name:
+NullProfileOrBadlyDefined;Null profile or badly defined.
+RestoringDatabase;Restoring database.
+ItIsNeededSpecifyWhereUnzip;It is needed to specify where to unzip
+DestinationAmazonBucketMustBeSpecified;The destination amazon bucket (Target) must be specified.
+S3BucketWhereUploadDirectoryMustBeSpecified;The S3 bucket where to upload the directory (Bucket) must be specified.
+DirectoryToUploadMustBeDefined;The directory to upload (Directory) must be specified.
+DestinationDirectoryMustBeSpecified;The destination directory (TargetDirectory) must be specified
+SourceDirectoryMustBeSpecified;The source directory (SourceDirectory) must be specified
+FolderToSynchronizeMustBeSpecified;The folder to synchronize (SourceDirectory) must be specified
+BucketRegionMustBeSpecified;The bucket region must be specified.
+DestinationBucketMustBeSpecified;The destination 'Bucket' must be specified.
+DestinationTableMustBeSpecifiedIntoTargetTableTag;The destination table must be specified into the targetTable TAG
+BackupPathMustBeSpecified;The backup path (Path) must be specified
+BackupStartsAtColon;The backup starts at:
+DownloadFolderMustBeDefined;The download folder (BakDirectory) must be defined
+AllTablesHaveBeenGeneratedCorrectly;All tables have been generated correctly
+AllProfilesMustInformTableNamesToPublish;All profiles bust inform the 'TableNames' to publish.
+VerifyingAccessToken;Verifying AccessToken
+DatasetRead;Dataset read
+UploadCompleted;Upload completed.
+SendEmail;Send email
+NotExistsParameter;Not exists {0}
+FailedToImportData;Failed to import data
+ParameterBetweenSquareBracketsNotAResourceFolder;[{0}] is not a resource folder.
+ServerBackupParameterBetweenParentheses;Server backup ({0})
+DatabaseParameter;Database {0}
+SearchForUpdatesParameterBetweenParentheses;Search for updates ({0})
+CompressingParameter;Compressing {0}
+DownloadedParameterBytesParenthesesParameterMilliseconds;Downloaded {0} bytes ({1} milliseconds).
+UnknownParenthesesReleaseParameter;Unknown (release {0})
+TheDirectoryDoesNotExistsParameterBetweenParentheses;The directory does not exists ({0})
+TheCompressedFileParameterBetweenQuotesContainsMoreThanOneFile;The compressed file '{0}' contains more than one file.
+TheFileNotWithinBaseFolderParameterBetweenParentheses;The file is not within the base folder ({0}).
+TheFileDoesNotExistsParameterBetweenParentheses;The file does not exists ({0})
+TheNugetPackageNotHasExpectedContentParameterBetweenParentheses;The nuget package does not have the expected content ({0})
+TheZipNotContainsCompressedFolderParameterBetweenParentheses;The ZIP does not contains a compressed folder ({0}).
+OldBackupDeletedColonParameter;Old backup deleted: {0}
+ErrorWhileSendingEmailParameterBetweenParentheses.;Error while sending an email ({0}).
+ErrorReadingWritingColonParameter;Error while reading/writing: {0}
+ThisFolderAlreadyGitRepositoryParameterBetweenParentheses;This folder is already a GIT repository ({0})
+FileStatusNotContemplatedParameterBetweenParenthesesAndQuotes;File status not contemplated ('{0}')
+ExistsUpdateAvailableWillBeDownloadedAndInstalledAutomaticallyParenthesesUpdateColonParameter;It does exists an available update. It will be downloaded and installed automatically. (Update: {0})
+ThereAreSeveralRecordsOfParameter;There are several records of {0}
+FailtureHileLinkingColumnParameter;Failture while linking the column {0}
+SheetParameterBetweenQuotesCreatedCorrectly;Sheet '{0}' created correctly
+ImageParameter;Image {0}
+TheYamlHeaderOfResourceHeaderNotCorrectParameterBetweenParenthesesAndSquareBrackets;The YAML header of the resource header is not correct ([{0}])
+TheFolderParameterBetweenQuotesAlreadyExists;The folder '{0}' already exists.
+QueueFullNoAdditionalMessageWillBeLoaded;The queue is full. No additional message will be loaded
+TheTableParameterBetweenQuotesNotHaveRecordsBulkIsOmited;The table '{0}' does not have any record. The BULK is omited.
+LastVersionAvailableIsParameterParenthesesCurrentVersionColonParameter;The last version available is {0} (Current version: {1}).
+LastVersionAvailableIsParameterAlthoughWillNotBeInstalledNowBecauseCurrentExecutionModeParameterBetweenParentheses;The last version available is {0}, although it will not be installed now because of the current execution mode ({1})
+ParameterReadMessages;{0} read messages
+ReadingDirectoryColonParameter;Reading directory: {0}
+ReadingExcelTableColonParameter;Reading Excel table: {0}
+NotNeededToDeleteFileBecauseNotExistsColonParameter;It is not needed to delete the file because it does not exists: {0}
+NotValidXMLFileParameterBetweenParenthesesColonParameter;It is not a valid XML file ({0}): {1}.
+NotANugetPackageParameterBetweenParentheses;It is not a nuget package ({0})
+NotAGitRepositoryColonParameter;It is not a GIT repository: {0}
+TheSpecfiedDirectoryDoesNotExistsParameterBetweenParentheses;The specified directory does not exists ({0})
+TheSearchedRecordDoesNotExistsParameter;The searched record does not exists {0}.
+NotExistsAvailableUpdateParenthesesCurrentVersionColonParamether;It does not exists an available update (Current version: {0})
+ThereAreNoOldBackupsPendingToDelete;There are no old backups pending to delete.
+ThereIsNoRegisteredServerThatUseAmazonBucketCalledParameterBetweenQuotes;There is no registered server that use an amazon bucket called '{0}'
+BranchNotFoundColonParameter;The branch was not found: {0}
+NoBackupFoundInIndicatedLocationParameterBetweenParentheses;No backup found in the indicated location. ({0})
+OutputFolderNotSpecifiedParameterBetweenParentheses;The output folder was not specified. ({0})
+PageToGenerateNotSpecifiedParameter;The page to generate was not especified. {0}
+CouldNotDeleteTheFolderParameterBetweenQuotes;Could not delete the folder '{0}'
+UrlNotRecognizedAsAwsS3ValidAddressParameterBetweenParentheses;The URL is not recognized as an AWS S3 valid address ({0})
+ObtainDataParameterBetweenParentheses;Obtain data ({0})
+ReadyToExtractAndLoadTableDataParameter;Ready to extract and load the table data   {0}
+ReadyToExtractAndLoadFileDataParameter;Ready to extract and load the file data {0}
+UnexpectedProblemGeneratingThePageParameter;Unexpected problem generating the page {0}
+PerformedBulkInsertOnParameter;Performed BULK INSERT on {0}.
+PerformedBulkInsertonParameterParenthesesParameterReadRecords;Performed BULK INSERT on {0} ({1} read records)
+ParameterMessagesWillBeEnqueueToFillTheQueue;{0} messages will be enqueue to filll the queue.
+AnUnexpectedFileHasBeenDeletedColonParameter;An unexpected file has been deleted: {0}
+TheBackupHasBeenCompressedColonParameter;The backup has been compressed: {0}
+TheBackUpHasBeenCreatedColonParameter;The backup has been created: {0}
+LoadOfParameterFilesStartsParenthesesParameterMb;Load of {0} files starts ({1} Mb.).
+DownloadOfParameterIntoParameterBetweenQuotesStarts;Download of {0} into '{1}' starts
+UploadToParameterInThePathParameterBetweenParenthesesStartsParenthesesParameterKb;Upload to {0} in the path '{1}' starts ({2} Kb)
+UploadToParameterOfParameterBetweenParenthesesStartsParenthesesParameterKb;Upload to {0} of '{1}' starts ({2} Kb)
+UploadOfParameterFilesStarts;Upload of {0} files starts.
+FileSizeParameterKb;File size {0} Kb
+VerifyingProfileColonParameter;Verifying profile: {0}
+LookingForDifferences;Looking for differences
+Quote;Quote
+EmailSended;Email sended.
+ViewCreation;View creation
+CreateTables;Create tables
+DownloadComplete;Download complete.
+Decompressing;Decompressing.
+RotationSchemeColon;Rotation scheme:
+FileCopied;File copied.
+CubeGeneration;Cube generation
+GeneratingExcelEllipsis;Generating Excel...
+GeneratingParameterBetweenQuotes;Generating '{0}
+ReadingParameter;Reading {0}
+NotDetected;Not detected
+Synchronization;Synchronization
+UnexpectedSituation;Unexpected situation
+FrameworkDotNetColonParameter;Framework .Net: {0}
+UnrecognizedActionOrJob;Unrecognized action or work.
+TooManyArguments;Too many arguments.
+UsageModeColonCronoConsoleDotExeSquareBracketsNameOfTheJobToExecute;Usage mode: CronoConsole.exe [name of the job to execute]
+AllImagesAreAccesibleCheck;- All the images are accesibles.(✅)
+SheetParameterBetweenQuotesCreatedWithTheFollowingErrorsColonParameter;Sheet '{0}' created with the following errors:|{1}
+ItIsNotPossibleToCreateTheGoogleEventBecauseIsNecessaryToSpecifyTheStartDateBetweenQuotes;It is not possible to create the GoogleEvent because it is necessary to specify the 'StartDate'
+ItIsNotPossibleToCreateTheGoogleEventBecauseIsNecessaryToSpecifyTheTitleBetweenQuotes;It is not possible to create the GoogleEvent because it is necessary to specify the 'Title'
+TheCalendarIdHasNotBeenDefined;The CaledarID has not been defined.
+Actions;Actions
+ShowValues;Show values
+ParameterAlreadyExistsAskWantReplaceIt;'{0}' already exists.|Do you want to replace it?
+TheFolderLowerCase;the folder
+TheCubeElementLowerCase;the cube element
+AskWantRemoveParameterParameterBetweenQuotes;Do you want to remove {0} '{1}'?
+TheDestinationFileMightNotBeSameTypeAskOverwriteServerFile;The destination file might not be the same type.|Overwrite server file?
+TheFileHasBeenDeletenOnTheServerAskPublishAgain;The file has been deleted on the server.|Publish it again?
+AConstructorWithASingleParameterHasNotBeenFoundInEditorParameterBetweenQuotesCreateConstructorToBeAbleToCreateNewElementsOfTypeParameterBetweenQuotes;A costructor with a single parameter was not found in the editor '{0}'.|Create the constructor to be able to create new elements of type '{1}'
+AreUniqueCandidatesColon;are unique candidates:
+ThisFilterAppliesToTheFollowingSheetsColonParameter;This filter applies to the following sheets: {0}
+TheParametersParametersHaveNotBeenDefined;The parameters {0} have not been defined.
+HyphenHyphenServiceUrlColonParameter;-- Service url: {0}
+ParameterWarningColonNoViewModelsConstructorRegisteredForCollectionTypeParameter;{0} Warning: No ViewModels constructor has been registered for a collection of type '{1}'
+ParameterBetweenQuotesDeletesSuccessfully;'{0}' deleted successfully.
+ParameterDeletedBetweenParentheses;{0} (deleted)
+NameVersionCultureLocationBarSeparated;| Name | Version | Culture | Location |
+AskWantDeleteFilterParameterBetweenQuotes;Do you want to delete the filter '{0}'?
+AskWantDeleteCubeParameterBetweenQuotes;Do you want to delete the cube '{0}'?
+AskWantDeleteTheParameterParameter;Do you want to delete the parameter {0}?
+AskWantDeleteConnectionParameterBetweenQuotes;Do you want to delete the connection '{0}'?
+AskWantDeleteTheLicenseCurrentlyUsing;Do you want to delete the license you are currently using?
+AskWantDeleteAllSelectedCubeElements;Do you want to delete all selected cube elements?
+AskDeleteParameterBetweenQuotes;Delete '{0}'?
+AskDeleteTheJobParameterBetweenQuotes;Delete the job '{0}'?
+OpenAllSubfolder;Open all folders
+UpdateAvailableParameterBetweenParentheses;Update available ({0})
+UpdateListOfValues;Update list of values
+JobManager;Job manager
+AddCalculatedColumn;Add calculated column
+AddCalculatedColumnElipsis;Add calculated column...
+AddServerCronoExamples;Add server 'Crono examples'
+TheDocumentMustBeSavedLocallyBeforePublishing;The document must be saved locally before publishing.
+AllConflictsMustBeResolvedBeforeSynchronizing;All conflicts must be resolved before synchronizing
+LoadedMainWindowParenthesesAfterParameterMs;Loaded MainWindow (after {0} ms)
+LoadedSplashParenthesesAfterParameterMs;Loaded Splash (after {0} ms)
+ConfigurationFolder;Configuration folder
+CloseOtherFolders;Close other folders
+CloseAllFolders;Close all folders
+ValidProductKey;Valid product key.
+CheckingFilesFromTheCloud;Checking files from the cloud
+CheckingGitRepository;Checking git repository...
+ComputerConnectionColonParameter;Computer connection: {0}
+DefaultConnection;Default connection
+ConfigureParameters;Configure parameters
+CopySuggestedCreateTable;Copy suggested CREATE TABLE
+CopyFieldList;Copy field list
+CopyCommaSeparatedFieldList;Copy comma separated field list
+EmailColonParameter;Email: {0}
+WhenGroupColumnsExistsNeedTospecifyOrderColumns;When group columns exist, it is also necessary to specify order columns.
+YouMustDefinieVariableToUseThem;You must define the variables in order to use them.
+YouMustSpecifyDataBaseNameForLocalCubes;You must specify the database name for local cubes.
+YouMustSpecifyConnectionName;You must specify the connection name.
+YouMustSpecifyFileName;You must specify the file name
+YouMustSpecifyParameterName;You must specify the parameter name
+YouMustSpecifyANameForThisColumn;You must specify a name for this column.
+YouMustSpecifyACorrectKeyForParameter;You must specify a correct key for the parameter
+YouMustSpecifyUserOrGroup;You must specify user or group
+YouMustSelectColumnsToCheck;You must select the columns you want to check.
+YouMustSelectaBusinessItem;You must select a business item
+YouMustSelectAnItem;You must select an item.
+YouMustSelectAnAuthorizationType;You must select an authorization type
+YouMustSelectAUser;You must select a user.
+YouMustSelectAFolder;You must select a folder
+YouMustSelectACatalogDimension;You must select a catalog dimension
+YouMustSpecifyTheItemName;You must specify the item name.
+DownloadingDatabase;Downloading database
+WorkingDirectory;Working directory
+ExpressionEditor;Expression editor
+TheFileParameterBetweenQuotesIsOpenCloseItBeforeOverwriteIt;The file '{0}' is open, close it before overwrite it.
+TheFileParameterBetweenQuotesContainsErrorsThatPreventSavingAskCloseWithoutSaving;The file '{0}' contains errors that prevent saving, do you want to close without saving?
+TheFileContainsErrorsAndNotPossibleToSave;The file contains errors and it was not possible to save it.
+TheFileDoesNotHaveTheExpectedVersion;The file does not have the expected version
+TheSelectedDirectoryIsNotAGitDirectory;The selected directory is not a git directory.
+TheSelectedDirectoryIsNotEmpty;The selected directory is not empty.
+TheSelectedDirectoryDoesNotExists;The selected directory does not exists.
+TheFileMustBeInsideParameterBetweenQuotes;The file must be inside '{0}'
+TheFileIsNotAsExpected;The file has is not as expected
+TheColumnNameCannotBeginWithArroba;The column name cannot begin with @.
+TheObjectTypeParameterBetweenQuotesNotValidSource;The object of type '{0}' is not a valid source.
+TheParameterParameterIsCatalogParameterAndCannotDelete;The parameter {0} is a catalog parameter and cannot be deleted.
+TheRepositoryIsNotOnHead;The repository is not on the HEAD.
+TheTextHasBeenCopiedToClipboard;The text has been copied to the clipboard.
+TheTypeParameterBetweenParenthesesIsNotEnumeration;The type '{0}' is not an enumeration
+TheUsesDoesNotBelongToAnyGroup;The user does not belong to any group.
+TheDefaultValueIsBadlyDefined;The default value is badly defined.
+SelectedValueInParameterCausesRecursionSelectAnotherValue;The selected value in {0} causes recursion, please select another value.
+SelectedValuesUsesThisParameterSelectAnotherValueToAvoidRecursion;The selected value uses this parameter, please select another value to avoid recursion.
+DeleteParenthesesParameterColumns;Delete ({0} columns)
+DeleteSelected;Delete selected
+DeleteAllColumns;Delete all columns
+ErrorDisplayingRequestResultParameterBetweenQuotes;Error displaying the request result '{0}'.
+ErrorGettingParameter;Error getting {0}
+IntentionallyCausedError;Intentionally caused error
+ThisActionDoesNotContainAnyPropertyThatCouldBeModified;This action does not contain any property that could be modified.
+ThisJoinIsMarkedToNotCheck;This join is marked to not check.
+ThisJoinHasReferentialIntegrityInDatabase;This join has referential integrity in the database.
+SetParameter;Set {0}
+StatisticsOfTheResult;Statistics of the result
+TheseColumnsTogether;These columns, together,
+ThisFilterAppliesAllSheets;This filter applies to all sheets
+ThisFilterAppliesOnlyThisSheetColonParameter;This filter applies only in this sheet: {0}
+ThisFilterDoesNotApplyAnySheet;This filter does not apply to any sheet
+ExcludeParameterInThisQuery;Exclude {0} in this query
+ThereIsASyntaxError;A syntax error exists.
+ServerExplorer;Server explorer
+FilterBusinessItems;Filter business items
+FilterOnTheFollowingPanels;Filter on the following panels
+FilterOnAllSheets;Filter on all sheets
+FilterOnAllPanels;Filter on all panels
+FilterOnlyOnThisSheet;Filter only on this sheet
+FilterOnlyInThisPanel;Filter only in this panel
+FormatParenthesesParameterColumns;Format ({0} columns)
+NotImplementedFormat;Not implemented format
+FormulaValidatedCorrectly;Formula validated correctly
+GenericColonParameter;Generic: {0}
+TheConnectionToTheServerHasFailed;The connection to the server has failed
+ThereWasAnErrorWhileCommitting;There was an error while committing.
+ThereWasAProblemWhileRegisteringCheckInternetOrContactCrono;There was a problem when registering the product. Check your internet connection or contact info@crono.net.
+AnErrorOccurredDuringExecution;An error occurred during execution.
+AnErrorOccurredDuringPublication;An error occurred during publication.
+AnErrorOccurredDuringDataValidation;An error occurred during data validation.
+AnErrorOccurredInTheApplicationAndWillNowClose;An error occurred in the application and it will now close.
+AnUnexpectedErrorOccurredWhileExportingInformation;An unexpected error occurred while exporting the information...
+AnUnexpectedErrorOccurredDuringThisCommandExecution;An unexpected error occurred during the execution of this command.
+ThereHaveBeenNewCommitsSinceTheLastCheck;There have been new commits since the last check.
+ThereAreFilesInStage;There are files in stage
+ThereIsAnErrorWithTheQuery;There is an error with the query
+ThereIsAnIncompleteMerge;There is an incomplete merge.
+DeviceIdentifierColonParameter;Device Identifier: {0}
+IndicatesWhetherVariableModificationsAreMadeDirectlyOnTheListOrInACopy;Indicates whether the modifications made to the variables are made directly on the list passed by parameter in the variable property or will be made in a copy
+SessionInformation;Session information
+EnterTheLicenseNumber;Enter the license number.
+EnterAContactEmail;Enter a contact email
+TheFolderParameterBetweenQuotesNotContainGitRepository;The folder '{0}' does not contain a git repository.
+TheConnectionIsNotDefined;The connection is not defined
+TheDefinitionContainsSyntaxError;The definition contains some syntax error
+TheExpressionIsNotCorrect;The expression is not correct.
+TheExpressionIsNotAFilter;The expression is not a filter
+TheExpressionMustBeAQuery;The instruction must be a query
+ThePropertyParameterIsReadOnly;The property '{0}' is read only.
+ThePropertyParameterIsReadOnlyAndCannotBeSetByBinding;The property '{0}' is read only and cannot be set by binding.
+ThePropertyParameterIsReadOnlyAndItsValueCannotBeSetExternally;The property '{0}' is read only and its value cannot be set externally.
+ThePropertyParameterBetweenQuotesNotExistsInModelParameterBetweenParentheses;The property '{0}' does not exists in the model ({1})
+TheListPropertyIsNotEnumerableType;The list property is not enumerable type
+ListPropertyHasNotBeenFound;List property has not been not found
+TheSQLStatementIsCorrect;The SQL statement is correct.
+LocateInCatalog;Locate in catalog
+ChangesMadeToFileParameterBetweenQuotesWillBeLostAskContinueAnyway;Changes made to the file '{0}' will be lost. Continue anyway?
+FiltersWillAlwaysApplyToThePanelsWhereTheyAreIn;Filters will always be applied to the panels where they are in.
+ReportsFromCubesAreNotYetAvailable;Reports from cubes are not yet available
+TheParameterParameterHasNotBeenDefined;The parameter {0} has not been defined.
+RamMemoryColonParameterMb;RAM memory: {0:N2} MB
+ShowColumnSelector;Show column selector
+YouNeedLinceseNumberToUseCronoSolutionCanGetOneFromDemoCrono;You need a license number to use the Crono solution. You can get one for free from http://demo.crono.net
+NoObjectInCatalogUsesTheParameterParameterBetweenQuotes;No object in the catalog uses the parameter '{0}'
+ThePropertyParameterBetweenQuotesNotExistsInParameterBetweenQuotesParenthesesViewModelColonParameterBetweenQuotes;The property '{0}' does not exists in '{1}' (viewmodel: '{2}')
+DoNotFilterOnThisSheet;Do not filter on this sheet
+CouldNotValidateLicenseNumberMayBeProblemsWithInternetConnectionOrServerMeyNotBeOperationalAtThisTimeTryItAgainLater;Could not validate the license number. There may be problems with your Internet connection or the server may not be operational at this time. Try it again later.
+ItWasNotPossibleToUseThisCatalog;It was not possible to use this catalog
+ItWasNotPossibleToValidateProductKey;It was not possible to validate the product key.
+ThereAreNoPendingChanges;There are no pending changes
+ThereIsNoEstablishedConnectionAtThisTime;There is no established connection at this time.
+ThePublicationAddresHasNotBeenConfigured;The publication address has not been configured.
+AnOriginHasNotBeenConfiguredInTheRepository;An 'origin' has not been configured in the repository.
+TheColorThemeLibraryWasNotFoundColon;The color theme library was not found:
+NoCatalogFoundOnTheSpecifiedRoute;No catalog found on the specified route
+CouldNotOpenJobColonParameter;Could not open the job: {0}
+CouldNotUpdateServerInformation;Could not update the server information
+CouldNotAssignValue;Could not assign the value.
+CouldNotChangeRegistryValue;Could not change the registry value
+CouldNotCloneRepository;Could not clone the repository.
+CouldNotGenerateFileParameterBetweenQuotes;Could not generate file '{0}'.
+NoServersHaveBeenRegistered;No servers have been registered
+NoSourceHasBeenSelected;No source has been selected.
+CouldNotGenerateSDLViewOfParameterBetweenQuotes;Could not generate SDL view of '{0}'
+NoFilesHaveBeenSelected;No files have been selected.
+ThisPanelCannotBeExportedInCardsMode;This panel cannot be exported in the 'Cards' presentation mode
+CannotSaveIntoFolderParameterBetweenQuotes;Cannot save into the folder '{0}'
+CannotLocateMapFileParameterBetweenQuotes;Cannot locate the map file '{0}'
+YouHaveNoRegisteredServerThatSupportsPublishingAskWantToAddOneNow;You have no registered server that supports publishing, do you want to add one now?
+LicenseNumberColonParameter;License number: {0}
+ObjectForTheListOfValues;Object for the list of values
+ObjectsUsingParameter;Objects using {0}
+GetsOrSetsACollectionUsedToGenerateTheDatagridContent;Gets or sets a collection that is used to generate the datagrid content
+GetsACollectionOfDatagridColumns;Gets a collection of datagrid columns
+HideParenthesesParameterColumns;Hide ({0} columns)
+AnErrorOcurredDuringSynchronization;An error occurred during synchronization.
+PassAllToQuery;Pass all to query
+PercentageWithRespectToAGroup;Percentage with respect to a group
+ProblemGettingPropertyParameterBetweenQuotesOfAParameterBetweenQuotes;Problem getting property '{0}' of a '{1}'
+UnregisteredProduct;Unregistered Product
+PropertyParameterBetweenQuotesLinkedToIncorrectType;Property '{0}' linked to incorrect type
+PropertyParameterBetweenQuotesNotFoundInObjectOfTypeParameterBetweenQuotes;Property '{0}' not found in object of type '{1}'.
+FolderProperties;Folder properties
+ColumnProperties;Column properties
+FilterProperties;Filter properties
+CubeElementProperties;Cube element Properties
+RepositoryProperties;Repository properties
+ReferenceToNonExistentPropertyColon;Reference to non-existent property:
+HighlightCompatibleObjects;Highlight compatible objects
+TheExpressionMustBeSpecified;The expression must be specified.
+ACommitMessageMustBeSpecified;A commit message must be specified.
+TheJobMustBeNamed;The job must be named.
+AtLeastParameterParameterMustBeSelected;At least {0} {1} must be selected
+TheDestinationDirectoryMustBeSelected;The destination directory must be selected.
+ACalendarMustBeSelected;A calendar must be selected.
+ADirectoryMustBeSelected;A directory must be selected.
+AFileToExecuteMustBeSelected;A file to execute must be selected
+ASingleQueryMustBeUsed;A single query must be used
+AnoObjectOfTypeTypeWasExpectedButIsTypeParameterBetweenQuotes;An object of type 'Type' was expected but is of type '{0}'
+TheTableIsMaterializing;The table is materializing
+TheRepositoryHasBeenAccessedCorrectly;The repository has been accessed correctly.
+RegistrationCompletedSuccessfully;Registration completed successfully.
+TheDatabaseWasCreatedAndConnectionHasBeenEstablishedCorrectly;The database has was created and the connection has been established correctly.
+TheDatabaseHasBeenDeletedSuccessfully;The database has been deleted successfully.
+TheConnectionToCronoServerHasBeenEstablishedSuccessfully;The connection to the Crono server has been established successfully.
+ItHasBeenPublishedCorrectly;It has been published correctly.
+UpdatesHaveBeenLookedFor;Updates have been looked for
+ParameterDifferentCombinationsHaveBeenFound;{0:N0} different combinations have been found.
+TheLookForUpdatesStarts;The look for updates starts
+TheDatabaseParameterIsGoingToBeDeletedWithAllItsContentAskAreSureWantContinue;The database {0} and all its contents will be completely deleted. Are you sure you want to continue?
+SelectParameterInThisQuery;Select {0} in this query
+SelectGreaterThanOrEqualTo;Select greater than or equal to
+SelectLessThanOrEqualTo;Select less than or equal to
+SelectLocation;Select location
+SelectTheImageFile;Select the image file
+SelectTheCatalogLanguage;Select the catalog language
+SelectTheActionTypeYouWantCreate;Select the action type you want to create.
+SelectTheJob;Select the job
+SelectBusinessElementsTahtWillBeAllowedToChoosesWhenAskingTheParameter;Select the business elements that will be allowed to choose when asking for the parameter.
+SelectTheValuesToFilterBy;Select the values ​​to filter by.
+SelectACatalogWithWhichToBuildYourReport;Select a catalog with which to build your report
+SelectADirectory;Select a directory
+SelectAnItemFromCatalog;Select an item from the catalog.
+SelectADimension;Select a dimension.
+ServerForLocalCubes;Server for local cubes
+IfPasswordIsSpecifiedAUserMustAlsoBeSpecified;If a password is specified, a user must also be specified.
+SynchronizationCompleted;Synchronization completed.
+OperatingSystemColonParameter;Operating system: {0}
+OnlyPaginaViewItemAndPaginaViewGroupItemAreAllowed;Only 'PaginaViewItem' and 'PaginaViewGroupItem' are allowed
+SplashScreenClosedParenthesesAfterParameterMs;SplashScreen closed (after {0} ms)
+InstallationTypeColonParameter;Installation Type: {0}
+ValidatingProductKeyElipsis;Validating product key...
+ValidateLicenseNumber;Validate license number
+NotAllowedValueInParameter;Not allowed value in {0}
+ShowVerificationErrors;Show verification errors
+ShowVerificationStatement;Show verification statement
+InstallationVerification;Installation verification
+AParameterWithThisKeyAlreadyExists;A parameter with this key already exists
+WouldYouLikeToDefineThemNow;Do you want to define them now?
+WouldYouLikeToDefineItNow;Do you want to define it now?
+TheBusinessItemLowerCase;the business item
+Execute;Execute
+ParenthesesParameterMs;({0}ms)
+AskWantToCheckThisJoinLastVerificationDataColonParameterLastVerificationTimeColonParameterSeconds;Do you want to check this join?|Last verification date: {0}|Last verification time: {1} seconds
+TheParentTypeIsParameterWithCronoSqlColonParameter;The parent type is {0} with CronoSql:|{1}
+FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Failed to find property '{0}' in object type '{1}'|{2}
+FailedToSetPropertyParameterBetweenQuotesParameter;Failed to set property '{0}'|{1}
+TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;The file publication date on the server does not match the current one.|Post anyway?||Last publication information:|{0}
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;The connection ""{0}"" to access the database does not exists.|Do you want to create it now?
+Format;Format
+Exclude;Exclude
+_Select;Select
+Accept;Accept
+Enable;Enable
+ManageFilters;Manage filters
+Disable;Disable
+Documentation;Documentation
+EditQuery;Edit query
+FilterOn;Filter on
+General;General
+NewAction;New action
+NewFilter;New filter
+Hide;Hide
+OrganizationColonParameter;Organization: {0}
+PassToQuery;Pass to query
+PassToFormula;Pass to formula
+Registration;Registration
+Log;Log
+PercentageSalesMarginAVsCostB;% Sales margin A vs cost B
+PercentageVariationOfAVsB;% Variation of A vs B
+AMinusBDividedBPercentageBetweenParentheses;(a-b)/b (Percentage)
+ParameterAccumulated;{0} accumulated
+ADivideBPercentageBetweenParentheses;a/b (Percentage)
+ADivideBRatioBetweenParentheses;a/b (Ratio)
+AboutCrono;About Crono
+Acknowledgment;Acknowledgment
+AddColumn;Add column
+Authorization;Authorization
+Basics;Basics
+Calendar;Calendar
+GoogleCalendar;Google calendar
+FolderOnServer;Folder on server
+LocalFolder;Local folder
+Scientific;Scientific
+ProductKey;Product key
+ForeignKey;Foreign key
+Cloning;Cloning
+Clone;Clone
+CloneRepository;Clone repository
+Commit;Commit
+CheckingStatus;Checking status
+CheckingHead;Checking HEAD
+CheckingSource;Checking source
+CheckingStage;Checking stage
+NetworkConfiguration;Network configuration
+ConfigureConnection;Configure connection
+ConfigureOrderBy;Configure ORDER BY
+ConfigureTop;Configure TOP
+ContactColonParameter;Contact: {0}
+CopyName;Copy name
+Correct;Correct
+SplashCreated;Splash created
+Credentials;Credentials
+Available;Available
+Duration;Duration
+Edit;Edit
+EditExpression;Edit expression
+SqlQueryEditor;SQL query editor
+CronoSqlEditor;Crono SQL editor
+QueryEditor;Query editor
+PermissionsEvaluatedSequentiallyInCaseContradictoryAssignmentsLastPrevailsIfNoPermissionApplicableDefaultApplicationPermissionsAreMaintained;Permissions are evaluated sequentially. In case of contradictory assignments, the last of the list prevails.||If no specific permission is applicable, the default application permissions are maintained.
+DeleteColumn;Delete column
+BindingErrorsColon;Binding errors:
+Statistics;Statistics
+Eula;EULA
+Explorer;Explorer
+Export;Export
+DateAndTime;Date and time
+ColumnFilter;Column filter
+AdvancedFilters;Advanced filters
+Print;Print
+Start;Start
+EnterYourCity;Enter your city
+EnterYourName;Enter your name
+TheRequestToParameterBetweenParenthesesWasResolvedWithTheCodeColonParameterParameter;The request to '{0}' was resolved with the code:||{1} {2}
+ExpiredLicense;Expired license
+LicenceDeleted;License deleted.
+ClearFilters;Clear filters
+ClearValue;Clear value
+TheFollowingFilesAreLockedCloseProgramsMayBeUsingThemAndTrySynchronizeAgain;The following files are locked, close the programs that may be using these files and try to synchronize again.||{0}
+ErrorMessage;Error message
+Currency;Currency
+ShowingMainWindow;Showing MainWindow
+ShowWarnings;Show warnings
+ShowSummations;Show summations
+NotAvailable;Not available
+CouldNotConnectToTheCloudParameter;Could not connect to the cloud.||{0}
+CouldNotGetRepositoryInformationCheckRepositoryAddressIsWellWrittenAndCredentialsAreCorrect;Could not get repository information.||Check that the repository address is well written and that the credentials are correct.
+NewCube;New cube
+Number;Number
+Objects;Objects
+GeneralOptions;General options
+Sort;Sort
+Custom;Custom
+Percentage;Percentage
+PercentageParameter;Percentage {0}
+PercentageOfTheTotal;Percentage of the total
+ProductActivated;Product activated
+CubeProperties;Cube properties
+RankingPercentage;Ranking %
+UserSelection;User selection
+FormatSelection;Format selecction
+SelectCatalog;Select catalog
+SelectValues;Select values
+SelectTheType;Select the type
+SelectYourCountry;Select your country
+SelectAnObject;Select an object
+Server;Server
+DoUpperCase;DO
+DoNotUpperCase;DO NOT
+Synchronize;Synchronize
+SynchronizeProject;Synchronize project
+SyntaxCorrect;Syntax correct.
+TechnicalSupport;Technical support
+SqlServerColonParameterParameterBetweenParentheses;SQL Server: {0} ({1})
+Startup;Startup
+CumulativeSum;Cumulative sum
+CumulativeSumPercentageBetweenParentheses;Cumulative sum (%)
+ReplaceWith;Replace with
+TestText;Test text
+TextWithoutFormat;Text without format
+NullValueLowerCase;null value
+TableValues;Table values
+ShowGroups;Show groups
+CheckJoin;Check join
+CheckUniqueness;Check uniqueness
+VersionColonParameter;Version: {0}
+ParenthesesRestOfLatinAmerica;(Rest of Latin America)
+ExclamationThanksForUsingCrono;Thanks for using Crono!
+TaskManager;Task manager
+ManageRepositories;Manage repositories
+ManageServers;Manage servers
+AddExistingGitFolder;Add existing git folder
+DragToTheRightPanelTheColumnsByWhichWantSortTheQuery;Drag to the right panel the columns by which you want to sort the query.
+DragHereToCreateAFilter;Drag here to create a filter.
+WindowsAuthentication;Windows authentication
+WindowsAuthenticationColon;Windows authentication:
+LookForUpdates;Look for updates
+CustomNumericFormatStrings;custom numeric format strings
+ChangeLicenseNumber;Change license number
+ChangesInTheLocalFolder;Changes in the local folder
+BackupsFolder;Backups folder
+CronoConfigurationFolder;Crono configuration folder
+CloseWindowWhenExecutionFinished;Close this window when the execution is finished
+GroupColumnsColon;Group columns:
+OderColumnsColon;Order columns:
+AvailableColumnsColon;Available columns:
+CheckAccessForColon;Check access for:
+ConfigureProxyServer;Configure proxy server
+KeepCloudChanges;Keep cloud changes
+KeepLocalChanges;Keep local changes
+KeepAllCloudChanges;Keep all cloud changes
+KeepAllLocalChanges;Keep all local changes
+ContainsUniqueValues;Contains unique values
+CronoUsesOpenSourceSoftwareAndThirdPartyApplications;Crono uses open source software and other third-party applications.
+DownloadUpdatesAutomatically;Download updates automatically
+DownloadDirectoryColon;Download Directory:
+DownloadDirectory;Download Directory
+WorkDirectoryColon;Work Directory:
+RunGarbageCollector;Run garbage collector
+ParameterizableBusinessItem;Parameterizable business item
+DeleteDatabaseParenthesesDropDatabase;Delete database (DROP DATABASE)
+ConfigurationFolderContainsComputerConnectionsAndOtherInformation;Configuration folder contains computer connections and other information.
+EnterYourLicenseNumber;Enter your license number
+ThisInformationIsShared;This information is shared
+ThisStatisticsWindowCanHelpYouDetectCandidateFieldsToFormPrimaryKeyOrUniqueRestriction;This statistics window can help you detect candidate fields to form primary key or UNIQUE restriction.
+WeStudyAndAppreciateAllRequestsWeRecive;We study and appreciate all the requests we receive.
+FormulaFromExistingColumnsInQuery;Formula from existing columns in the query
+SaveConfigurationInTheProfileOfEachUser;Save configuration in the profile of each user
+SaveConfigurationInAFolderOnComputer;Save configuration in a folder on the computer
+LicenseInformation;License information
+SystemInformation;System information
+StartCronoExcelWhenOpeningMicrosoftExcel;Start Crono Excel when opening Microsoft Excel
+EnterTheVariableParametersOfThisDocument;Enter the variable parameters of this document.
+TheCronoExcelRegistryKeyExists;The Crono Excel registry key exists
+TheInformationIsSavedIn;The information is saved in
+LimitNumberOfRows;Limit number of rows
+MoreInformationAboutTheChanges;More information about the changes
+ShowAdvancedGITFunctionalities;Show advanced GIT functionalities
+ShowTextInSeparateWindowWhenDoubleClicking;Show text in separate window when double clicking
+ShowAllRows;Show all rows
+TheCronoExcelKeyDoesNotExistsInWindowsRegistry;The Crono Excel key does not exists in the Windows registry
+NoRulesFoundForThisUser;No rules found for this user
+NewCalculatedColumn;New calculated column
+NewComputerConnection;New computer connection
+NuevoCombinedAndOrFilter;New combined AND/OR filter
+AnotherSqlServer;Another SQL Server
+ToInstallTheEvaluationVersionYouNeedALicenseNumberWithThisFormatColonXXX;To install the evaluation version you need a license number with this format: XXXX-XXXX-XXXX.
+ForMoreInformationSeetheHelpAboutThe;For more information see the help about the
+ForHelpingUsImproveCrono;for helping us improve Crono.
+BetweenAllCronoApplicationsOfThisUser;between all Crono applications of this user.
+BetweenAllCronoApplicationsAndUsersOfThisMachine;between all Crono applications and all users of this machine
+PercentageOfTheTotalCountOfRecords;Percentage of the total count of records
+TaskScheduler;Task scheduler
+YouCanContactUsFromTheSupportWebsiteOrByEmail;You can contact us from the support website or by email.
+CountOfDifferentValues;Count of different values
+PathOrUrlOfTheCatalogColon;Path or URL of the catalog:
+TheSampleDatabaseIsBeingDownloaded;The sample database is being downloaded
+DefaultServer;Default server
+RegisteredServers;Registered Servers
+RegisteredServersColon;Registered Servers:
+IfNotHaveValidLicenseNumberCanRequestForFreeAtFollowingAddressColon;If you do not have a valid license number, you can request it for free at the following address:
+UploadTheChangesToTheCloudAutomaticallyAfterSynchronize;Upload the changes to the cloud automatically after synchronize
+ColumnFilterType;Column filter type
+RemoteBackupsLocation;Remote location backups
+UseThisScreenToLimitNumberOfRecordsReturnedOrSetRankingBasedOnOneOfTheColumns;Use this screen to limit the number of records returned or to set a ranking based on one of the columns.
+SelectedValues;Selected Values
+SeeObjectThatUseThisParameter;See objects that use this parameter
+VerifyConnectionToLocalDB;Verify connection to LocalDB
+VerifyCredentials;Verify credentials
+VerifyInstallation;Verify installation
+VisitCronoWebsite;Visit Crono website
+IAlreadyHaveALicenseNumber;I already have a license number
+IAlreadyHaveALicense;I already have a license
+HomeUpperCase;HOME
+Definition;Definition
+Verify;Verify
+Diagram;Diagram
+QueyUpperCase;QUERY
+DescriptionColon;Description:
+NameColon;Name:
+UserColon;User:
+PasswordColon;Password:
+FontColon;Font:
+UrlColon;Url:
+ActionsColon;Actions:
+DatabaseColon;Database:
+Cancel;Cancel
+ConnectionColon;Connection:
+DiscardChanges;Discard changes
+Disabled;Disabled
+ExecutingElipsis;Executing...
+Environment;Environment
+ListOfValues;List of values
+ListOfValuesColon;List of values:
+EditConnection;Edit connection
+FullNameColon;Full name:
+ServerColon;Server:
+DataTypeColon;Data type:
+ParenthesesWithoutProxy;(without proxy)
+Activated;Enabled
+UpdateList;Update list
+AdvancedPluralFemale;Advanced
+BackgroundColorColon;Background color:
+QueriesColon;Queries:
+PasswordLocalizedColon;Password:
+EmailColon;Email:
+Design;Design
+CompanyColon;Company:
+ExpressionColon;Expression:
+FormulaColon;Formula:
+Save;Save
+ReadAndWrite;Read and write
+Message;Message
+EditServer;Edit server
+SourceColon;Source:
+Path;Path
+SelectSeveral;Select several
+TextColon;Text:
+Type;Type
+FormatType;Format type
+ValueColon;Value:
+CheckConnection;Check connection
+ParenthesesRestOfEurope;(Rest of Europe)
+ParenthesesRestOfTheWorld;(Rest of the world)
+AnonymousAccess;Anonymous access.
+About;About
+AttachedColon;Attached:
+Germany;Germany
+AmazonS3;Amazon S3
+Andorra;Andorra
+Argentina;Argentina
+Australia;Australia
+Austria;Austria
+SqlAuthentication;SQL authentication
+Belgium;Belgium
+Bolivia;Bolivia
+Brazil;Brazil
+Bulgaria;Bulgaria
+Search;Search
+ConnectionStringColon;Connection String:
+Calculator;Calculator
+CalendarColon;Calendar:
+ChangesInTheCloud;Changes in the cloud
+Canada;Canada
+Loading;Loading
+CubeFolderColon;Cube folder:
+FolderColon;Folder:
+GitFolders;GIT folders
+LocalCatalog;Local catalog
+CatalogColon;Catalog:
+Catalogs;Catalogs
+RecentCatalogsColon;Recent catalogs:
+Chile;Chile
+China;China
+Cyprus;Cyprus
+CityColon;City:
+AccessKey;Access key
+Colombia;Colombia
+Column;Column
+Check;Check
+Granted;Granted
+ComputerConnection;Computer connection
+ComputerConnections;Computer connections
+ConnectionsColon;Connections:
+ContainsNulls;Contain nulls
+CopyText;Copy text
+CostaRica;Costa Rica
+CreateDatabase;Create database
+AmazonCredentials;Amazon credentials
+EmailCredentials;Email credentials
+GitCredentials;GIT credentials
+NetworkCredentials;Network credentials
+Cuba;Cuba
+Cube;Cube
+Cubes;Cubes
+LocalCubesColon;Local cubes:
+Denied;Denied
+Deny;Deny
+DownloadColon;Download:
+_Stop;Stop
+Denmark;Denmark
+UrlAddressColon;Url address:
+AddressColon;Address:
+DomainColon;Domain:
+Ecuador;Ecuador
+EditManually;Edit manually
+ExecutingActions;Executing actions
+ElSalvador;The Savior
+BusinessItemColon;Business item:
+RemoveFromTheList;Remove from the list
+DeleteFilter;Remove filter
+Awaiting;Awaiting
+_Error;Error
+Spain;Spain
+UnitedStates;United States
+Style;Style
+TokenDateColon;Token date:
+Fetch;Fetch
+Philippines;Philippines
+FilterCatalogColon;Filter catalog:
+AdvancedFilter;Advanced filter
+CombinedFilterColon;Combined filter:
+AdvancedFormula;Advanced formula
+France;France
+Generic;Generic
+Gibraltar;Gibraltar
+Greece;Greece
+GroupsColon;Groups:
+SaveAs;Save as
+SaveInTheCloud;Save in the cloud
+SaveLocally;Save locally
+Guatemala;Guatemala
+Guinea;Guinea
+EquatorialGuinea;Equatorial Guinea
+Haiti;Haiti
+Inherited;Inherited
+Honduras;Honduras
+Identification;Identification
+AvailableLanguagesColon;Available languages:
+India;India
+Ireland;Ireland
+Israel;Israel
+Italy;Italy
+Japan;Japan
+Read;Read
+LimitResult;Limit result
+LimitColon;Limit:
+Clear;Clear
+ClearColumns;Clear columns
+Morocco;Morocco
+MessageColon;Message:
+Messages;Messages
+Mexico;Mexico
+ThankYouSoMuch;Thank you so much
+SampleColon;Sample:
+Nicaragua;Nicaragua
+ConnectionName;Connection name
+KeyNameColon;Key name:
+BucketNameColon;Bucket name:
+Norway;Norway
+NewConnection;New connection
+NewParameter;New parameter
+LicenseNumberColon;License number:
+AdvancedOptions;Advanced options
+AdvancedOperators;Advanced operators
+SortResult;Sort result
+OrganizationColon;Organization:
+CountryColon;Country:
+Netherlands;Netherlands
+Panama;Panama
+Paraguay;Paraguay
+CalculatedParameter;Calculated parameter
+UserParameter;User parameter
+ParameterColon;Parameter:
+Pending;Pending
+PermissionsColon;Permissions:
+ContactPersonColon;Contact person:
+Peru;Peru
+PleaseWait;Please wait.
+Portugal;Portugal
+GitProjectsColon;Git projects:
+PropertiesColon;Properties:
+ProxyColon;Proxy:
+PuertoRico;Puerto Rico
+PortColon;Port:
+Pull;Pull
+Push;Push
+Refresh;Refresh
+RegionColon;Region:
+Register;Register
+RegisterProduct;Register Product
+UnitedKingdom;United Kingdom
+DominicanRepublic;Dominican Republic
+Russia;Russia
+SecretKeyColon;Secret Key:
+MultipleSelection;Multiple selection
+SimpleSelection;Simple selection
+SelectAll;Select all
+CronoServer;Crono server
+LocalServerColon;Local server:
+SierraLeone;Sierra Leone
+_ReadOnly;Read only
+Support;Support
+SqlServer;SQL Server
+SouthAfrica;South Africa
+Sweden;Sweden
+Switzerland;Switzerland
+Substitutions;Substitutions
+AccessTypeColon;Access type:
+TokenColon;Token:
+JobsColon;Jobs:
+Turkey;Turkey
+CurrentLocationColon;Current location:
+Uruguay;Uruguay
+UsernameColonNotLocalized;Username:
+UserOrGroupColon;User or group:
+UsersColon;Users:
+DefaultValueColon;Default value:
+Venezuela;Venezuela
+ShowDifferences;Show differences
+ShowDetailedError;Show detailed error
+ShowReport;Show report
+ShowExecutionLog;Show execution log
+ExpectedVersion;Expected version
+VersionColon;Version:
+SupportWebColon;Support web:
+AndUpperCase;Y
+NewBusinessItem;New business item
+ThereWasAnErrorDuringObjectVerification;There was an error during object verification.
+NewFolder;New folder
+NewItem;New item
+Right;Right
+Document;Document
+EditReport;Edit Report
+AwaitingElipsis;Awaiting...
+Browse;Browse
+EndDate;End date
+StartDate;Start date
+Filters;Filters
+Parameters;Parameters
+ForeignKeys;Foreign keys
+Views;Views
+TimeElapsedColon;Time elapsed:
+AuthorColon;Author:
+TitleColon;Title:
+NewQuery;New query
+Publish;Publish
+AskEnsureWantPublishThisDocumentPublicationLocationColonParameterTheDocumentWillBeSavedBeforePublishing;Are you sure you want to publish this document?||Publication location:|{0}||The document will be saved before publishing.
+CreatingMainWindow;Creating MainWindow
+AskWantDeleteAllSelectedBusinessItems;Do you want to delete all selected business items?
+ReportProperties;Report properties
+TheCatalogPathCannotBeLeftBlank;The catalog path cannot be left blank
+DefaultCredentials;Default credentials
+TheUserIsNotDefined;The user is not defined
+UpdatingElipsis;Updating...
+CurrentlyItIsNotPossibleToModifyDefaultIconsOfConditionalFormatsThisConditionalFormatMustBeDeletedIntColumnParameterBetweenParenthesesInOrderToSaveThisDocument;Currently it is not possible to modify the default icons of conditional formats.||This conditional formatting must be deleted in the column '{0}' in order to save this document.
+TheFileDoesNotExists;The file does not exists
+ThisVersionIsTooOldConsultWithYourSystemAdministratorToInstallANewerVersionOfCrono;This version is too old. Consult with your system administrator to install a newer version of Crono.
+FiltersOfThisSheet;Filters of this sheet
+WeCannotSaveParameterBetweenQuotesBecauseTheFileIsReadOnlyInOrderToSaveChangesSaveReportWithNewNameInDifferentLocation;We cannot save '{0}' because the file is read only.||In order to save your changes, save the report with a new name in a different location.
+FileUpperCase;FILE
+OpenLocation;Open location
+NewSite;New site
+ShowLog;Show log
+NewReport;New report
+InterfaceLanguageColon;Interface language:
+Application;Application
+IfFindErrorsInAnyTranslationHelpUsByWritingUsToInfoCronoDotNet;If you find errors in any translation help us by writing us to info@crono.net
+TestServer;Test server
+ThereAreUnsavedChangesAskEnsureWantCloseAndLoseChanges;There are unsaved changes, are you sure you want to close and lose the changes made?
+Rename;Rename
+CopyResult;Copy result
+ShowSql;Show SQL
+Result;Result
+CopySql;Copy SQL
+UsernameColon;Username:
+VariableNameColon;Variable name:
+SmtpServerColon;SMTP server:
+EnableSsl;Enable SSL.
+SenderEmailBetweenParenthesesColon;Sender (email):
+SenderNameBetweenParenthesesColon;Sender (name):
+VariableValueColon;Variable value:
+TestingSmtpServer;Testing SMTP server
+AskSaveChangesOfParameterBetweenQuotes;Save changes of '{0}'?
+CopyAllTablesNames;Copy all tables names
+ParameterRows;{0:N0} rows
+ParameterColumns;{0:N0} columns
+CopyTablesNames;Copy tables names
+CopyFieldsNames;Copy fields names
+AnUnexpectedErrorOccurredDuringConnectionStringCreation;An unexpected error occurred during the connection string creation.
+Display;Show
+YouMustSpecifyAValidNameForThisVariable;You must specify a valid name for this variable.
+AVariableWithThisNameAlreadyExists;A variable with this name already exists.
+SaveAll;Save all
+ParameterReadonlyBetweenSquareBrackets;{0} [read only]
+ExecuteAll;Execute All
+Authorizations;Authorizations
+CollapseAll;Collapse all
+CollapseChildren;Collapse children
+ManageAuthorizations;Manage authorizations
+ManageFolderAuthorizations;Manage folder authorizations
+ConvertToWebFolder;Convert into web folder
+CronoServerParameterHasBeenInstalledSuccessfully;Crono Server {0} has been installed successfully
+YouMustSpecifyTheServerName;You must specify the server name
+ErrorInstallingCronoServer;Error installing Crono Server
+InstallingCronoServer;Installing Crono Server
+TheSpecifiedServerUrlIsNotValid;The specified server url is not valid
+ServerProperties;Server properties
+SelectCronoServerFolder;Select crono server folder
+SelectTheVersionToInstall;Select the version to install
+ManagingAuthorizationsForTheDirectoryColon;Managing authorizations for the directory:
+ManageConnections;Manage connections
+LogDatabase;Log database
+LogDatabaseColon;Log database:
+ConfigurationFolderColon;Configuration folder:
+ContentFolderColon;Content folder:
+ServerFolderParenthesesIisApplicationColon;Server folder (IIS application):
+CheckStatus;Check status
+CheckTheDatabaseStructure;Check the database structure
+Content;Content
+TheServerIsWorkingCorrectly;The server is working correctly.
+GoogleClientIdColon;Google client ID:
+GoogleClientSecretColon;Google client secret:
+ServerInformation;Server information
+AuthenticationModeColon;Authentication mode:
+CannotConnectToTheServerColon;Cannot connect to the server:
+RequestCount;Request count
+InheritedPermissions;Inherited permissions
+RecordCronoServerActivityInALogDatabase;Record Crono Server activity in a log database.
+ActivityLog;Activity log
+LastConnection;Last connection
+ServerUrlColon;Server Url:
+User;User
+UserOrGroup;User or group
+ConnectedUsers;Connected users
+InstalledVersionColon;Installed version:
+NewGroup;New group
+TheHostHasNoAValidFormatTheSpacesAndCharactersColonBarAreNotAllowed;The host has no a valid format, the spaces and characters ':/' are not allowed.
+TheSelectedSiteIsAlreadyInTheList;The selected site is already in the list
+NoUserOrGroupHasBeenSelected;No user or group has been selected.
+NewUser;New user
+SiteProperties;Site properties
+TheUserNameMustBeEntered;The user name must be entered
+SelectTheSiteFolder;Select the site folder
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;If you select this option, the server will respond to all requests according to the first ""site"", without validating either the ""host"" or the authentication.
+AutoRouteCronoXmlFilesCxmlBetweenParentheses;Auto route Crono XML files (*.cxml)
+AutoRouteMarkdownFilesMdBetweenParentheses;Auto route markdown files (*.md)
+StartDocumentColon;Start document:
+IsADevelopementServerLocalhostBetweenParentheses;Is a development server (localhost)
+Enabled;Enabled
+EditSite;Edit site
+RouteColon;Route:
+Sites;Sites
+SitesColon;Sites:
+UsersAndGroups;UsersAndGroups
+ParameterAskWantToSelectANewPath;{0}|Do you want to select a new path?
+ErrorInsertingDataColonParameterParameter;Error inserting data:|{0}
+TheQueryOfDatainputValuesIsNotCorrectParameter;The query of datainput values ​​is not correct||{0}
+ThePanelWillBeOverwrittenAskWantContinue;The panel will be overwritten.||Do you want to continue?
+TitleBetweenHyphensExecutionUpperCase;----------------- EXECUTION -----------------
+DoubleHyphenEndTimeColonParameter;-- End time: {0}
+DoubleHyphenStartTimeColonParameter;-- Start time: {0}
+DoubleHyphenNumberOfRecordsColonParameter;-- Records count: {0}
+DoubleHyphenTotalTimeColonParameterSeconds;-- Total time: {0:N2} seconds
+ParameterPerhapsBeingUsedByAnotherProgram;{0} Perhaps it is being used by another program.
+ParameterPerhapsHasBeenMoverOrDeleted;{0} Perhaps it has been moved or deleted.
+ParameterNotDefined;{0} not defined.
+AskWantDeleteTheReportParameterBetweenQuotes;Do you want to delete the report '{0}'?
+AskWantToDeleteTheFolderParameterBetweenQuotesAndAllItsContents;Do you want to delete the folder '{0}' and all its contents?
+AskEnsureWantDeleteThisSheet;Are you sure you want to delete this sheet?
+AskEnsureWantDeleteThisPanel;Are you sure you want to delete this panel?
+DashboardOpeningDiscarded;Dashboard opening discarded
+EndActionExecutedSuccessfully;Action at the end executed successfully
+InitialActionExecutedSuccessfully;Initial action executed successfully
+ActionExecutedSuccessfully;Action executed successfully.
+EachRowActionExecutedSuccessfully;Each row action executed successfully
+ReportManager;Report manager
+WpfApplicationLoaded;WPF application loaded
+AuthenticationColonWindows;Authentication: Windows
+ApplicationLoadCompleted;Application load completed
+RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Remote catalog inaccessible ({0}). Check your internet connection and the remote catalog address.
+CreateDocumentWithCatalogParameterBetweenQuotes;Create a document with the catalog ""{0}""
+NetworkCredentialsColonParameter;Network credentials: {0}
+NetworkCredentialsColonNotSpecified;Network credentials: Not specified
+CronoServerInfoConnectedUserColonParameter;Crono server (info), Connected user: {0}
+CronoServerInfoIisUserDomainNameColonParameter;Crono server (info), IIS user domain name: {0}
+CronoServerInfoServerDomainNameColonParameter;Crono server (info), Server domain name: {0}
+WhenTwoDimensionsPieChartMapsOnlySupportsOneIndicator;When there are 2 dimensions, pie chart maps only support 1 indicator
+FromLeftToRight;From left to right
+YouMustChooseTheNameOfTheReport;You must choose the name of the report
+DomainColonParameter;Domain: {0}
+TheFileParameterBetweenQuotesDoesNotExists;The file '{0}' does not exists.
+TheSelectedFileIsTheSameOneCurrentlyOpen;The selected file is the same one that is currently open.
+TheSelectedFileDoesNotContainAnyReport;The selected file does not contain any report.
+TheCalendarNeedsADateDimension;The calendar needs a date dimension.
+TheCalendarRequiresAnyDataToShowInAdditionToTheDate;The calendar requires any information to show in addition to the date.
+TheCatalogParameterBetweenParenthesesIsBadDefined;The catalog '{0}' is bad defined.
+TheCatalogHasBeenModifiedByAnotherProgramAndHasBeenUpdatedSuccessfully;The catalog has been modified by another program and has been updated successfully.
+TheFunnelChartOnlySupportsOneDimensionAsMaximum;The funnel chart only supports one dimension as maximum
+TheReportWillBeImportedInAnUnexpectedPlace;The report will be imported in an unexpected place.
+ThePanelNameCannotBeLeftBlank;The panel name cannot be left blank.
+TheDatePickerCanOnlyBeRepresentedWithADateDimensionAndAnIndicator;The date picker can only be represented with a date dimension and an indicator
+TheGaugeCanOnlyBeRepresentedWhenThereIsOnlyOneValue;The gauge can only be represented when there is only one value
+ThisChartRequiresAtLeastOneDimension;This chart requires at least one dimension
+ThisChartRequiresAnIndicator;This chart requires an indicator
+ThisChartOnlyAllowsOneIndicator;This chart only allows one indicator
+ThisChartCanOnlyBeConstructedFromAGrographicalDimensionAndAnIndicator;This chart can only be constructed from a geographical dimension and an indicator
+ThisMapAtMostAcceptsTwoDimensions;This map at most accepts 2 dimensions
+ExcludeParameterInThisSheet;Exclude {0} in this sheet
+ExcludeParameterInThisReport;Exclude {0} in this report
+ThereWasAnErrorUpdatingTheChartDevelopersAlreadyNotified;There was an error updating the chart. The developers have already been notified.
+ThereWasAnErrorDrawingTheChartColon;There was an error drawing the chart:
+ThereWasAnErrorDrawingTheChartLabelsColon;There was an error drawing the chart labels:
+ThereWasAnErrorFinalizingTheChartColon;There was an error finalizing the chart:
+ThereAreTooManyArgumentsToRepresentTheChart;There are too many arguments to represent the chart
+ReportParameter;Report {0}
+TheSheetParameterHasAlreadyBeenInitialized;The sheet {0} has already been initialized
+ThePivotTableAsMaximumAllowsTwoDimensions;The pivot table as maximum allows two dimensions
+ThePivotTableNeedsAnIndicator;The pivot table needs an indicator.
+ThePivotTableOnlyAllowsOneIndicatorWheItIsShownWithTwoDimensions;The pivot table only allow one indicator when it is shown with two dimensions
+TheDataOfTheDimensionParameterAreNotDates;The data of the dimension {0} are not dates
+ScatterChartsAtMostAllowThreeIndicatorsInOrderToShowTheXAxysYAxisAndThickness;Scatter charts at most allow three indicators in order to show X axis, Y axis and thickness
+ScatterChartsNeedAtLeastTwoIndicatorsInOrderToShowTheXAxisAndYAxis;Scatter charts need at least two indicators in order to show the X axis and Y axis
+StockChartsNeedOneDimensionAndThreeOrFourIndicators;Stock charts need one dimension and three or four indicators
+TheReportsDoNotUseTheSameCatalogs;Reports do not use the same catalogs.
+PieChartsMapsNeedAtLeastOneIndicator;Pie charts maps need at least one indicator
+MapsRequireOneGeographicDimension;Maps require 1 geographic dimension
+ItWasNotPossibleToAccessTheDocumentCatalog;It was not possible to access the document catalog.
+ItWasNotPossibleToObtainTheCoordinatesListForTheDimensionParameterBetweenQuotes;It was not possible to obtain the coordinates list for the dimension '{0}'
+ThereIsNotEnoughDataToRepresentAChart;There is not enough data to represent a chart
+TheAttributeToLinkParameterWithTheMapHasNotBeenSpecifiedInTheCatalog;The attribute to link {0} with the map has not been specified in the catalog
+TheIdFieldToLinkParameterWithMapHasNotBeenSpecifiedInTheCatalog;The id field to link {0} with the map has not been specified in the catalog
+TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;The latitude field for {0} has not been specified in the catalog
+TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;The length field for {0} has not been specified in the catalog
+TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;The map route for the dimension {0} has not been specified in the catalog
+CouldNotOpenTheCatalogParameterBetweenQuotes;Could not open the catalog '{0}'.
+CouldNotOpenTheDocumentParameterBetweenQuotes;Could not open the document ""{0}""
+CouldNotOpenTheDocument;Could not open the document.
+CouldNotConnectToTheServer;Could not connect to the server.
+CouldNotGenerateTheDashboardContent;Could not generate the dashboard content.
+CouldNotGenerateTheMap;Could not generate the map.
+NoChangesDetected;No changes detected
+ThisViewCannotBeRepresentedBecauseIndicatorReturnsNonNumericalData;This view cannot be represented because an indicator returns non-numerical data
+CannotRepresentAnyKindOfChartWithMoreThanTenThousandRecords;Cannot be represented any kind of chart with more than 10,000 records
+CannotRepresentBarOrPieChartsWithMoreThanThousandRecords;Cannot be represented bar or pie charts with more than 1,000 records.
+CannotBeRepresentedMapsWithMoreThanTwoThousandRecords;Cannot be represented maps with more than 2,000 records.
+NewCalculatedItem;New item calculated
+AnErrorOccurredWhileReadingTheFile;An error occurred while reading the file.
+PropagationToAllPanels;Propagation to all panels
+DocumentProperties;Document properties
+ItemProperties;Item properties
+PathColonParameter;Path: {0}
+AReportMustBeSelected;A report must be selected.
+TheCatalogOfThisDocumentHasBeenUpdatedThisUsuallyOccursWhenChangesOrImprovementsPublishedOnServer;The catalog of this document has been updated.¬ ¬ This usually occurs when changes or improvements are published on the server.
+TheReferenceToThePanelManagerHasBeenLost;The reference to the panel manager has been lost.
+TheReferenceToThePanelControllerHasBeenLost;The reference to the panel controller has been lost.
+TheReferenceToThePanelHasBeenLost;The reference to the panel has been lost.
+SelectParameterInThisSheet;Select {0} in this sheet
+SelectParameterInThisReport;Select {0} in this report
+SelectTheFileFromWhichWantImportTheReport;Select the file from which you want to import the report
+SelectTheReportToImport;Select the report to import
+ServerColonParameter;Server: {0}
+UndefinedChartType;Undefined chart type
+NotImplementedPanelType;Not implemented panel type
+TypeColonParameter;Type: {0}
+CustomPopupWindow;Custom popup window
+Area;Area
+SplineArea;Spline area
+StepArea;Step area
+Bar;Bar
+CleanWhite;Clean white
+MagicLight;Magic light
+FlatLight;Flat light
+Classic;Classic
+DataInputColumn;Data input column
+DbConnection;DB connection
+Cosmic;Cosmic
+Day;Day
+WhereToSave;Where to save
+Echo;Echo
+SecondaryYAxis;Secondary Y axis
+ManualEntry;Manual entry
+SingleDate;Single date
+Futuristic;Futuristic
+QueriesHistory;Queries history
+SheetParameter;Sheet {0}
+ImportReport;Import report
+StartAndEnd;Start and end
+Intelligent;Intelligent
+IStyle;iStyle
+Line;Line
+Spline;Spline
+Timeline;Timeline
+StepLine;Step line
+Month;Month
+FlatDark;Flat dark
+Progressive;Progressive
+SheetProperties;Sheet properties
+PanelProperties;Panel properties
+RedClock;Red clock
+DropDownSelector;Drop down selector
+Week;Week
+CompleteWeek;Complete week
+Workweek;Workweek
+WithoutDataInput;Without data input
+WithoutPropagation;Without propagation
+YellowSubmarine;Yellow submarine
+SerieType;Serie type
+TypeColonCronoServer;Type: Crono server
+TypeColonDirect;Type: Direct
+DefaultValue;Default value
+PopupWindow;Popup window
+UserItems;User items
+Below;Below
+BusinessActionsColon;Business actions:
+UpdateReport;Update report
+AllowsDataInputColon;Allows data input:
+AdjustWidthAutomatically;Adjust width automatically
+AtTheEnd;At the end
+AtTheBeginning;At the beginning
+AlternateRowsColor;Alternate rows color
+Donut;Donut
+NestedDonuts;Nested donuts
+AnimateGraphic;Animate graphic
+StackedAreas;Stacked areas
+FullStackedAreas;Full stacked areas
+SplineAreas;Spline areas
+StepAreas;Step Areas
+ArgumentsSwapped;Arguments swapped
+DragHereToCreateASheetFilter;Drag here to create a sheet filter.
+Above;Above
+AdvancedPluralMale;Advanced
+StackedBars;Stacked bars
+FullStackedBars;Full stacked bars
+LockQueryParenthesesPreventsAddingRemovingColumnsAndFilters;Lock query (prevents from adding or removing columns and filters)
+LockReport;Lock report
+DeleteSelection;Delete selection
+ChangeName;Rename
+Car;Car
+Colors;Colors
+MergeCells;Merge cells
+CustomQueryOfValuesColon;Custom query of values:
+CopyAsService;Copy as service
+CopyData;Copy data
+LocalDocuments;Local documents
+DuplicateSheet;Duplicate sheet
+DuplicatePanel;Duplicate panel
+EditCube;Edit cube
+QueriesEditor;Queries editor
+DeleteReport;Delete report
+Funnel;Funnel
+InTheRow;In the row
+ReadOnlyDocumentColon;Read only document:
+StyleColon;Style:
+Stock;Stock
+FilterThisColumnInDependantPanels;Filter this column in dependant panels
+SaveToServer;Save in the server
+History;History
+Sheet;Sheet
+HorizontalPlural;Horizontal
+ImageParentheses32x32Colon;Image (32x32):
+DebugInformation;Debug information
+ClearQuery;Clear query
+Splines;Splines
+StepLines;Step lines
+MapUpperCase;MAP
+InputModeColon;Input mode:
+PropagationMode;Propagation mode
+PropagationModeToOtherPanelsOfThisSheet;Propagation mode to other panels of this sheet:
+RepresentationMode;Representation mode
+ShowGrouping;Show grouping
+ShowColumnHeaders;Show column headers
+ShowRowHeaders;Show row headers
+ShowNavigationControls;Show navigation controls
+ShowCoordinates;Show coordinates
+ShowSearchBox;Show search box
+ShowDetails;Show details
+ShowScale;Show scale
+ShowLabels;Show labels
+ShowFilters;Show filters
+ShowLegend;Show legend
+ShowPositionLines;Show position lines
+ShowHorizontalLines;Show horizontal lines
+ShowVerticalLines;Show vertical lines
+ShowPoints;Show points
+AlwaysShowZero;Always show zero
+ShowColumnSubtotals;Show column subtotals
+ShowRowSubtotals;Show row subtotals
+ShowAllRowsParenthesesShowAllRecordsEvenThoseWithoutData;Show all rows (show all records, even those without data)
+ShowColumnTotals;Show column totals
+ShowRowTotals;Show row totals
+NumberOfColorsColon;Number of colors:
+NewSheet;New sheet
+NumberOfScalesColon;Number of scales:
+OptionsUpperCase;OPTIONS
+ColorPalette;Color palette
+ChartColorPaletteColon;Chart color palette:
+ForEachRow;For each row
+Paste;Paste
+AllowAddRecords;Allow add records
+AllowDeleteRecords;Allow delete records
+AllowChangeTheTableSortingParenthesesToPreventSortingByClickingColumn;Allow change the table sorting (to prevent sorting by clicking on a column)
+AllowFilterTheQueryResultParenthesesHidesOrShowsTheFilterIconThatAppearsLeavingTheCursorOnColumnHeader;Allow filter the query result (it hides or shows the filter icon that appears when leaving the cursor on the column header)
+AllowReorderTheColumnsParenthesesToPreventUnintentionalModificationOfTheQuery;Allow reorder the columns (to prevent unintentional modification of the query)
+AllowHorizontalZoom;Allow horizontal zoom
+AllowVerticalZoom;Allow vertical zoom
+PropagateSelectionToOtherPanels;Propagate selection to other panels
+Recents;Recents
+ReturnedRecords;Returned records
+MandatorySelectionParenthesesPreventsDependantPanelsFromBeingExecutedUnlessThereIsAnyFieldSelected;Mandatory selection (prevents dependant panels from being executed unless there is any field selected)
+DatePicker;Date picker
+SemiCircular;Semi circular
+DynamicTable;Dynamic table
+PivotTable;Pivot table
+SizeProportionalToTheIndicator;Size proportional to the indicator
+Cards;Cards
+Time;Time
+ChartType;Chart type
+ViewType;View type
+ColumnSubtotalLocation;Column subtotal location
+RowSubtotalLocation;Row subtotal location
+UseComputerConnectionParenthesesIfAvailable;Use computer connection (if available)
+MaximumValueColon;Maximum value:
+MinimumValueColon;Minimum value:
+Candle;Candle
+GaugeUpperCase;GAUGE
+Gauges;Gauges
+Verticals;Verticals
+Visualization;Display
+FlipColors;Flip colors
+FolderName;Folder name
+AcceptChanges;Accept changes
+Areas;Areas
+Bars;Bars
+Bubbles;Bubbles
+Pie;Pie
+DataInput;Data input
+Scatter;Scatter
+DeleteRow;Delete row
+Reports;Reports
+Left;Left
+Lines;Lines
+Map;Map
+Points;points
+Circular;Circular
+ThisReportDoesNotHasCatalogSpecifyTheCatalogInOrderToUseTheReport;This report does not has catalog. Specify the catalog in order to use the report.
+ShowSheets;Show sheets
+HideSheets;Hide sheets
+CurrentlyOnlyUniqueProjectsAreSupportedTwo;Currently only unique projects are supported.2
+SomethingIsNotRightParameterBetweenParentheses;Something is not right ({0}).
+SomethingWentWrongParameterBetweenParenthesesParameterBetweenParentheses;Something went wrong ({0}) ({1}).
+ApplyingTemplateToTheTestFile;Applying template to the test file
+LoadingCssElipsis;Loading css...
+LoadingJsElipsis;Loading js...
+CleanColonDeleteBinFolders;Clean: Delete BIN folders
+CompileParameterBetweenQuotes;Compile '{0}'
+TheCodeSigningCertificateCertificcateNameBetweenParenthesesMustBeSpecified;The code signing certificate (CertificateName) must be specified
+RunTestsColonParameterProjects;Run tests: {0} projects
+TheFileHasNotBeenSignedColon;The file has not been signed:
+TheFileIsAlreadySignedColon;The file is already signed:
+TheAssemblyNameMustNotContainSpacesOrDots;The assembly name must not contain spaces or dots.
+ItIsNecessaryToCompileColon;It is necessary to compile:
+ThisProjectDoesNotHaveTheTestProjectDefined;This project does not have the Tests project defined.
+APublishedVersionAlreadyExists;A published version already exists  ({0}).
+GenerateParameter;Generate {0}
+GeneratingTemplateElipsis;Generating template...
+MoreTests;More tests
+MergeColonInParameter;Merge: In {0}
+TheOrganizationCompanyBetweenParenthesesIsNotInformed;The organization (Company) is not informed
+ItDoesNotExistsTheFileParameterBetweenQuotes;The file '{0}' does not exists
+TheEnvironmentFileDoesNotExists;The environment file does not exist ({0})
+TheEulaParenthesesEndUserLicenseAgreementFileDoesNotExistsOrHasNotBeenDefined;The EULA (End User License Agreement) file does not exist or has not been defined.
+NotExistsColonParameter;Not exists: {0}
+PropertyPArameterBetweenQuotesasNotBeenProperlyAssignedInParameter;Property '{0}' has not been properly assigned in {1}
+TheTrxFileOfResultsHasNotBeenCreatedColon;The TRX file of results has not been created:
+TheFileHasNotCreatedColon;The file has not created:
+TheFolderHasNotBeenCreated;The folder has not been created:
+TheContentSeedHasNotBeenCreated;The content seed has not been created:
+NotCreated;Not created: {0}
+CannotFindParameterBetweenQuotesNiParameterBetweenQuotes;Could not find '{0}' nor '{1}'
+TheGitDirectoryHasNotBeenSpecified;The GIT directory has not been specified.
+TheEnUserLicenseAgreementEulaBetweenParenthesesFileHasNotBeenSpecified;The End User License Agreement (EULA) file has not been  specified
+TheNugetDotExeLocationHasNotBeenSpecified;The nuget.exe location  has not been specified
+TheReleaseModeHasNotBeenSet;The ReleaseMode has not been set.
+TheUpgradeCodeHasNotBeenSet;The UpgradeCode has not been set.
+TheBackupFolderHasNotBeenSet;The backup folder has not been set
+ItHasNotBeenSigned;It has not been signed
+TheExecutableHasNotBeenSignedColon;The executable has not been signed:
+TheThemeAssemblyHasNotBeenGenerated;The theme assembly has not been generated.
+TheMsiFileHasNotBeenGenerated;The MSI file has not been generated.
+TheWixobjFileHasNotBeenGenerated;The WIXOBJ file has not been generated.
+TheWxsFileHasNotBeenGenerated;The WXS file has not been generated.
+LaunchApplicationOnFinishWasNotReportedCorrectly;LaunchApplicationOnFinish has not been reported correctly
+TheManofacturerOfTheMsiCompanyBetweenParenthesesHasNotBeenInformed;The Manufacturer of the MSI (Company) has not been informed
+TheFileHasNotBeenModifiedCorrectly;The file has not been modified correctly:
+TheReleasesFileHasNotBeenModified;The RELEASES file has not been modified
+TheFolderParameterHasNotBeenFound;The folder {0} has not been found
+TheLibraryHasNotBeenObfuscatedColon;The library has not been obfuscated:
+CouldNotDetermineTheAssemblyNameParameterBetweenParentheses;Could not determine the assembly name ({0})
+CouldNotDetermineTheFinalVersion;Could not determine the final version
+CouldNotDetermineTheInitialVersion;Could not determine the initial version
+TheGitCredentialsHaveNotBeenSpecified;The GIT credentials have not been specified.
+CouldNotDownloadTheLogs;Could not download the logs
+NotAllTestsHaveBeenPassed;Not all tests have been passed ({0}).
+CannotUploadTheFileBecauseItDoesNotExists;Cannot upload the file because it does not exists.
+NotAllProjectsHaveTheSameVersion;Not all projects have the same version.
+NugetSpecDoesNotHaveTheExpectedFormat;NugetSpec does not have the expected format.
+NugetPackageColonParameter;Nuget package: {0}
+InstalledPrograms;Installed programs
+PropertyParameterBetweenQuotesNotFoundInParameter;Property '{0}' not found in {1}
+SetVersionVersionUpperCasseBetweenSquareBracketsParenthesesParameterProjects;Set version [VERSION] ({0} projects)
+SetVersionParameterParenthesesParameterProjects;Set version {0} ({1} projects)
+SetVersionColonFromParameterToParameterParenthesesInParameterProjects;Set Version: From {0} to {1} (in {2} projects)
+TheReleaseFileIsOnlyUpdatedInDeployMsiAllUpperCase;THE RELEASE FILE IS ONLY UPDATED IN DEPLOY MSI
+ItIsOnlyAllowedTransformToHtmlFromTestResultFileDotTrxBetweenParentheses;It is only allowed to transform to HTML from a test result file (.trx)
+ReplaceTheMainColorWithParameter;Replace the main color with {0}
+TrxerColonCreateParameter;Trxer: Create {0}
+TheFileAlreadyExistsColon;The file already exists:
+TheAssemblyNameCannotContainSpacesNorDots;The assembly name cannot contain spaces nor dots
+CredentialsAreMissingToPublishTheCalendar;Credentials are missing to publish the calendar
+Customer;Cutomer
+PurchaseInvoice;Purchase invoice
+Provider;Provider
+NewCompanySl;New company SL
+PageParameterBetweenParenthesesColonParameterXParameterPx;- Page ({0}): {1}x{2}px
+AskEnsureWantDeleteParameterBetweenQuotes;Are you sure you want to delete '{0}'?
+Period;Period
+TheCustomerMustHaveACode;The customer must have a code.
+TheLoadedReportNotUseSameCatalogAsCurrentReportAskWantContinueLoading;The loaded report does not use the same catalog as the current report.|Do you want to continue loading?
+ThePeriodMustHaveACode;The period must have a code.
+TheProviderMustHaveACode;The provider must have a code.
+TheReceibtMustHaveACode;The receipt must have a code.
+GeneratingPdfOfParameterPages;Generating PDF of {0} pages.
+ReportLoadedSuccessfully;Report loaded successfully.
+TheInvoiceMustHaveACode;The invoice must have a code.
+TheSerieMustHaveACode;The serie must have a code
+CouldNotLoadTheReport;The report could not be loaded
+TheActionNameMustBeSpecified;The action name must be specified.
+TheInvoiceDateMustBeSpecified;The invoice date must be specified
+TheReceibtDateMustBeSpecified;The receibt date must be specified
+AnItemMustBeSelected;An item must be selected.
+SelectTheReportFile;Select the report file
+SelectAnItem;Select an item
+Serie;Serie
+CustomerColon;Customer:
+Customers;Customers
+ClientCodeColon;Client code:
+PeriodCodeColon;Period code:
+ProviderCodeColon;Provider code:
+SerieCodeColon;Serie code:
+CompanyCodeColon;Company code:
+Connect;Connect
+ConfigureScanner;Configure scanner
+Disconnect;Disconnect
+DocumentsDirectory;Documents directory
+DocumentColon;Document:
+PeriodColon;Period:
+Periods;Periods
+Company;Company
+ItIsCurrentPeriod;It is current period
+ScanDocument;Scan document
+PurchaseInvoices;Purchase invoices
+AmountColon;Amount:
+ReportColon;Report:
+NewFeminine;New
+CollectionNumberColon;Collection number:
+InvoiceNumberColon;Invoice number:
+ReceiptNumberColon;Receipt number:
+ProviderColon;Provider:
+Providers;Providers
+CollectionReceipts;Collection Receipts
+PaymentReceipts;Payment receipts
+SummaryColon;Summary:
+SerieColon;Serie:
+Series;Series
+DocumentTypeColon;Document type:
+ShowDocument;Show document
+ImageColon;Image:
+SelectAlreadyExistingDocument;Select already existing document
+SelectLocalDocument;Select local document
+CouldNotExecuteTheReportDueTheFollowingErrorColonParameter;Could not execute the report due the following error:||{0}
+ThereWasAnErrorRenamingTheFileColonParameter;There was an error renaming the file:||{0}
+ItWasNotPossibleToOpenTheProjectColonParameter;It was not possible to open the project:||{0}
+TheProcedureParameterBetweenQuotesHasNotBeenFoundCheckNoErrorInFileWhereIsDefined;The procedure '{0}' has not been found.|Check that there is no error in the file where it is defined.
+TheFollowingFilesHaveBeenRestoredColonParameter;The following files have been restored:||{0}
+GeneralBetweenParentheses;(General)
+ParameterParenthesesLineParameter;{0} (line {1})
+ParameterFiles;{0} files
+ParameterVisibles;{0} visibles
+ParameterVisible;{0} visible
+DoubleHyphenParameter;--{0}
+AskEnsureWantDeleteTheFile;Are you sure you want to delete the file?
+AskWantRenameThisFileToParameter;Do you want to rename this file to '{0}'?
+ManageEnvironments;Manage environments
+Files;Files
+ProjectFiles;Project files
+AttributesOfParameter;Attributes of {0}
+AutoRename;Auto rename
+DeleteParameterColumns;Delete {0} columns
+DeleteParameterRelationships;Delete {0} relationships
+Load;Load
+CloseAll;Close all
+CloseAllSaved;Close all saved
+CloseAllTemporals;Close all temporals
+CopyingSiteResources;Copying the site resources
+ConvertTo;Convert to
+CreatingTheHtmlFile;Creating the html file
+CronoEtlCannotDetermineADefaultNameForThisFile;Crono ETL cannot determine a default name for this file
+YouMustSelectAnEnvironment;You must select an environment
+DropProcedureParameter;DROP PROCEDURE {0}
+DropTableParameter;DROP TABLE {0}
+DropViewParameter;DROP VIEW {0}
+EditSQLFreely;Edit SQL freely
+SqlEditor;SQL editor
+ExecuteThisJob;Execute this job
+TheSelectedDirectoryIsAlreadyAWebDirectory;The selected directory is already a web directory.
+TheFileNameAlreadyMatchesTheDefaultName;The file name already matches the default name.
+TheProcedureParameterBetweenQuotesNotFoundProbablyHasBeenDeletedOrRenamedUpdateOneLevelAboveElipsis;The procedure '{0}' has not been found, probably it has been deleted or renamed, update one level above...
+TheProcedureDoesNotExist;The procedure does not exist.
+TheParentProcedureCannotBeNull;The parent procedure cannot be null.
+TheProjectHasBeenModifiedByExternalApplicationAtThisTimeIsRecommendedCloseAndReopenProject;The project has been modified by an external application, at this time, it is recommended to close and reopen the project
+ErrorReloadingTheFile;Error reloading the file.
+ThisProjectDoesNotHaveMainProcedure;This project does not have MAIN PROCEDURE.
+ThisProjectHaveSeveralMainProcedure;This project has several MAIN PROCEDURE.
+Strategy;Strategy
+ExcludeFromTheProject;Exclude from the project
+ExecuteFromHere;EXECUTE from here
+HtmlFileCreatedSuccessfully;HTML file created successfully
+_Function;Function
+GeneratingFile;Generating file
+GeneratingHtml;Generating HTML
+GenerateStaticWeb;Generate static web
+TheGenerationOfTheStaticWebHasFinished;The generation of the static web has finished.
+ExecutionHistory;Execution history
+ProjectImplementation;Project implementation
+ImplementParameter;Implement {0}
+ImplementFlow;Implement flow
+ImplementFlowAndExecute;Implement flow and execute
+ImplementProject;Implement project
+ImplementProjectAndExecute;Implement project and execute
+IncludeInTheProject;Include in the project
+Index;Index
+Indices;Indices
+SqlReports;SQL reports
+RepeatedInstruction;Repeated instruction
+GoToDefinition;Go to definition
+LineParameterColumnParameter;Line {0}, Column {1}
+TheNamesOfTheTablesOfThisDatabaseHaveBeenCopiedIntoTheClipboard;The names of the tables of this database have been copied into the clipboard.
+TheNamesOfTheTablesOfThisSchemeHaveBeenCopiedIntoTheClipboard;The names of the tables of this scheme have been copied into the clipboard.
+TheNamesOfTheFieldsOfThisTableHaveBeenCopiedIntoTheClipboard;The names of the fields of this table have been copied into the clipboard.
+TheFollowingParameterFilesHaveCrossDependenciesColon;The following {0} files have cross dependencies:
+ShowProjectFiles;Show project files
+ShowDiagram;Show diagram
+ShowCallFlowOfTheMainProcedures;Show call flow of main procedures
+ShowProcedureList;Show procedure list
+ItIsNotPosibleToSortTheFilesOfThisDeploy;It is not possible to sort the files of this deploy.
+ItIsNotPossibleToAutomaticallyRenameThisFileAnotherFileCalledParameterBetweenParenthesesAlreadyExists;It is not possible to automatically rename this file. Another file called '{0}' already exists
+DoesNotExistsSelectedProject;Does not exists selected project.
+ItWasNotPossibleToObtainTheKeyListOfTableParameter;It was not possible to obtain the key list of the table {0}
+ItWasNotPossibleToObtainTheColumnListOfTableParameter;It was not possible to obtain the column list of the table {0}
+CatalogNotDefined;Catalog not defined
+NoItemWithIdParameterBetweenQuotesHasBeenFound;No item with id '{0}' has been found
+TheVisualizationModeParameterHasNotBeenImplemented;The visualization mode {0} has not been implemented
+CouldNotOpenProjectColonParameterBetweenQuotes;Could not open project: '{0}'
+CouldNotGenerateTheWeb;Could not generate the web.
+CannotCreateTheFileWithTheEnteredParameters;You cannot create the file with the entered parameters.
+CannotRenameFileBecauseAnotherFileNamedParameterBetweenQuotesAlreadyExists;Cannot rename this file because another file named '{0}' already exists.
+AttributeName;Attribute name
+NewColumn;New column
+NewPage;New page
+NewAttribute;New attribute
+NewJob;New job
+Sources;Sources
+Others;Others
+Pages;Pages
+ProblemParsingColonParameter;Problem parsing: {0}
+Procedure;Procedure
+Procedures;Procedures
+ReloadingSiteComponents;Reloading site components
+Restriction;Restriction
+Restrictions;Restrictions
+Routes;Routes
+TheItemIdMustBeSpecified;The item id must be specified.
+AnEnvironmentMustBeSelected;An environment must be selected.
+ASiteMustBeSelected;A site must be selected.
+ATemporaryCopyOfTheModifiedFilesHasBeenSavedCanRecoverFilesNextTimeOpenThisProject;A temporary copy of the modified files has been saved, you can recover these files the next time you open this project.
+TheStaticWebGenerationHasStarted;The static web generation has started.
+SelectTheWebOfTheNewFile;Select the web of the new file
+SelectTheKeysToDelete;Select the keys to delete
+SelectTheColumnsToDelete;Select the columns to delete
+FileSizeBytesBetweenParentheses;File size (bytes)
+Tasks;Tasks
+TemporaryParameter;Temporary {0}
+HasErrors;Has errors
+Jobs;Jobs
+TruncateTableAndDependencies;TRUNCATE TABLE and dependencies
+UseTableRow;Use TABLE ROW
+Variables;Variables
+Show;Show
+Web;Web
+ParenthesesNoneSelected;(None selected)
+OpenWindowsTaskScheduler;Open Windows Task Scheduler
+OpenProject;Open project
+OpenElipsis;Open...
+AttributesColon;Attributes:
+ChangeType;Change type
+JobsFolderColon;Jobs folder:
+Code;Code
+SmtpAccount;SMTP account
+Details;Details
+ExecuteMainProcedure;Execute main procedure
+DeleteEnvironment;Delete environment
+ProjectEnvironment;Project environment
+EndTimeColon;End time:
+StartTimeColon;Start Time:
+Implementation;Implementation
+ImplementMainProcedure;Implement main procedure
+ImplementMainProcedureAndExecute;Implement main procedure and execute
+Bottom;Bottom
+Instruction;Instruction
+CheckBoxesOfButtonsYouWantToUseInProject;Check the boxes of those buttons you want to use in your project
+EditEnvironment;Edit environment
+NavigateBackwards;Navigate backwards
+NavigateForward;Navigate forward
+ItIsNotPossibleRepresentDiagramOfThisTypeOfQuery;It is not possible to represent the diagram of this type of query
+NewSqlAction;New SQL action
+NewProject;New project
+NewEtlProject;New ETL project
+ProcedureColon;Procedure:
+Processes;Processes
+ComponentPropertiesColon;Component roperties:
+Project;Project
+RecentProjects;Recent projects
+UrlPathOfThePageColon;URL path of the page:
+EnvironmentSubstitutionsColon;Environment substitutions:
+Text;Text
+Components;Components
+DeleteTableAndDependences;DELETE TABLE and dependences
+DropTableAndDependences;DROP TABLE and dependences
+ThereAreColumnsThatUseQueryFieldsThatHaveBeenDeletedAskWantDeleteTheseColumns;There are columns that use query fields that have been deleted.|Do you want to delete these columns?||{0}
+TheFollowingPropertiesWillBeLostAskChangeToParameterLineBreakParameter;The following properties will be lost.|Change to {0}?||{1}
+TheNameOfTheUpdateDateColumnIsNotValid;The name of the update date column is not valid.
+TheNameOfTheDeleteDateColumnIsNotValid;The name of the delete date column is not valid.
+TheNameOfTheInsertDateColumnIsNotValid;The name of the insert date column is not valid.
+AuditFields;Audit fields
+UpdateDateColon;Update date:
+DeletionDateColon;Deletion date:
+InsertionDateColon;Insertion date:
+EtlOptions;ETL options
+TheFolderParameterBetweenQuotesDoesNotExist;The folder '{0}' does not exist.
+Environments;Environments
+NewEnvironment;New environment
+TheFileNoLongerExists;The file no longer exists.
+ThisFileTypeCannotBeEditedWithCronoEtl;This file type cannot be edited with Crono ETL.
+LimitResultsCountToColon;Limit results count to:
+AllowSavingFilesWithSyntaxErrors;Allow saving files with syntax errors.
+EnvironmentProperties;Environment properties
+CopyFolderPath;Copy folder path
+ANameForThisEnvironmentMustBeEstablished;A name for this environment must be established.
+DuplicateEnvironment;Duplicate environment
+CloseAllButThis;Close all but this
+CannotCreateNewProjectInSelectedPathBecauseAlreadyContainsProjectOrItIsInsideAnotherProject;Cannot create a new project in the selected path because It already contains a project or it is inside another project
+NoProjectExistsInTheSelectedPathAskCreateItNow;No project exists in the selected path. Create it now?
+CopyFileFullPath;Copy file full path
+CopyFileName;Copy file name
+OpenFileLocation;Open file location
+TheFileParameterBetweenQuotesHasBeenModifiedFromAnotherApplicationAskWantReloadFile;The file '{0}' has been modified from another application. Do you want to reload the file?
+ReloadFromDisc;Reload from disc
+AskEnsureWantReloadFileAndLoseChanges;Are you sure you want to reload the file and lose changes?
+YoMustSaveChangesBeforeSettingThisFileOnReadonlyMode;You must save changes before setting this file on read-only mode.
+TheFileParameterBetweenQuotesContainsSyntaxErrors;The file '{0}' contains syntax errors.
+AskEnsureWantSaveItWithErrors;Are you sure you want to save it with errors?
+ItIsNotPossibleToSaveTheFileParameterBetweenQuotesBecauseItContainsSyntaxErrorsCheckCodeAndTryItAgain;It is not possible to save the file '{0}' because it contains syntax errors. Check the code and try it again.
+YouCanChangeThisSettingFromTheProjectProperties;You can change this setting from the project properties.
+ProjectProperties;Project properties
+OneRow;1 row
+OneColumn;1 column
+AnErrorOccurredDuringQueryExecution;An error occurred during query execution.
+QueryExecutedSuccessfullyAt;Query executed successfully at
+ThereWasAProblemGettingTheDataFromParameter;There was a problem getting the data from||{0}
+CouldNotReadOrAddTheXmlSchemaOfTheTable;Could not read or add the XML schema of the table.||{0}
+LoadingCronoBindings;Loading crono bindings
+TheFilePropertyMustBeSpecified;The 'File' property must be specified
+TheOutputPropertyMustBeSpecified;The 'Output' property must be specified
+UnexpectedErrorTheCatalogOfTheQueryHasNotBeenLocated;Unexpected error. The catalog of the query has not been located.
+ItIsNotPosibleToEditThisQuery;It is not possible to edit this query.
+CouldNotLocateTheMappingParameter;Could not locate the mapping {0}
+CouldNotReestablishTheFilterThatThereWasInTheCoulumnParameter;Could not reestablish the filter that there was in the column {0}
+CannotEditTheCurrentTableBecauseItWasNotGeneratedWithCronoExcel;The current table cannot be edited because it was not generated with Crono Excel
+WorkbookProperties;Workbook properties
+Loads;Loads
+SourceTableNameColon;Source table name:
+DestinationTableName;Destination table name:
+PreprocessCodeColon;Preproccess code:
+PostprocessCodeColon;Postprocess code:
+CouldNotFindTableParameterBetweenQuotesInThisWorkbook;Could not find table '{0}' in this workbook.
+ThereIsAProblemWithThePreprocessCode;There is a problem with the preprocess code.
+ThereIsAProblemWithThePostprocessCode;There is a problem with the postprocess code.
+TimeTableUsageInformation;The configuration of the time table is used to calculate TD, YTD, QTD and MTD values. Once the time table is defined, the functions td(), ytd(), qtd() and mtd() can be used in the catalog.||This functionality requires that the database support the ANSI syntax (including the WITH clause and the OVER window functions).
+GeographicalDimensionsUsageInformation;Geographical dimensions allow to create map type graphics. There are three types of maps that can be represented: Bubble, pie, or colored regions.||The latitude and longitude of each dimension value will be used to make the geographic graphs of bubble type and pie type. The custom map is used to identify the shapes of each region in the colored maps.
+TimeTableFieldsOrderUsageInformation;Select and sort the relevant fields for time ordering (Example: Year, semester, quarter, num_month, date, day).|This information will be used to calculate the temporary accumulations (TD, YTD, QTD, MTD).
+AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificationTimeColonParameterSeconds;Do you want to verify these {0} joins?|Last verification date: {1}|Last verification time: {2} seconds
+CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Calculating data type of the business items.|This action is only necessary once per catalog.
+TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;The current diagram is already using the table '{0}'.||Do you want to choose a new alias for the table '{1}'?
+TheFollowingTablesAreOutdatedColonParameter;The following tables are outdated:|{0}
+ProblemCheckingParameterParameter;Problem checking {0}|{1}|
+ParameterBetweenQuotesSuccessfullyVerified;'{0}' successfully verified
+AskWantToUpdateThem;Do you want to update them?
+AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;Are you sure you want to delete this star: '{0}'?
+UpdateTables;Update tables
+SomeBusinessItemIsNotValidUseFunctionalityVerifyBusinessItemsToLearnMoreDetails;Some business item is not valid. Use the functionality verify business items to learn more details.
+SomeNestedObjectContainsErrors;Some nested object contains errors
+SomeJoinHasVerificationProblems;Some joins has verification problems.
+_Alias;Alias
+ChangeTheAliasOfThisTable;Change the alias of this table
+ChangeItemType;Change item type
+Fields;Fields
+ImportedFields;Imported fields
+CountValues;Count values
+ConvertToIndicator;Convert to indicator
+ConvertIntoIndicators;Convert to indicators
+Coordinates;Coordinates
+CreateSnowflake;Create snowflake
+CreateSnowflakeParenthesesWithAlias;Create snowflake (with alias)
+DataProfile;Data profile
+YouMustSpecifyANameForThisFolder;You must specify a name for this folder.
+YouMustSelectAtLeastOneFieldFromTheTwoTablesInOrderToGenerateTheJoin;You must select at least 1 field from the two tables to generate the join
+YouMustSelectTheMapFieldByWhichItLinksToTheDimension;You must select the map field by which it links to the dimension
+YouMustSelectAnImportedField;You must select an imported field
+DuplicateItem;Duplicate Item
+FormulaEditor;Formula editor
+TheFieldParameterDoesNotExistInTheDatabase;The field {0} does not exist in the database
+TheFieldUsedByTheBusinessItemParameterBetweenQuotesIsNotImported;The field used by the business item '{0}' is not imported
+TheBusinessItemParameterBetweenQuotesHasARepeatedGuid;The business item '{0}' has a repeated guid
+TheBusinessItemNameParameterBetweenQuotesIsNotValid;The business item name '{0}' is not valid
+DeleteJoin;Delete join
+InTheDefinitionOfBusinessItemParameterBetweenQuotesParameterNotDefinedParametersAreBeingUsed;In the definition of the business element '{0}', parameters that have not been defined are being used.
+ThisJoinHasNotBeenVerified;This join has not been verified
+FilterTables;Filter tables
+ThereIsSomeErrorInTheJoinDefinition;There is some error in the join definition
+ImportTable;Import table
+ImportTableParenthesesWithAlias;Import table (with alias)
+TheWhereClauseCannotBeEmpty;The where clause cannot be empty.
+TheDefinitionOfTheBusinessItemParameterBetweenQuotesContainsErrors;The definition of the Business item '{0}' contains errors
+TheTableStructureDoesNotCorrespondWithTheOneAtTheDatabase;The table structure does not correspond with the one at the database
+TheExpressionMustBeAFilter;The expression must be a filter
+TheSelectionMustBeADatabaseTable;The selection must be a database table
+TheGeographicSqlIsBadDefined;The geographic sql is bad defined
+TheTableParameterBetweenQuotesIsNotFoundInAnyDiagram;The table '{0}' is not found in any diagram.
+TheTableHasTheCorrectStructure;The table has the correct structure.
+TheDocumentationUrlDoesNotHaveValidFormat;The documentation url does not have a valid format
+CouldNotUpdateTheFollowingTables;Could not updated the following tables: {0}
+LocateTableInDiagram;Locate table in diagram
+TheCurrentFieldsDoNotMatchThoseInTheDatabaseAskWantReloadThem;The current fields do not match those in the database, do you want to reload them?
+TheBusinessItemsHaveBeenCheckedSuccessfully;The business items have been verified successfully
+ShowError;Show error
+ItHasNotBeenPossibleAccessSampleCatalogsCheckInternetConnectionIfProblemPersistsContactUsAtEmail;It has not been possible to access the sample catalogs, check your internet connection, if the problem persists contact us at info@crono.net
+ACatalogHasNotBeenSetToTheEditor;A catalog has not been set to the editor
+CustomMapAttributeHasNotBeenConfigured;Custom map attribute has not been configured
+TheFieldWithTheMapIdHasNotBeenConfigured;The field with the map id has not been configured
+NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;No table named '{0}' has been found in the database
+CouldNotOpenCatalogParameterBetweenQuotes;Could not open catalog ""{0}""
+CouldNotConnectToTheDatabase;Could not connect to the database.
+CouldNotRelateAnyTableWithThisBusinessItem;Could not relate any table with this business element.
+NoChangesDetectedInTableParameterBetweenQuotes;No changes detected in table '{0}'
+CouldNotLoadTheMapFiles;Could not load the map files
+CannotChangeItemTypeWhenFoldersAndBusinessITemsHaveBeenSelectedAtTheSameTime;Cannot change the item type when folders and business items have been selected at the same time.
+CannotLoadTheDbfMapFile;Cannot load the .dbf map file
+CannotLoadTheShpMapFile;Cannot load the .shp map file
+CannotCheckTheInformationOfTheTableParameterBetweenParenthesesBecauseItWasNotPossibleToAccessDatabase;Cannot check the information of the table '{0}' because it was not possible to access the database
+CannotCreateThisJoinsBecausePathFromParameterToPArameterAlreadyExistsAndCircularJoinWouldBeCreated;Cannot create this join because a path from '{0}' to '{1}' already exists and a circular join would be created.
+ObjectNameInParameter;Object name in {0}
+NewAlias;New alias
+NewAliasColon;New alias:
+NewCatalog;New catalog
+NewSnowflake;New snowflake
+SortBy;Sort by
+OrderByNotLocalized;Order by
+InOrderToCalculateJoinAutomaticallyIsNecessarySelectSameNumberOfFieldsInTheTwoTables;In order to calculate the join automatically it is necessary to select the same number of fields in the two tables.
+CatalogProperties;Catalog properties
+JoinProperties;Join properties
+TableProperties;Table properties
+RecalculateDefaultFormat;Recalculate default format
+TheStructureOfTheTableParameterBetweenParenthesesHasBeenUpdated;The structure of the table '{0}' has been updated
+ErrorsHaveBeenFoundInSomeBusinessItems;Errors have been found in some business items
+SelectField;Select field
+SelectTheFactTableOfTheNewSnowflake;Select the fact table of the new snowflake.
+CustomSql;Custom SQL
+FactTable;Fact table
+ImportedTables;Imported tables
+ItemType;Item type
+AllJoinsHaveBeenVerifiedCorrectly;All joins have been verified correctly.
+AllTablesAreUpdated;All tables are updated.
+AllTablesHaveBeenUpdatedSuccessfully;All tables have been updated successfully.
+AllVerifiedCorrectly;Everything checked correctly
+ShowValuesParenthesesOnlyHundredRows;Show values ​​(only 1000 rows)
+Verifications;Verifications
+VerifyParameter;Check {0}
+CheckItems;Check items
+AnImportedTableWithAliasParameterBetweenQuotesAlreadyExists;An imported table with alias '{0}' already exists
+OpenCatalog;Open catalog
+OpenConfiguration;Open configuration.
+DefaultAggregationColon;Default Aggregation:
+AddWhereClause;Add Where Clause
+AliasColon;Alias:
+MapAttributeColon;Map attribute:
+KeyAttributeColon;Key attribute:
+ConnectionString;Connection string
+CalculateWhereClauseAutomatically;Calculate where clause automatically
+YearFieldColon;Year field:
+SortingFieldColon;Sorting field:
+IdFieldForMapColon;Id field for map:
+LatitudeFieldColon;Latitude field:
+FieldLongitudeColon;Field longitude:
+MonthFieldColon;Month field:
+QuarterFieldColon;Quarter Field:
+TableFieldsColon;Table fields:
+SortFieldsColon;Sort fields:
+EquivalentFields;Equivalent fields
+RecentCatalogs;Recent catalogs
+ConnectedToTheDatabase;Connected to the database
+Snowflakes;Snowflakes
+SnowflakesColon;Snowflakes:
+CreateNewCatalog;Create new catalog
+DisconnectedFromTheDatabase;Disconnected from the database
+SqlDialectColon;SQL dialect:
+GeographicDimension;Geographic dimension
+DocumentationUrlBetweenParenthesesColon;Documentation (URL):
+ExampleColonFilterPatterns;Example: dbo.dim_*,dbo.fac_*,!*Tmp*
+TheItemTypeIsVisualAidToInformNatureOfDimensionOrIndicatorItDoesNotAffectGeneratedQueriesOrDataType;The item type is a visual aid to inform the nature of the dimension or indicator. It does not affect the generated queries or the data type.
+BusinessItems;Business items
+BusinessItemsColon;Business items:
+IsGeographicalDimension;Is geographical dimension
+IsTimeTable;Is time table.
+ThisJoinMustNotBeVerified;This join must not be verified.
+ThisDocumentIsNotConfiguredForItsPublication;This document is not configured for its publication.
+AvoidIncludingTheSameTableSeveralTimesInTheSameDiagramColon;Avoid including the same table several times in the same diagram:
+LastPublicationDateColon;Last publication date:
+FilterOfVisibleTablesColon;Filter of visible tables:
+FilterForTheListOfValues;Filter for the list of values:
+ConditionalFormating;Conditional formating
+HyperlinkColon;Hyperlink:
+IdOfMap;Id of Map
+CatalogLanguageColon;Catalog language:
+FirstLanguageColon;First language:
+Languages;Languages
+SecondaryLanguagesColon;Secondary languages:
+AdditionalInformation;Additional information
+Latitude;Latitude
+Length;Longitude
+CustomMapColon;Custom Map:
+HyperlinkModeColon;Hyperlink mode:
+ShowHundred;Show 1000
+ShowAll;Show all
+ComputerNameColon;Computer name:
+NumberOfRecordsColon;Number of records:
+SortListOfValuesByFieldColon;Sort list of values ​​by field:
+AllowListsOfValuesOfThisBusinessItem;Allow lists of values ​​of this business item.
+TestCatalog;Test catalog
+Publication;Publication
+PublishCatalog;Publish catalog
+References;References
+Joins;Joins
+JoinsColon;Joins:
+TheDocumentMustBeSavedBeforePublishing;The document must be saved before publishing.
+TableOneParenthesesDetailTable;Table 1 (detail table)
+TableTwoParenthesesDimensionTable;Table 2 (dimension table)
+DetailTableColon;Detail table:
+TimeTable;Time table
+TableColon;Table:
+AdditionalTablesColon;Additional tables:
+TablesColon;Tables:
+ElementTypeColon;Item Type:
+DefaultColumnFilterTypeColon;Default column filter type:
+LocationColon;Location:
+LastPublication;Last publication
+LastVerification;Last verification
+UseSampleCatalog;Use sample catalog
+WindowsUserColon;Windows user:
+Verification;Verification
+CheckCurrent;Check current
+CheckNow;Check now
+CheckFields;Check fields
+CheckAllTablesStructures;Check all tables structures
+CheckAll;Check everything
+UpdateStructureFromDatabase;Update structure from database
+VerifyStructureFromDatabase;Verify structure from database
+GroupAndSort;Group and sort
+Data;Data
+ConvertIntoKey;Convert into key
+ToolBox;Tool box
+ReportExplorer;Report explorer
+TheFollowingQueriesNeedAKeySinceContainSubQueries;The following queries need a key since they contain sub queries:||{0}
+CannotBeQueriesWithSameName;Cannot be queries with the same name:||{0}
+NoActionHasBeenImplementedForNodeOfTypeParameterBetweenQuotes;No action has been implemented for node of type '{0}'
+RemoveKey;Remove key
+WindowOfParameter;{0} window
+OpenReport;Open report
+HighColon;High:
+WidthColon;Width:
+SubjectColon;Subject:
+ExportFolderColon;Export folder:
+PageConfig;Page config
+RightColon;Right:
+SendByEmail;Send by email
+PdfExport;PDF export
+ExportInTheTemporaryFolder;Export in the temporary folder
+Horizontal;Horizontal
+BottomColon;Bottom:
+RecentReports;Recent reports
+LeftColon;Left:
+Margins;Margins
+DisplayReport;Show report
+DocumentNameColon;Document name:
+OrientationColon;Orientation:
+KeywordsColon;Keywords:
+TopColon;Top:
+KindOfPaperColon;Kind of paper:
+Vertical;Vertical
+AskEnsureWantMoveSheetToThisNewPosition;Are you sure you want to move the sheet to this new position?
+DeletedFileParameterBetweenAccents;Deleted file `{0}`
+CreatedFileParameterBetweenAccents;Created file `{0}`
+EditedFileParameterBetweenAccents;Edited file `{0}`
+GitHubToken;GitHub token
+YouCanGenerateATokenToInteractWithGitHubFrom;You can generate a token to interact with GitHub from
+BranchColon;Branch:
+RepositoryColon;Repository:
+OwnerColon;Owner:
+IconParentheses32x32Colon;Icon (32x32):
+TheGitHubTokenMustBeSpecified;The GitHub token must be specified
+TheCredentialsAreCorrectTheUserAssociatedToThisAccountIsColonParameter;The credentials are correct. The user associated to this account is: {0}
+ShowData;Show data
+LoadsToDatabase;Loads to database
+ShowLoadsButton;Show loads button
+DefaultConnectionForLoadsColon;Default connection for loads:
+DefaultCatalogColon;Default catalog:
+ShowXmlDefinition;Show XML definition
+TheSourceTableAndDestinationTableFieldsMustBeFilledBothOrEmptyBoth;The source table and destination table fields must be filled in both or leave empty both
+Catalan;Catalan
+French;French
+German;German
+Portuguese;Portuges
+ExecuteLoads;Execute loads
+TheCredentialsAreNotCorrectColonParameter;The credentials are not correct: {0}
+UpdateAll;Update all
+UpdateQuery;Update query
+StartDateColon;Start date:
