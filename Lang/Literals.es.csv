@@ -79,7 +79,7 @@ DeleteFileConfirmation;¿Está seguro que quiere eliminar este fichero?
 _404FileNotFound;404. No se ha encontrado la ruta del fichero que solicitó
 ServerIsNotInformed;No está informado el servidor.
 ResourceDirectoryNotExistsParameterBetweenQuotes;No existe la carpeta de recursos '{0}'
-DataBaseConnectionNotExistsParameter;No existe la conexión "{0}" para acceder a la base de datos.
+DataBaseConnectionNotExistsParameter;No existe la conexión '{0}' para acceder a la base de datos.
 NoDataBaseConectionEstablished;No hay ninguna conexión establecida a una base de datos.
 ConditionNotMet;No se cumple la condición.
 FileNotFoundParameter;No se ha encontrado el fichero {0}
@@ -709,7 +709,7 @@ TheParentTypeIsParameterWithCronoSqlColonParameter;El padre es del tipo {0} con 
 FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Fallo al buscar la propiedad '{0}' en el objeto de tipo '{1}'|{2}
 FailedToSetPropertyParameterBetweenQuotesParameter;Fallo al setear la propiedad '{0}'|{1}
 TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;La fecha de publicación del fichero en el servidor no concuerda con la actual.|¿Publicar de todas formas?||Información de última publicación:|{0}
-TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;No existe la conexión ""{0}"" para acceder a la base de datos.|¿Desea crearla ahora?
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;No existe la conexión '{0}' para acceder a la base de datos.|¿Desea crearla ahora?
 Format;Formato
 Exclude;Excluir
 _Select;Seleccionar
@@ -1276,7 +1276,7 @@ NewUser;Nuevo usuario
 SiteProperties;Propiedades del sitio
 TheUserNameMustBeEntered;Se debe introducir el nombre del usuario
 SelectTheSiteFolder;Seleccione la carpeta del sitio
-IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Si selecciona esta opción el servidor responderá todas las peticiones según el primer ""site"", sin validar ni el ""host"" ni la autentificación.
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Si selecciona esta opción el servidor responderá todas las peticiones según el primer 'site', sin validar ni el 'host' ni la autentificación.
 AutoRouteCronoXmlFilesCxmlBetweenParentheses;Autoenrutar archivos Crono XML (*.cxml)
 AutoRouteMarkdownFilesMdBetweenParentheses;Autoenrutar archivos markdown (*.md)
 StartDocumentColon;Documento de inicio:
@@ -1313,7 +1313,7 @@ WpfApplicationLoaded;Aplicación WPF cargada
 AuthenticationColonWindows;Autentificación: Windows
 ApplicationLoadCompleted;Carga aplicación completada
 RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Catálogo remoto inaccesible ({0}). Verifique su conexión a internet y la dirección remota del catálogo.
-CreateDocumentWithCatalogParameterBetweenQuotes;Crear un documento con el catálogo ""{0}""
+CreateDocumentWithCatalogParameterBetweenQuotes;Crear un documento con el catálogo '{0}'
 NetworkCredentialsColonParameter;Credenciales de red: {0}
 NetworkCredentialsColonNotSpecified;Credenciales de red: No especificadas
 CronoServerInfoConnectedUserColonParameter;Crono server (info), Connected user: {0}
@@ -1368,7 +1368,7 @@ TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;No se ha especifi
 TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;No se ha especificado en el catálogo el campo longitud para {0}
 TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;No se ha especificado en el catalogo la ruta del mapa para la dimensión {0}
 CouldNotOpenTheCatalogParameterBetweenQuotes;No se ha podido abrir el catálogo '{0}'.
-CouldNotOpenTheDocumentParameterBetweenQuotes;No se ha podido abrir el documento ""{0}""
+CouldNotOpenTheDocumentParameterBetweenQuotes;No se ha podido abrir el documento '{0}'
 CouldNotOpenTheDocument;No se ha podido abrir el documento.
 CouldNotConnectToTheServer;No se ha podido conectar con el servidor.
 CouldNotGenerateTheDashboardContent;No se ha podido generar el contenido del dashboard.
@@ -1937,7 +1937,7 @@ AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificat
 CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Calculando tipo de dato de los elementos de negocio.|Esta acción solo es necesaria una vez por catálogo.
 TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;El diagrama actual ya está utilizando la tabla '{0}'.||¿Desea escoger un nuevo alias para la tabla '{1}'?
 TheFollowingTablesAreOutdatedColonParameter;Las siguientes tablas estan desactualizadas:|{0}
-ProblemCheckingParameterParameter;Problema al verificar {0}|{1}|
+ProblemCheckingParameterParameter;Problema al verificar {0}|{1}
 ParameterBetweenQuotesSuccessfullyVerified;'{0}' verificado correctamente
 AskWantToUpdateThem;¿Desea actualizarlas?
 AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;¿Está seguro que desea borrar esta estrella: '{0}'?
@@ -1993,7 +1993,7 @@ ACatalogHasNotBeenSetToTheEditor;No se le ha asignado un catálogo al editor
 CustomMapAttributeHasNotBeenConfigured;No se ha configurado el atributo del mapa personalizado
 TheFieldWithTheMapIdHasNotBeenConfigured;No se ha configurado el campo con el id del mapa
 NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;No se ha encontrado ninguna tabla en la base de datos con el nombre '{0}'
-CouldNotOpenCatalogParameterBetweenQuotes;No se ha podido abrir el catálogo ""{0}""
+CouldNotOpenCatalogParameterBetweenQuotes;No se ha podido abrir el catálogo '{0}'
 CouldNotConnectToTheDatabase;No se ha podido conectar con la base de datos.
 CouldNotRelateAnyTableWithThisBusinessItem;No se ha podido relacionar ninguna tabla con este elemento de negocio.
 NoChangesDetectedInTableParameterBetweenQuotes;No se han detectado cambios en la tabla '{0}'

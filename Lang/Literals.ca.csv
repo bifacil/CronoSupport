@@ -79,7 +79,7 @@ DeleteFileConfirmation;Esteu segur que voleu suprimir aquest fitxer?
 _404FileNotFound;404. No s'ha trobat la ruta de l'fitxer que va sol·licitar
 ServerIsNotInformed;No està informat al servidor.
 ResourceDirectoryNotExistsParameterBetweenQuotes;No existeix la carpeta de recursos '{0}'
-DataBaseConnectionNotExistsParameter;No hi ha la connexió "{0}" per accedir a la base de dades.
+DataBaseConnectionNotExistsParameter;No hi ha la connexió '{0}' per accedir a la base de dades.
 NoDataBaseConectionEstablished;No hi ha cap connexió establerta a una base de dades.
 ConditionNotMet;No es compleix la condició.
 FileNotFoundParameter;No s'ha trobat el fitxer {0}
@@ -708,7 +708,7 @@ TheParentTypeIsParameterWithCronoSqlColonParameter;El pare és de l'tipus {0} am
 FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Decisió a l'buscar la propietat '{0}' en l'objecte de tipus '{1}'|{2}
 FailedToSetPropertyParameterBetweenQuotesParameter;Decisió a l'establir la propietat '{0}'|{1}
 TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;La data de publicació de l'fitxer al servidor no concorda amb l'actual.|Publicar igualment?||Informació d'última publicació:|{0}
-TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;No hi ha la connexió "" {0} "" per accedir a la base de dades.|Voleu crear-ara?
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;No hi ha la connexió ' {0} ' per accedir a la base de dades.|Voleu crear-ara?
 Format;Format
 Exclude;Excloure
 _Select;Seleccionar
@@ -1275,7 +1275,7 @@ NewUser;Nou usuari
 SiteProperties;Propietats de el lloc
 TheUserNameMustBeEntered;S'ha d'introduir el nom d'usuari
 SelectTheSiteFolder;Seleccioneu la carpeta de el lloc
-IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Seleccionar això per al servidor respondrà totes les peticions segons el primer "" site "", sense validar ni el "" host "" ni l'autenticació.
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Seleccionar això per al servidor respondrà totes les peticions segons el primer ' site ', sense validar ni el ' host ' ni l'autenticació.
 AutoRouteCronoXmlFilesCxmlBetweenParentheses;Autoenrutar arxius Crono XML (* .cxml)
 AutoRouteMarkdownFilesMdBetweenParentheses;Autoenrutar arxius Markdown (* .md)
 StartDocumentColon;Document d'inici:
@@ -1312,7 +1312,7 @@ WpfApplicationLoaded;Aplicació WPF carregada
 AuthenticationColonWindows;Autentificació: Windows
 ApplicationLoadCompleted;Càrrega aplicació completada
 RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Catàleg remot inaccessible ({0}). Verifica la connexió a internet i la direcció remota de l'catàleg.
-CreateDocumentWithCatalogParameterBetweenQuotes;Crear un document amb el catàleg "" {0} ""
+CreateDocumentWithCatalogParameterBetweenQuotes;Crear un document amb el catàleg ' {0} '
 NetworkCredentialsColonParameter;Credencials de xarxa: {0}
 NetworkCredentialsColonNotSpecified;Credencials de xarxa: No especificades
 CronoServerInfoConnectedUserColonParameter;Crono server (info), Connected user: {0}
@@ -1367,7 +1367,7 @@ TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;No s'ha especific
 TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg el camp longitud per {0}
 TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg la ruta d'el mapa per la dimensió {0}
 CouldNotOpenTheCatalogParameterBetweenQuotes;No s'ha pogut obrir el catàleg '{0}'.
-CouldNotOpenTheDocumentParameterBetweenQuotes;No s'ha pogut obrir el document "" {0} ""
+CouldNotOpenTheDocumentParameterBetweenQuotes;No s'ha pogut obrir el document ' {0} '
 CouldNotOpenTheDocument;No s'ha pogut obrir el document.
 CouldNotConnectToTheServer;No s'ha pogut connectar amb el servidor.
 CouldNotGenerateTheDashboardContent;No s'ha pogut generar el contingut de l'dashboard.
@@ -1936,7 +1936,7 @@ AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificat
 CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Calculant tipus de dada dels elements de negoci.|Aquesta acció només és necessària una vegada per catàleg.
 TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;El diagrama actual ja està utilitzant la taula '{0}'.||Voleu escollir un nou àlies per a la taula '{1}'?
 TheFollowingTablesAreOutdatedColonParameter;Les següents taules estan desactualitzades:|{0}
-ProblemCheckingParameterParameter;Problema a l'verificar {0}|{1}|
+ProblemCheckingParameterParameter;Problema a l'verificar {0}|{1}
 ParameterBetweenQuotesSuccessfullyVerified;'{0}' verificat correctament
 AskWantToUpdateThem;Voleu actualitzar-?
 AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;Esteu segur que voleu suprimir aquesta estrella: '{0}'?
@@ -1992,7 +1992,7 @@ ACatalogHasNotBeenSetToTheEditor;No se li ha assignat un catàleg a l'editor
 CustomMapAttributeHasNotBeenConfigured;No s'ha configurat l'atribut de mapa personalitzat
 TheFieldWithTheMapIdHasNotBeenConfigured;No s'ha configurat el camp amb l'id de el mapa
 NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;No s'ha trobat cap taula a la base de dades amb el nom '{0}'
-CouldNotOpenCatalogParameterBetweenQuotes;No s'ha pogut obrir el catàleg "" {0} ""
+CouldNotOpenCatalogParameterBetweenQuotes;No s'ha pogut obrir el catàleg ' {0} '
 CouldNotConnectToTheDatabase;No s'ha pogut connectar amb la base de dades.
 CouldNotRelateAnyTableWithThisBusinessItem;No s'ha pogut relacionar cap taula amb aquest element de negoci.
 NoChangesDetectedInTableParameterBetweenQuotes;No s'han detectat canvis en la taula '{0}'

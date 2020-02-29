@@ -79,7 +79,7 @@ DeleteFileConfirmation;Voulez-vous vraiment supprimer ce fichier?
 _404FileNotFound;404. Le chemin de fichier que vous avez demandé est introuvable
 ServerIsNotInformed;Le serveur n'est pas informé.
 ResourceDirectoryNotExistsParameterBetweenQuotes;Le dossier de ressources '{0}' n'existe pas
-DataBaseConnectionNotExistsParameter;Il n'y a pas de connexion "{0}" pour accéder à la base de données.
+DataBaseConnectionNotExistsParameter;Il n'y a pas de connexion '{0}' pour accéder à la base de données.
 NoDataBaseConectionEstablished;Aucune connexion n'est établie avec une base de données.
 ConditionNotMet;La condition n'est pas remplie.
 FileNotFoundParameter;Fichier {0} introuvable
@@ -708,7 +708,7 @@ TheParentTypeIsParameterWithCronoSqlColonParameter;Le parent est de type {0} ave
 FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Impossible de trouver la propriété '{0}' dans l'objet de type '{1}'|{2}
 FailedToSetPropertyParameterBetweenQuotesParameter;Impossible de définir la propriété '{0}'|{1}
 TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;La date de publication du fichier sur le serveur ne correspond pas à la date actuelle.|Poster quand même?||Information de la dernière publication:|{0}
-TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;Il n'y a pas de connexion "" {0} "" pour accéder à la base de données.|Voulez-vous le créer maintenant?
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;Il n'y a pas de connexion ' {0} ' pour accéder à la base de données.|Voulez-vous le créer maintenant?
 Format;Format
 Exclude;Exclure
 _Select;Sélectionnez
@@ -1275,7 +1275,7 @@ NewUser;Nouvel utilisateur
 SiteProperties;Propriétés du site
 TheUserNameMustBeEntered;Le nom d'utilisateur doit être entré
 SelectTheSiteFolder;Sélectionnez le dossier du site
-IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Si vous sélectionnez cette option, le serveur répondra à toutes les demandes en fonction du premier "" site "", sans valider ni "" l'hôte "" ni l'authentification.
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Si vous sélectionnez cette option, le serveur répondra à toutes les demandes en fonction du premier ' site ', sans valider ni ' l'hôte ' ni l'authentification.
 AutoRouteCronoXmlFilesCxmlBetweenParentheses;Authentifier les fichiers XML Crono (* .cxml)
 AutoRouteMarkdownFilesMdBetweenParentheses;Authentifier les fichiers de démarque (* .md)
 StartDocumentColon;Document de démarrage:
@@ -1312,7 +1312,7 @@ WpfApplicationLoaded;Application WPF chargée
 AuthenticationColonWindows;Authentification: Windows
 ApplicationLoadCompleted;Chargement de l'application terminé
 RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Catalogue distant inaccessible ({0}). Vérifiez votre connexion Internet et l'adresse du catalogue distant.
-CreateDocumentWithCatalogParameterBetweenQuotes;Créer un document avec le catalogue "" {0} ""
+CreateDocumentWithCatalogParameterBetweenQuotes;Créer un document avec le catalogue ' {0} '
 NetworkCredentialsColonParameter;Informations d'identification réseau: {0}
 NetworkCredentialsColonNotSpecified;Informations d'identification réseau: non spécifiées
 CronoServerInfoConnectedUserColonParameter;Serveur Crono (info), Utilisateur connecté: {0}
@@ -1367,7 +1367,7 @@ TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;Le champ de latit
 TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;Le champ de longueur n'a pas été spécifié dans le catalogue pour {0}
 TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;L'itinéraire de la carte pour la dimension {0} n'a pas été spécifié dans le catalogue
 CouldNotOpenTheCatalogParameterBetweenQuotes;Impossible d'ouvrir le catalogue '{0}'.
-CouldNotOpenTheDocumentParameterBetweenQuotes;Impossible d'ouvrir le document "" {0} ""
+CouldNotOpenTheDocumentParameterBetweenQuotes;Impossible d'ouvrir le document ' {0} '
 CouldNotOpenTheDocument;Impossible d'ouvrir le document.
 CouldNotConnectToTheServer;Impossible de se connecter au serveur.
 CouldNotGenerateTheDashboardContent;Le contenu du tableau de bord n'a pas pu être généré.
@@ -1936,7 +1936,7 @@ AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificat
 CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Calcul du type de données des éléments métier.|Cette action n'est nécessaire qu'une seule fois par catalogue.
 TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;Le diagramme actuel utilise déjà la table '{0}'.||Voulez-vous choisir un nouvel alias pour la table '{1}'?
 TheFollowingTablesAreOutdatedColonParameter;Les tableaux suivants sont obsolètes:|{0}
-ProblemCheckingParameterParameter;Problème de vérification de {0}|{1}|
+ProblemCheckingParameterParameter;Problème de vérification de {0}|{1}
 ParameterBetweenQuotesSuccessfullyVerified;'{0}' vérifié avec succès
 AskWantToUpdateThem;Voulez-vous les mettre à jour?
 AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;Voulez-vous vraiment supprimer cette étoile: '{0}'?
@@ -1992,7 +1992,7 @@ ACatalogHasNotBeenSetToTheEditor;Le catalogue n'a pas été attribué à l'édit
 CustomMapAttributeHasNotBeenConfigured;Attribut de carte personnalisé non défini
 TheFieldWithTheMapIdHasNotBeenConfigured;Le champ avec l'ID de la carte n'a pas été défini
 NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;Aucune table trouvée dans la base de données avec le nom '{0}'
-CouldNotOpenCatalogParameterBetweenQuotes;Impossible d'ouvrir le catalogue "" {0} ""
+CouldNotOpenCatalogParameterBetweenQuotes;Impossible d'ouvrir le catalogue ' {0} '
 CouldNotConnectToTheDatabase;Impossible de se connecter à la base de données.
 CouldNotRelateAnyTableWithThisBusinessItem;Aucun tableau n'a pu être associé à cet élément commercial.
 NoChangesDetectedInTableParameterBetweenQuotes;Aucune modification détectée dans la table '{0}'

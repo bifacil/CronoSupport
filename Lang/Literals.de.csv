@@ -79,7 +79,7 @@ DeleteFileConfirmation;Möchten Sie diese Datei wirklich löschen?
 _404FileNotFound;404. Der von Ihnen angeforderte Dateipfad wurde nicht gefunden
 ServerIsNotInformed;Der Server wird nicht informiert.
 ResourceDirectoryNotExistsParameterBetweenQuotes;Der Ressourcenordner '{0}' existiert nicht
-DataBaseConnectionNotExistsParameter;Es besteht keine Verbindung "{0}", um auf die Datenbank zuzugreifen.
+DataBaseConnectionNotExistsParameter;Es besteht keine Verbindung '{0}', um auf die Datenbank zuzugreifen.
 NoDataBaseConectionEstablished;Es wurde keine Verbindung zu einer Datenbank hergestellt.
 ConditionNotMet;Die Bedingung ist nicht erfüllt.
 FileNotFoundParameter;Datei {0} nicht gefunden
@@ -625,7 +625,7 @@ NoServersHaveBeenRegistered;Es wurden keine Server registriert
 NoSourceHasBeenSelected;Keine Quelle ausgewählt.
 CouldNotGenerateSDLViewOfParameterBetweenQuotes;SDL-Ansicht von '{0}' konnte nicht generiert werden
 NoFilesHaveBeenSelected;Keine Dateien ausgewählt.
-ThisPanelCannotBeExportedInCardsMode;Sie können dieses Bedienfeld nicht im Präsentationsmodus "Karten" exportieren
+ThisPanelCannotBeExportedInCardsMode;Sie können dieses Bedienfeld nicht im Präsentationsmodus 'Karten' exportieren
 CannotSaveIntoFolderParameterBetweenQuotes;Kann nicht im Ordner '{0}' speichern
 CannotLocateMapFileParameterBetweenQuotes;Kartendatei '{0}' kann nicht gefunden werden
 YouHaveNoRegisteredServerThatSupportsPublishingAskWantToAddOneNow;Sie haben keinen registrierten Server, der das Veröffentlichen unterstützt. Möchten Sie jetzt einen hinzufügen?
@@ -708,7 +708,7 @@ TheParentTypeIsParameterWithCronoSqlColonParameter;Das übergeordnete Element is
 FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Die Eigenschaft '{0}' im Objekt vom Typ '{1}' konnte nicht gefunden werden.|{2}
 FailedToSetPropertyParameterBetweenQuotesParameter;Fehler beim Festlegen der Eigenschaft '{0}'|{1}
 TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;Das Datum der Veröffentlichung der Datei auf dem Server stimmt nicht mit dem aktuellen überein.|Trotzdem posten?||Angaben zur letzten Veröffentlichung:|{0}
-TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;Es besteht keine Verbindung "" {0} "", um auf die Datenbank zuzugreifen.|Möchten Sie es jetzt erstellen?
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;Es besteht keine Verbindung ' {0} ', um auf die Datenbank zuzugreifen.|Möchten Sie es jetzt erstellen?
 Format;Formatieren
 Exclude;Ausschließen
 _Select;Wählen Sie
@@ -1275,7 +1275,7 @@ NewUser;Neuer Benutzer
 SiteProperties;Site-Eigenschaften
 TheUserNameMustBeEntered;Benutzername muss eingegeben werden
 SelectTheSiteFolder;Wählen Sie den Site-Ordner aus
-IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Wenn Sie diese Option auswählen, antwortet der Server auf alle Anforderungen gemäß der ersten "" Site "", ohne entweder den "" Host "" oder die Authentifizierung zu überprüfen.
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Wenn Sie diese Option auswählen, antwortet der Server auf alle Anforderungen gemäß der ersten ' Site ', ohne entweder den ' Host ' oder die Authentifizierung zu überprüfen.
 AutoRouteCronoXmlFilesCxmlBetweenParentheses;Authentifizieren Sie Crono XML-Dateien (* .cxml)
 AutoRouteMarkdownFilesMdBetweenParentheses;Markdown-Dateien authentifizieren (* .md)
 StartDocumentColon;Dokument starten:
@@ -1312,7 +1312,7 @@ WpfApplicationLoaded;WPF-Anwendung geladen
 AuthenticationColonWindows;Authentifizierung: Windows
 ApplicationLoadCompleted;Anwendungsladung abgeschlossen
 RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Remote-Katalog nicht zugänglich ({0}). Überprüfen Sie Ihre Internetverbindung und die Remote-Katalogadresse.
-CreateDocumentWithCatalogParameterBetweenQuotes;Erstellen Sie ein Dokument mit dem Katalog "" {0} ""
+CreateDocumentWithCatalogParameterBetweenQuotes;Erstellen Sie ein Dokument mit dem Katalog ' {0} '
 NetworkCredentialsColonParameter;Netzwerkanmeldeinformationen: {0}
 NetworkCredentialsColonNotSpecified;Netzwerkanmeldeinformationen: Nicht angegeben
 CronoServerInfoConnectedUserColonParameter;Crono Server (Info), Verbundener Benutzer: {0}
@@ -1367,7 +1367,7 @@ TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;Das Breitengradfe
 TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;Das Längenfeld wurde im Katalog für {0} nicht angegeben
 TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;Die Kartenroute für Dimension {0} wurde im Katalog nicht angegeben
 CouldNotOpenTheCatalogParameterBetweenQuotes;Katalog '{0}' konnte nicht geöffnet werden.
-CouldNotOpenTheDocumentParameterBetweenQuotes;Das Dokument "" {0} "" konnte nicht geöffnet werden
+CouldNotOpenTheDocumentParameterBetweenQuotes;Das Dokument ' {0} ' konnte nicht geöffnet werden
 CouldNotOpenTheDocument;Dokument konnte nicht geöffnet werden.
 CouldNotConnectToTheServer;Verbindung zum Server konnte nicht hergestellt werden.
 CouldNotGenerateTheDashboardContent;Der Dashboard-Inhalt konnte nicht generiert werden.
@@ -1936,7 +1936,7 @@ AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificat
 CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Berechnung des Datentyps von Geschäftselementen.|Diese Aktion ist nur einmal pro Katalog erforderlich.
 TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;Das aktuelle Diagramm verwendet bereits die Tabelle '{0}'.||Möchten Sie einen neuen Alias für die Tabelle '{1}' auswählen?
 TheFollowingTablesAreOutdatedColonParameter;Die folgenden Tabellen sind veraltet:|{0}
-ProblemCheckingParameterParameter;Problem beim Überprüfen von {0}|{1}|
+ProblemCheckingParameterParameter;Problem beim Überprüfen von {0}|{1}
 ParameterBetweenQuotesSuccessfullyVerified;'{0}' erfolgreich verifiziert
 AskWantToUpdateThem;Möchten Sie sie aktualisieren?
 AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;Möchten Sie diesen Stern wirklich löschen: '{0}'?
@@ -1992,7 +1992,7 @@ ACatalogHasNotBeenSetToTheEditor;Der Katalog wurde dem Editor nicht zugewiesen
 CustomMapAttributeHasNotBeenConfigured;Benutzerdefiniertes Kartenattribut nicht festgelegt
 TheFieldWithTheMapIdHasNotBeenConfigured;Das Feld mit der Karten-ID wurde nicht festgelegt
 NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;In der Datenbank wurde keine Tabelle mit dem Namen '{0}' gefunden.
-CouldNotOpenCatalogParameterBetweenQuotes;Katalog "" {0} "" konnte nicht geöffnet werden
+CouldNotOpenCatalogParameterBetweenQuotes;Katalog ' {0} ' konnte nicht geöffnet werden
 CouldNotConnectToTheDatabase;Es konnte keine Verbindung zur Datenbank hergestellt werden.
 CouldNotRelateAnyTableWithThisBusinessItem;Zu diesem Geschäftsartikel konnte keine Tabelle zugeordnet werden.
 NoChangesDetectedInTableParameterBetweenQuotes;In Tabelle '{0}' wurden keine Änderungen festgestellt.
@@ -2163,7 +2163,7 @@ IconParentheses32x32Colon;Symbol (32 x 32):
 TheGitHubTokenMustBeSpecified;GitHub-Token muss angegeben werden
 ShowData;Siehe Daten
 LoadsToDatabase;Datenbank-Uploads
-ShowLoadsButton;Schaltfläche "Ladevorgänge anzeigen"
+ShowLoadsButton;Schaltfläche 'Ladevorgänge anzeigen'
 DefaultConnectionForLoadsColon;Standardverbindung für Lasten:
 DefaultCatalogColon;Standardkatalog:
 ShowXmlDefinition;Siehe XML-Definition

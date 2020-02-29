@@ -138,7 +138,7 @@ DeleteFileConfirmation;Are you sure you want to delete this file?
 _404FileNotFound;404. The file path which you requested is not found
 ServerIsNotInformed;The server is not informed.
 ResourceDirectoryNotExistsParameterBetweenQuotes;The resource directory '{0}' does not exists
-DataBaseConnectionNotExistsParameter;The database conection "{0}" does not exists.
+DataBaseConnectionNotExistsParameter;The database conection '{0}' does not exists.
 NoDataBaseConectionEstablished;There is no connection established to a database.
 ConditionNotMet;The condition is not met.
 FileNotFoundParameter;Could not find the file {0}
@@ -709,7 +709,7 @@ TheParentTypeIsParameterWithCronoSqlColonParameter;The parent type is {0} with C
 FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Failed to find property '{0}' in object type '{1}'|{2}
 FailedToSetPropertyParameterBetweenQuotesParameter;Failed to set property '{0}'|{1}
 TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;The file publication date on the server does not match the current one.|Post anyway?||Last publication information:|{0}
-TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;The connection ""{0}"" to access the database does not exists.|Do you want to create it now?
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;The connection '{0}' to access the database does not exists.|Do you want to create it now?
 Format;Format
 Exclude;Exclude
 _Select;Select
@@ -1276,7 +1276,7 @@ NewUser;New user
 SiteProperties;Site properties
 TheUserNameMustBeEntered;The user name must be entered
 SelectTheSiteFolder;Select the site folder
-IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;If you select this option, the server will respond to all requests according to the first ""site"", without validating either the ""host"" or the authentication.
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;If you select this option, the server will respond to all requests according to the first 'site', without validating either the 'host' or the authentication.
 AutoRouteCronoXmlFilesCxmlBetweenParentheses;Auto route Crono XML files (*.cxml)
 AutoRouteMarkdownFilesMdBetweenParentheses;Auto route markdown files (*.md)
 StartDocumentColon;Start document:
@@ -1313,7 +1313,7 @@ WpfApplicationLoaded;WPF application loaded
 AuthenticationColonWindows;Authentication: Windows
 ApplicationLoadCompleted;Application load completed
 RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Remote catalog inaccessible ({0}). Check your internet connection and the remote catalog address.
-CreateDocumentWithCatalogParameterBetweenQuotes;Create a document with the catalog ""{0}""
+CreateDocumentWithCatalogParameterBetweenQuotes;Create a document with the catalog '{0}'
 NetworkCredentialsColonParameter;Network credentials: {0}
 NetworkCredentialsColonNotSpecified;Network credentials: Not specified
 CronoServerInfoConnectedUserColonParameter;Crono server (info), Connected user: {0}
@@ -1368,7 +1368,7 @@ TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;The latitude fiel
 TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;The length field for {0} has not been specified in the catalog
 TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;The map route for the dimension {0} has not been specified in the catalog
 CouldNotOpenTheCatalogParameterBetweenQuotes;Could not open the catalog '{0}'.
-CouldNotOpenTheDocumentParameterBetweenQuotes;Could not open the document ""{0}""
+CouldNotOpenTheDocumentParameterBetweenQuotes;Could not open the document '{0}'
 CouldNotOpenTheDocument;Could not open the document.
 CouldNotConnectToTheServer;Could not connect to the server.
 CouldNotGenerateTheDashboardContent;Could not generate the dashboard content.
@@ -1937,7 +1937,7 @@ AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificat
 CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Calculating data type of the business items.|This action is only necessary once per catalog.
 TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;The current diagram is already using the table '{0}'.||Do you want to choose a new alias for the table '{1}'?
 TheFollowingTablesAreOutdatedColonParameter;The following tables are outdated:|{0}
-ProblemCheckingParameterParameter;Problem checking {0}|{1}|
+ProblemCheckingParameterParameter;Problem checking {0}|{1}
 ParameterBetweenQuotesSuccessfullyVerified;'{0}' successfully verified
 AskWantToUpdateThem;Do you want to update them?
 AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;Are you sure you want to delete this star: '{0}'?
@@ -1993,7 +1993,7 @@ ACatalogHasNotBeenSetToTheEditor;A catalog has not been set to the editor
 CustomMapAttributeHasNotBeenConfigured;Custom map attribute has not been configured
 TheFieldWithTheMapIdHasNotBeenConfigured;The field with the map id has not been configured
 NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;No table named '{0}' has been found in the database
-CouldNotOpenCatalogParameterBetweenQuotes;Could not open catalog ""{0}""
+CouldNotOpenCatalogParameterBetweenQuotes;Could not open catalog '{0}'
 CouldNotConnectToTheDatabase;Could not connect to the database.
 CouldNotRelateAnyTableWithThisBusinessItem;Could not relate any table with this business element.
 NoChangesDetectedInTableParameterBetweenQuotes;No changes detected in table '{0}'
