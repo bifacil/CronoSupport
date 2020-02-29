@@ -1,0 +1,2181 @@
+﻿_New;Nou
+Catalog;Catàleg
+All;Tots
+OpenBrowser;Obrir navegador
+UnrecognizedActionColon;Acció no reconeguda:
+SupportsNullsColonParameter;Admet nuls: {0}
+UnauthorizedAccessParameter;Accés no autoritzat {0}
+FieldsColon;Camps:
+UndefinedCatalogInQueryExceptionMessage;Consulta mal definida. El catàleg no existeix.
+TestsSmtpAccountWrongCredentialsMessage;Credencials incorrectes, revisi l'usuari i la contrasenya.
+TestConnectionUnassignedDataSourceMessage;Datasource no assignat
+BusinessItemEmptyNameMessage;Cal especificar un nom per a aquest element de negoci.
+ExecutionComplete;Execució finalitzada
+ExecutionCompleteWithUnexpectedExitCode;Execució finalitzada amb un ExitCode imprevist.
+ExecuteParameterBetweenQuotes;Executa {0}
+ExecuteProcedureParameterBetweenQuotes;Executa procediment '{0}'
+ExecutingDot;Executant.
+ExecutingRowParameter;Executant fila {0}
+CatalogNotFromUriExceptionMessage;El catàleg no s'obté mitjançant uri.
+TableRowContentIsNotTableColumnExceptionMessage;El contingut de les files han de ser TABLE COLUMN
+TableContentIsNotTableColumnExceptionMessage;El contingut de les taules ha de ser TABLE COLUMN
+DirectoryNotFoundOrNotAccessibleExceptionMessage;El directori no existeix o no està accessible:
+DirectoryNotFoundExceptionMessage;El directori no existeix:
+FileNotEqualParameterExceptionMessage;El fitxer no és exactament igual. ({0})
+FileNotFoundOrNotAccessibleExceptionMessage;El fitxer no existeix o no està accessible:
+InitializationMethodNotStaticExceptionMessage;El mètode '{0}' de {1} ha de ser estàtic
+ParameterNameWithSpacesExceptionMessage;El nom d'un paràmetre no pot contenir espais.
+NullQueryParameterExceptionMessage;El paràmetre consulta no pot ser NULL
+CronoServerDoesNotSupportFeatureExceptionMessage;El servidor no suporta aquesta funcionalitat.
+CorrectElement;Element correcte
+ReadingErrorParameterBetweenQuotes;Error a l'llegir '{0}'
+ErrorParsingThisSentenceColonParameter;Error a l'parsejar aquesta sentència:|{0}
+ErrorInFileParameter;Error en el fitxer {0}
+IsForeignKeyColonParameter;És clau externa: {0}
+IsPrimaryKeyColonParameter;És clau primària: {0}
+IsDeferrableColonParameter;És diferida: {0}
+IsClusteredColonParameter;És grup: {0}
+IsUniqueColonParameter;És únic: {0}
+IsDisabledColonParameter;Està deshabilitat: {0}
+CubeWithUnknownColumnsExceptionMessage;Aquest cub no es pot avaluar per contenir columnes desconegudes.
+MultipleMethodsWithSameAttributeExceptionMessage;Hi ha diversos mètodes amb l'atribut {0}
+IncorrectExpressionColonParameter;Expressió incorrecta: {0}
+BadExtensionDefinitionExceptionMessage;Extensió {0} mal definida
+JoinDateAndDurationOfVerificationParameters;Data de verificació: {0}|Temps de verificació: {0} segons
+DateColonParameter;Data: {0}
+IncorrectFileFormat;Format de fitxer incorrecta
+IncorrectVersionFormatColonParameter;Format de versió incorrecte: {0}
+UserProfileAccessProblemExceptionMessage;Hi ha hagut un problema a l'accedir a l'perfil de l'usuari.
+HourStringToTimeSpanExceptionMessage;Hora hh: mm: ss incorrecta {0}.
+InitiallyDeferredColonParameter;Inicialment diferida: {0}
+RestrictionTypeColonParameter;Tipus de restricció: {0}
+ColumnCountColonParameter;Nombre de columnes: {0}
+ColumnColonParameter;Columna: {0}
+TableColonParameterDotParameter;Taula: {0}. {1}
+RestrictionNameColonParameter;Nom de la restricció: {0}
+IncorrectInstallation;Instal·lació incorrecta
+BusinessItemEmptyDefinitionMessage;Introduïu la clàusula SELECT.
+BusinessItemDefinitionTooLongMessage;La cláusla SELECT d'aquest element de negoci és massa llarga (màxim 1000 caràcters).
+DeveloperMode;Mode desenvolupament
+CollectionAlreadyBeingUpdatedExceptionMessage;La col·lecció ja està sent actualitzada.
+QueryResultNotScalarExceptionMessage;La consulta ha de retornar un registre i una columna.
+QueryResultEmptyMustBeSingleRowExceptionMessage;La consulta no ha tornat cap registre. Ha de tornar exactament 1.
+QueryResultMoreThanOneRowMustBeSingleRowExceptionMessage;La consulta ha {0} registres. Ha de tornar exactament 1.
+ExecutingTheQuery;Executant la consulta
+RowsHaveBeenObtainedParameter;S'han obtingut {0} files
+NullActionsToExecuteExceptionMessage;S'ha de definir les accions a executar (Actions).
+NullDataVariablesExceptionMessage;S'ha de definir les variables (Data).
+ProvidedServerAddressIsMisspelledMessage;La direcció de l'servidor proporcionada està mal escrita.
+ProvidedServerAddressNotCronoServerMessage;La direcció proporcionada no correspon a un servidor crono.
+CronoServerConnectionHasBeenEstablished;S'ha establert connexió amb el servidor.
+ExpressionAlreadyBeenSetted;La expressió ja es va establir
+InstructionNotASELECTStatement;La instrucció no és una sentència SELECT
+UrlIncorrectFormatParameterBetweenQuotes;L'URL '{0}' no té un format correcte.
+UrlNotUsingS3ProtocolExceptionMessage;L'URL no fa servir el protocol s3
+ShowingPartialResults;Ara es mostren resultats parcials.
+UnneededCallExceptionMessage;No cal trucar aquí
+DeleteDirectoryConfirmation;Esteu segur que voleu suprimir aquest directori i tot el seu contingut?
+DeleteFileConfirmation;Esteu segur que voleu suprimir aquest fitxer?
+_404FileNotFound;404. No s'ha trobat la ruta de l'fitxer que va sol·licitar
+ServerIsNotInformed;No està informat al servidor.
+ResourceDirectoryNotExistsParameterBetweenQuotes;No existeix la carpeta de recursos '{0}'
+DataBaseConnectionNotExistsParameter;No hi ha la connexió '{0}' per accedir a la base de dades.
+NoDataBaseConectionEstablished;No hi ha cap connexió establerta a una base de dades.
+ConditionNotMet;No es compleix la condició.
+FileNotFoundParameter;No s'ha trobat el fitxer {0}
+FileNotFoundOfColon;No s'ha trobat el fitxer de:
+FileToSaveNotSpecified;No s'ha especificat el fitxer on guardar
+ConnectionNotSpecified;No s'ha especificat la connexió.
+ServerUrlNotSpecified;No s'ha especificat l'adreça url de l'servidor
+SourceCatalogOfCubeNotSet;No s'ha establert el catàleg d'origen d'aquest cub.
+MessageOutputNotSet;No s'ha establert la sortida de missatges
+CouldNotAccessToParameter;No s'ha pogut accedir a '{0}'
+CouldNotExecuteActionCorrectlyMaxIterationCount;No s'ha pogut executar l'acció correctament, s'ha arribat a el màxim d'iteracions.
+CouldNotFindInexistentTempFile;No s'ha pogut trobar un fitxer temporal inexistent
+CouldNotConnectMailServerCheckFieldAndRetry;No s'ha pogut establir connexió amb el servidor de correu, revisi els camps, o intenti-ho més tard.
+CouldNotSaveFileParameterColonParameter;No s'ha pogut desar el fitxer '{0}': {1}
+CannotCreateEngineUndefinedHandlerFile;No es pot crear un cerca perquè el fitxer Handler no està definit.
+CannotCreateDirectConnectionToCronoServerConnection;No es pot crear una connexió directa amb una cadena de connexió de l'tipus Crono Server
+KeyNameColonParameter;Nom de la clau: {0}
+MachineNameColonParameter;Nom de l'equip: {0}
+IndexNameColonParameter;Nom de l ': {0}
+PanelParameter;Panell {0}
+UpdateRuleColonParameter;Regla d'actualització: {0}
+DeleteRuleColonParameter;Regla d'esborrat: {0}
+BadRouteDefinitionColonParameter;Route mal definida: {0}
+ConditionIsMetActionsWillBeExecuted;Es compleix la condició. S'executaran les accions.
+NullForEachItemsExceptionMessage;S'ha de definir la consulta d'el bloc FOR EACH (Items).
+NullForEachActionsExceptionMessage;S'ha de definir les accions de l'bloc FOR EACH (Actions).
+NullCronoSqlCodeToExecuteExceptionMessage;S'ha de definir el codi Crono SQL a executar (Code).
+NullConditionExceptionMessage;S'ha de definir la condició (Condition)
+DataBaseParameterBetweenQuotesHasBeenDeleted;S'ha eliminat la base de dades '{0}'
+FollowingActionsHaveBeenExecutedColon;S'han executat les següents accions:
+AllAccountDataCorrectlyEvaluated;S'han avaluat correctament totes les dades del compte.
+RecompileRequiredToIncorporateChanges;S'ha de recompilar per incorporar els canvis:
+BadSegmentDefinitionColonParameter;Segment mal definida: {0}
+DestinationTableColonParameter;Taula de destinació: {0}
+SourceTableColonParameter;Taula d'origen: {0}
+HasDiferentFilesCountDotParameterBetweenParentheses;Tenen diferent nombre de fitxers. ({0})
+HasDiferentSubfoldersCountDotParameterBetweenParentheses;Tenen diferent nombre de subcarpetes. ({0})
+UnsupportedDataTypeColonParameter;Tipus de dada no suportat: {0}
+DataTypeColonParameter;Tipus de dades: {0}
+UserColonParameter;Usuari: {0}
+UndefinedVariableInDictionaryKeyColonParameterBetweenParentheses;Variable no definida en el diccionari (key: {0})
+ParameterEmpty;{0} en blanc
+ParameterRowsRead;{0} files llegides.
+ParameterCorrectlyExecuted;{0} executat correctament
+ParameterRecordsAffected;{0} registres afectats.
+FileRemovedFromRecentList;Arxiu eliminat de la llista de recents
+FileNotExistsColon;El fitxer no existeix:
+ItemNotFoundColon;Element no trobat:
+DataSourceIsNotInformed;No hi ha el datasource informat.
+CouldNotAccessToRouteParameterBetweenQuotes;No s'ha pogut accedir a la ruta '{0}'
+CronoBusinessIntelligencePlatform;Plataforma Crono Business Intelligence
+InvertTableColumnXNotUniqueValues;Per invertir la taula, la columa '{0}' ha de tenir valors únics.
+ParameterFilteredByParameter;{0} filtrat per {1}
+Columns;Columnes
+BusinessItem;Element de negoci
+_Default;Per defecte
+WithoutProxy;Sense servidor intermediari
+Values;Valors
+Action;Acció
+Configuration;Configuració
+Executed;Executat
+ErrorParameterParameter;Error {0} {1}
+UnexpectedError;Error imprevist.
+Information;Informació
+Numerical;Numèric
+Job;Treball
+ParameterAndParameter;{0} i {1}
+_Date;Data
+AndLowerCase;i
+OrLowerCase;o
+FilteredBetweenParentheses;(Filtrat)
+SubqueryBetweenParentheses;(Subconsulta)
+AllBetweenParentheses;(Tots)
+CompatibleFilesParameterBetweenParenthesesBarParameterBar;Arxius compatibles ({0}) | {1} |
+LogLocationColon;Ubicació de l'log:
+Warning;Notes
+TextFile;Arxiu de text
+BatchFiles;Arxius Batch
+CsvFiles;Arxius CSV
+ImageFiles;Arxius d'imatge
+ExecutableFiles;Arxius executable
+EtlFiles;Arxius ETL
+ScheduleFiles;Arxius Schedule
+SqlFiles;Arxius SQL
+TmpFiles;Arxius tmp
+XpsFiles;Arxius XPS
+_Boolean;Booleà
+_String;Cadena
+WithProxy;Amb intermediari
+LocalCube;Cub local
+Count;Recompte
+UserData;Dades d'usuari
+AutomaticDetection;Detecció automàtica
+RtfFormat;Format RTF
+Formula;Formula
+BmpImage;Imatge BMP
+EmfImage;Imatge EMF
+JpegImage;Imatge JPEG
+PngImage;Imatge PNG
+TIFFImage;Imatge TIFF
+Report;Informe
+GetCall;Crida GET
+PostCall;Crida POST
+Maximum;Màxim
+Minimum;Mínim
+None;Cap
+NameColonParameter;Nom: {0}
+Average;Mitjana
+CronoEtlProject;Projecte Crono ETL
+TestsResults;Resultats de tests
+Secondary;Secundari
+Sum;Suma
+PrintableReport;Informe per imprimir
+ValuesLowercase;valors
+ValueLowercase;valor
+Properties;Propietats
+Update;Actualitzar
+Help;Ajuda
+Connection;Connexió
+Query;Consulta
+Options;Opcions
+Open;Obrir
+Close;Tancar
+Delete;Eliminar
+Modify;Modificar
+Table;Taula
+Tables;Taules
+File;Arxiu
+Copy;Copiar
+Status;Estat
+Image;Imatge
+Parameter;Paràmetre
+DatabaseColonParameter;Base de dades: {0}
+View;Vista
+NewDocument;Nou document
+CheckJoins;Verificar relacions
+Folder;Carpeta
+Scheme;Esquema
+CreationDate;Data de creació
+Database;Base de dades
+LastModification;Darrera modificació
+Name;Nom
+Multivalue;Multivalor
+ActionColon;Acció:
+DateColon;Data:
+AllRightsReserved;Tots els drets reservats.
+Hyperlink;Hipervincle
+Obsolete;Obsolet
+ErrorReadingParameter;Error a l'llegir {0}
+NotKnownNamespaceParameterBetweenQuotes;No es coneix el namespace '{0}'
+CouldNotSaveOnTheServerParameterBetweenParentheses;No s'ha pogut desar al servidor ({0}).
+NotSupportedResponseParameterBetweenParentheses;Resposta no suportada ({0})
+CssSelectorAbsentOrBadlyDefined;Selector CSS absent o mal definit.
+Yes;Sí
+ItMustOnlyBeCalledIfTheNodeIsFile;Només s'ha de trucar si el node és <file>.
+AnItemWithSameKeyParameterBetweenQuotesWasAlreadyAdded;Ja es va afegir un element amb la mateixa clau '{0}'
+Group;Grup
+UnrecognizedTransformationType;Tipus de transformació no reconegut.
+SystemLanguage;Idioma sistema
+Spanish;Espanyol
+English;Anglès
+Equal;Igual
+InTheList;A la llista
+Distinct;Diferent
+OutOfTheList;Fora de la llista
+LessThan;Més petit que
+GreaterThan;Més gran que
+LessThanOrEqualTo;Menor o igual que
+GreaterThanOrEqualTo;Major o igual que
+Between;Entre
+NotContains;No conté
+StartsWith;Comença per
+NotStartsWith;No comença per
+EndsWith;Acaba en
+NotEndsWith;No acaba en
+LikePattern;Com el patró
+NotLikePattern;No com el patró
+IsNull;És nul
+IsNotNull;No és nul
+That;Que
+ThatNot;Que no
+InSubQuery;En subconsulta
+NotInSubquery;No en subconsulta
+Key;Clau
+Value;Valor
+Add;Afegir
+Up;Pujar
+Down;Baixar
+Executing;En execució
+Variable;Variable
+Queries;Consultes
+SendEmailParameterBetweenParentheses;Enviament correu electrònic ({0})
+FileOfParameterMbUploadedToColonParameter;Fitxer de {0} Mb pujat a: {1}
+CurrentlyOnlyCompressedCopiesSupported;Actualment només es suporten còpies comprimides (.zip)
+DataBasePatternBetweenParenthesesColon;Base de dades (patró):
+EachMarkdownbuilderCanOnlyBeUsedOnce;Cada Markdownbuilder només es pot utilitzar una vegada.
+UnknownFileContent;Contingut de el fitxer no reconegut.
+ExcelContentNotDefined;Content de l'excel no definit
+EmailNotSendedParenthesesBecauseIsTesting;Correu enviat (per ser testing).
+SourceMustBeSpecified;Heu d'especificar un source
+TheDestinationFileOutputMustBeDefined;S'ha de definir el fitxer destí (Output).
+TablesBetweenQuotesPropertyMustBeDefined;S'ha de definir la propietat 'Tables'
+DuringTestsNotPublished;Durant els tests no es publica
+TheCubeHasBeenGeneratedCorrectly;El cub s'ha generat correctament
+TheFileMustHaveZipExtension;El fitxer ha de tenir extensió ZIP
+ExcelFileWithSeveralTableCannotUseUseExcelFilenameAsTableName;El fitxer Excel té diverses taules de manera que no pot utilitzar l'opció 'UseExcelFilenameAsTableName'
+ExistingSnapshotInDestinationFolderNotMatchLocationInSourceFolder;El snapshot existent a la carpeta destí no coincideix amb la ubicació de la carpeta origen.
+ZipNotContainsSingleFile;El ZIP no conté un únic fitxer
+EnquecuedTheStatusUpdate;Encolada actualització d'estat
+ItIsNeededSmtpAccountToSendEmail;Cal epecificar el compte SMTP per enviar el correu.
+ItIsNeededRequestUri;Cal especificar [RequestUri].
+ItIsNeededInformExcelFile;Cal informar l' 'ExcelFile'.
+ItIsNeededToInformProfilesList;Cal informar la llista de 'Profiles'.
+ThisDeviceNotConfiguredToUseGoogleCalendarService;Aquest equip no està configurat per utilitzar el servei de Google Calendar.
+ThisJobHasNoActionDefined;Aquest job no té nignuna acció definida.
+ThisLogHasNotBeenSaved;Aquest log no s'ha guardat
+ThisRecordBelongsAnotherDatabase;Aquest registre pertany a una altra base de dades.
+ThisTypeNotInheritDatabase;Aquest tipus no hereta de database
+TablesStructuresNotSupported;Estructura de taules no suportada.
+EventCorrectlyRegistered;Esdeveniment registrat correctament.
+ExcelGeneratedCorrectly;Excel generat correctament
+UnknownActionExists;Hi ha una acció desconeguda.
+MissingMemoryLocationQuestion;¿Falta un memory location?
+DatabaseRestorationHasBeenCompleted;Ha finalitzat la restauració de la base de dades.
+UnexpectedErrorOccurredWhileExecutingQuery;Hi ha hagut un error imprevist a l'executar una consulta.
+ErrorOccurredDuringCubeCreation;Hi ha hagut un error durant la creació de la galleda
+DeviceIdentification;Identificació de el dispositiu.
+DestinationFolderCannotBeInsideSourceFolder;La carpeta destí no pot estar dins de la carpeta origen.
+SourceFolderCannotBeInsideDestinationFolder;La carpeta origen no pot estar dins de la carpeta destinació.
+EntityNotAssociatedWithDatabase;L'entitat no està associada a cap base de dades.
+EntityAlreadyAssociatedWithDatabase;L'entitat ja està associada a una base de dades.
+TableStructureIsUnknown;L'estructura de la taula és desconeguda.
+ImagesNotWellSorted;Les imatges no estan ben ordenades
+TheSourceExcelFileNotExists;No existeix el fitxer Excel d'origen.
+ThereAreNoFilesInStage;No hi ha fitxers en stage.
+ThereIsNoFilePendingToLoad;No hi ha cap arxiu pendent de carregar
+RotationSchemeNotDefined;No s'ha definit l'esquema de rotació.
+JoinBetweenTablesNotFound;No s'ha trobat la relació entre aquestes dues taules.
+BaseDirectoryNotSpecified;No s'ha especificat el directori base (Directory)
+SourceDirectoryNotSpecified;No s'ha especificat el directori d'origen (SourceDirectory).
+XmlFileNotSpecified;No s'ha especificat el fitxer XML (File)
+AmazonBucketNameNotSpecified;No s'ha especificat el nom de l'bucket de amazon.
+FileNameToLoadNotSpecified;No s'ha especificat el nom de el fitxer a carregar (Filename).
+NameOfSourceDatabaseNotSpecified;No s'ha especificat el nom original de la base de dades (SourceDatabaseName).
+TargetSchemaNotSpecified;No s'ha especificat el 'TargetSchema'
+BakDirectoryNotSpecified;No s'ha especificat la carpeta on realitzar la còpia de seguretat (BakDirectory).
+DatasetLocationNotSpecified;No s'ha especificat la ubicació de l' 'Dataset'
+TablesToLoadNotSpecified;No s'han especificat les taules a carregar (Tables).
+CouldNotCreateEventInGoogleCalendar;No s'ha pogut crear l'esdeveniment a Google Calendar.
+CouldNotDetermineCurrentVersion;No s'ha pogut determinar la versió actual.
+CouldNotDetermineIfExistsAnyUpdateAvailable;No s'ha pogut determinar si hi ha actualitzacions
+CouldNotDeleteTheEvent;No s'ha pogut eliminar l'esdeveniment.
+CouldNotObtainEventInfo;No s'ha pogut obtenir la informació de l'esdeveniment.
+CannotDiscardChangesOnFileWithoutChanges;No es poden descartar canvis en un fitxer que no hi ha canvis.
+ItHasNotSenseToFindItself;No té sentit trobar-se a si mateix.
+ServerNameColon;Nom de servidor:
+NullProfileOrBadlyDefined;Perfil nul o mal definit.
+RestoringDatabase;Restaurant base de dades.
+ItIsNeededSpecifyWhereUnzip;S'ha d'especificar on es vol descomprimir
+DestinationAmazonBucketMustBeSpecified;S'ha d'especificar el amazon bucket de destinació (Target)
+S3BucketWhereUploadDirectoryMustBeSpecified;S'ha d'especificar el Bucket de S3 on pujar el directori (Bucket).
+DirectoryToUploadMustBeDefined;S'ha d'especificar el directori a pujar (Directory).
+DestinationDirectoryMustBeSpecified;S'ha d'especificar el directori de destinació (TargetDirectory)
+SourceDirectoryMustBeSpecified;S'ha d'especificar el directori d'origen (SourceDirectory)
+FolderToSynchronizeMustBeSpecified;S'ha d'especificar la carpeta a sincronitzar (SourceDirectory)
+BucketRegionMustBeSpecified;S'ha d'especificar la regió de l'bucket.
+DestinationBucketMustBeSpecified;S'ha d'especificar el 'Bucket' de destinació.
+DestinationTableMustBeSpecifiedIntoTargetTableTag;S'ha d'especificar la taula destinació en el TAG targetTable.
+BackupPathMustBeSpecified;S'ha de espeficicar el path on es troba la còpia de seguretat (Path)
+BackupStartsAtColon;S'inicia la còpia de seguretat en:
+DownloadFolderMustBeDefined;S'ha de definir la carpeta de descàrrega (BakDirectory)
+AllTablesHaveBeenGeneratedCorrectly;Totes les taules s'han generat correctament
+AllProfilesMustInformTableNamesToPublish;Tots els perfils han de tenir informat les 'TableNames' a publicar.
+VerifyingAccessToken;Verificant AccessToken
+DatasetRead;Llegit dataset
+UploadCompleted;Pujada finalitzada.
+SendEmail;Enviament correu electrònic
+NotExistsParameter;No hi ha {0}
+FailedToImportData;Decisió a l'importar les dades
+ParameterBetweenSquareBracketsNotAResourceFolder;[{0}] No és una carpeta de recursos.
+ServerBackupParameterBetweenParentheses;Backup servidor ({0})
+DatabaseParameter;Base de dades {0}
+SearchForUpdatesParameterBetweenParentheses;Cerca d'actualitzacions ({0})
+CompressingParameter;Comprimint {0}
+DownloadedParameterBytesParenthesesParameterMilliseconds;Descarregats {0} bytes ({1} milisegons).
+UnknownParenthesesReleaseParameter;Desconegut (release {0})
+TheDirectoryDoesNotExistsParameterBetweenParentheses;El directori no existeix ({0})
+TheCompressedFileParameterBetweenQuotesContainsMoreThanOneFile;El fitxer comprimit '{0}' conté més d'un fitxer.
+TheFileNotWithinBaseFolderParameterBetweenParentheses;El fitxer no està dins de la carpeta base ({0}).
+TheFileDoesNotExistsParameterBetweenParentheses;El fitxer no existeix ({0})
+TheNugetPackageNotHasExpectedContentParameterBetweenParentheses;El paquet de Nuget no té el contingut esperat ({0})
+TheZipNotContainsCompressedFolderParameterBetweenParentheses;El ZIP no conté una carpeta comprimida ({0}).
+OldBackupDeletedColonParameter;Eliminada còpia de seguretat antiga: {0}
+ErrorWhileSendingEmailParameterBetweenParentheses.;Error a l'enviar un correu ({0}).
+ErrorReadingWritingColonParameter;Error a l'llegir / escriure: {0}
+ThisFolderAlreadyGitRepositoryParameterBetweenParentheses;Aquesta carpeta ja és un repositori de GIT ({0})
+FileStatusNotContemplatedParameterBetweenParenthesesAndQuotes;Estat de el fitxer no contemplat ( '{0}')
+ExistsUpdateAvailableWillBeDownloadedAndInstalledAutomaticallyParenthesesUpdateColonParameter;Hi ha una actualització disponible. Es descarregarà i instal·larà automàticament. (Actualització: {0})
+ThereAreSeveralRecordsOfParameter;Hi ha diversos registres de {0}.
+FailtureHileLinkingColumnParameter;Decisió a l'vincular la columna {0}
+SheetParameterBetweenQuotesCreatedCorrectly;Full '{0}' creada correctament
+ImageParameter;Imatge {0}
+TheYamlHeaderOfResourceHeaderNotCorrectParameterBetweenParenthesesAndSquareBrackets;La capçalera YAML de la capçalera de recursos no és correcta ([{0}])
+TheFolderParameterBetweenQuotesAlreadyExists;La carpeta '{0}' ja existeix.
+QueueFullNoAdditionalMessageWillBeLoaded;La cua està plena. No es carregarà cap missatge addicional
+TheTableParameterBetweenQuotesNotHaveRecordsBulkIsOmited;La taula '{0}' no té cap registre. S'omet el BULK.
+LastVersionAvailableIsParameterParenthesesCurrentVersionColonParameter;L'última versió disponible és {0} (Versió actual: {1}).
+LastVersionAvailableIsParameterAlthoughWillNotBeInstalledNowBecauseCurrentExecutionModeParameterBetweenParentheses;L'última versió disponible és {0}, encara que no s'instal·larà ara per la manera d'execució actual ({1})
+ParameterReadMessages;Llegits {0} missatges
+ReadingDirectoryColonParameter;Llegint directori: {0}
+ReadingExcelTableColonParameter;Llegint taula Excel: {0}
+NotNeededToDeleteFileBecauseNotExistsColonParameter;No cal eliminar el fitxer perquè no existeix: {0}
+NotValidXMLFileParameterBetweenParenthesesColonParameter;No és un fitxer XML vàlid ({0}): {1}.
+NotANugetPackageParameterBetweenParentheses;No és un paquet de Nuget ({0})
+NotAGitRepositoryColonParameter;No és un repositori GIT: {0}
+TheSpecfiedDirectoryDoesNotExistsParameterBetweenParentheses;No existeix el directori especificat ({0})
+TheSearchedRecordDoesNotExistsParameter;No existeix el registre buscat de {0}.
+NotExistsAvailableUpdateParenthesesCurrentVersionColonParamether;No hi ha cap actualització diponible (Versió actual: {0})
+ThereAreNoOldBackupsPendingToDelete;No hi ha còpies de seguretat antigues pendents d'eliminar.
+ThereIsNoRegisteredServerThatUseAmazonBucketCalledParameterBetweenQuotes;No hi ha cap servidor registrat que utilitzi un bucket de amazon anomenat '{0}'
+BranchNotFoundColonParameter;No s'ha trobat la branca: {0}
+NoBackupFoundInIndicatedLocationParameterBetweenParentheses;No s'ha trobat cap còpia de seguretat en la ubicació indicada. ({0})
+OutputFolderNotSpecifiedParameterBetweenParentheses;No s'ha especificat la capreta de sortida. ({0}).
+PageToGenerateNotSpecifiedParameter;No s'ha especificat la pàgina a generar. ({0}).
+CouldNotDeleteTheFolderParameterBetweenQuotes;No s'ha pogut eliminar la carpeta '{0}'
+UrlNotRecognizedAsAwsS3ValidAddressParameterBetweenParentheses;No es reconeix la URL com una direccíon de AWS S3 vàlida ({0})
+ObtainDataParameterBetweenParentheses;Obtenir dades ({0})
+ReadyToExtractAndLoadTableDataParameter;Preparat per extreure i carregar les dades de la taula {0}
+ReadyToExtractAndLoadFileDataParameter;Preparat per extreure i carregar les dades de l'arxiu {0}
+UnexpectedProblemGeneratingThePageParameter;Problema imprevist generant pàgina {0}
+PerformedBulkInsertOnParameter;Realitzat BULK INSERT sobre {0}.
+PerformedBulkInsertonParameterParenthesesParameterReadRecords;Realitzat BULK INSERT sobre {0} ({1} registres llegits)
+ParameterMessagesWillBeEnqueueToFillTheQueue;Es encolarán {0} missatges per omplir la cua.
+AnUnexpectedFileHasBeenDeletedColonParameter;S'ha esborrat un fitxer inesperat: {0}
+TheBackupHasBeenCompressedColonParameter;S'ha comprimit la còpia de seguretat: {0}
+TheBackUpHasBeenCreatedColonParameter;S'ha creat la còpia de seguretat: {0}
+LoadOfParameterFilesStartsParenthesesParameterMb;S'inicia la càrrega de {0} arxius ({1} Mb.).
+DownloadOfParameterIntoParameterBetweenQuotesStarts;S'inicia la descàrrega de {0} a '{1}'
+UploadToParameterInThePathParameterBetweenParenthesesStartsParenthesesParameterKb;S'inicia la pujada a {0} a la ruta '{1}' ({2} Kb)
+UploadToParameterOfParameterBetweenParenthesesStartsParenthesesParameterKb;S'inicia la pujada a {0} de '{1}' ({2} Kb)
+UploadOfParameterFilesStarts;S'inicia la pujada de {0} arcihvos.
+FileSizeParameterKb;Mida de fitxer {0} Kb
+VerifyingProfileColonParameter;Verificant Profile: {0}
+LookingForDifferences;Buscant diferències
+Quote;Cita
+EmailSended;Correu enviat.
+ViewCreation;Creació vista
+CreateTables;Crear taules
+DownloadComplete;Descàrrega finalitzada.
+Decompressing;Descomprimint.
+RotationSchemeColon;Esquema rotació:
+FileCopied;Fitxer copiat.
+CubeGeneration;Generació de la galleda
+GeneratingExcelEllipsis;Generant Excel ...
+GeneratingParameterBetweenQuotes;Generarando '{0}'
+ReadingParameter;Llegint {0}
+NotDetected;No detectat
+Synchronization;Sincronització
+UnexpectedSituation;Situació imprevista
+FrameworkDotNetColonParameter;Framework .Net: {0}
+UnrecognizedActionOrJob;Acció o treball no reconegut.
+TooManyArguments;Massa arguments.
+UsageModeColonCronoConsoleDotExeSquareBracketsNameOfTheJobToExecute;Mode d'ús: CronoConsole.exe [nom de l'job a executar]
+AllImagesAreAccesibleCheck;- Totes les imatges són accessibles. (✅)
+SheetParameterBetweenQuotesCreatedWithTheFollowingErrorsColonParameter;Full '{0}' creada amb els següents errors:|{1}
+ItIsNotPossibleToCreateTheGoogleEventBecauseIsNecessaryToSpecifyTheStartDateBetweenQuotes;No és possible crear l'GoogleEvent perquè cal especificar el 'startdate'
+ItIsNotPossibleToCreateTheGoogleEventBecauseIsNecessaryToSpecifyTheTitleBetweenQuotes;No és possible crear l'GoogleEvent perquè cal especificar el 'Títol'
+TheCalendarIdHasNotBeenDefined;No s'ha definit el CalendarID.
+ShowValues;Veure valors
+Actions;Accions
+ParameterAlreadyExistsAskWantReplaceIt;'{0}' ja existeix.|Voleu reemplaçar-lo?
+TheFolderLowerCase;la carpeta
+TheCubeElementLowerCase;l'element de la galleda
+AskWantRemoveParameterParameterBetweenQuotes;Voleu eliminar {0} '{1}'?
+TheDestinationFileMightNotBeSameTypeAskOverwriteServerFile;El fitxer de destí podria no ser de el mateix tipus.|Sobreescriure fitxer de servidor?
+TheFileHasBeenDeletenOnTheServerAskPublishAgain;El fitxer ha estat esborrat al servidor.|¿Tornar a publicar?
+AConstructorWithASingleParameterHasNotBeenFoundInEditorParameterBetweenQuotesCreateConstructorToBeAbleToCreateNewElementsOfTypeParameterBetweenQuotes;No s'ha trobat un costructor amb un únic paràmetre en l'editor '{0}'.|Creu el constructor per poder crear nou elements de l'tipus '{1}'
+AreUniqueCandidatesColon;són candidates a úniques:
+ThisFilterAppliesToTheFollowingSheetsColonParameter;Aquest filtre s'aplica a les següents fulls: {0}
+TheParametersParametersHaveNotBeenDefined;Els paràmetres {0} no s'han definit.
+HyphenHyphenServiceUrlColonParameter;- Url de el servei: {0}
+ParameterWarningColonNoViewModelsConstructorRegisteredForCollectionTypeParameter;{0} Notes: No s'ha registrat cap constructor d'ViewModels per a una col·lecció de tipus '{1}'
+ParameterBetweenQuotesDeletesSuccessfully;'{0}' eliminat correctament.
+ParameterDeletedBetweenParentheses;{0} (eliminat)
+NameVersionCultureLocationBarSeparated;| nom | versió | Culture | ubicació |
+AskWantDeleteFilterParameterBetweenQuotes;Voleu esborrar el filtre '{0}'?
+AskWantDeleteCubeParameterBetweenQuotes;Voleu eliminar la galleda '{0}'?
+AskWantDeleteTheParameterParameter;Voleu eliminar el paràmetre {0}?
+AskWantDeleteConnectionParameterBetweenQuotes;Voleu eliminar la connexió '{0}'?
+AskWantDeleteTheLicenseCurrentlyUsing;Voleu eliminar la llicència que utilitzeu actualment?
+AskWantDeleteAllSelectedCubeElements;Voleu eliminar tots els elements seleccionats de la galleda?
+AskDeleteParameterBetweenQuotes;¿Eliminar '{0}'?
+AskDeleteTheJobParameterBetweenQuotes;¿Eliminar el treball '{0}'?
+OpenAllSubfolder;Obrir totes les carpetes
+UpdateAvailableParameterBetweenParentheses;Actualització disponible ({0})
+UpdateListOfValues;Actualitzar llista de valors
+JobManager;Administrador de treballs
+AddCalculatedColumn;Afegir columna calculada
+AddCalculatedColumnElipsis;Afegir columna calculada ...
+AddServerCronoExamples;Afegir servidor 'Exemples Crono'
+TheDocumentMustBeSavedLocallyBeforePublishing;Abans de publicar s'ha de guardar el document localment.
+AllConflictsMustBeResolvedBeforeSynchronizing;Abans de sincronitzar s'han de resoldre tots els conflictes
+LoadedMainWindowParenthesesAfterParameterMs;Carregada MainWindow (després de {0} ms)
+LoadedSplashParenthesesAfterParameterMs;Carregat Splash (després de {0} ms)
+ConfigurationFolder;Carpeta de configuració
+CloseOtherFolders;Tancar les altres carpetes
+CloseAllFolders;Tancar totes les carpetes
+ValidProductKey;Clau de producte vàlida.
+CheckingFilesFromTheCloud;Comprovant fitxers del núvol
+CheckingGitRepository;Comprovant repositori git ...
+ComputerConnectionColonParameter;Connexió d'equip: {0}
+DefaultConnection;Connexió per defecte
+ConfigureParameters;Configura paràmetres
+CopySuggestedCreateTable;Copiar CREATE TABLE suggerit
+CopyFieldList;Copiar llista de camps
+CopyCommaSeparatedFieldList;Copiar llista de camps separats per coma
+EmailColonParameter;Correu electrònic: {0}
+WhenGroupColumnsExistsNeedTospecifyOrderColumns;Quan hi columnes d'agrupament, també cal especificar columnes d'ordenació.
+YouMustDefinieVariableToUseThem;Ha de definir les variables per poder usar-les.
+YouMustSpecifyDataBaseNameForLocalCubes;Cal especificar el nom de la base de dades per les galledes locals.
+YouMustSpecifyConnectionName;Cal especificar el nom de la connexió.
+YouMustSpecifyFileName;Cal especificar el nom de l'arxiu
+YouMustSpecifyParameterName;Cal especificar el nom de l'paràmetre
+YouMustSpecifyANameForThisColumn;Cal especificar un nom per a aquesta columna.
+YouMustSpecifyACorrectKeyForParameter;Cal especificar una clau correcta per al parámeto
+YouMustSpecifyUserOrGroup;Cal especificar usuari o grup
+YouMustSelectColumnsToCheck;Heu de seleccionar les columnes que vulgueu comprovar.
+YouMustSelectaBusinessItem;Ha de seleccionar un element de negoci
+YouMustSelectAnItem;Ha de seleccionar un element.
+YouMustSelectAnAuthorizationType;Ha de seleccionar un tipus d'autorització
+YouMustSelectAUser;Ha de seleccionar un usuari.
+YouMustSelectAFolder;Heu de seleccionar una carpeta
+YouMustSelectACatalogDimension;Heu de seleccionar una dimensió de l'catàleg
+YouMustSpecifyTheItemName;Has d'especificar el nom de l'element.
+DownloadingDatabase;Descarregant base de dades
+WorkingDirectory;Directori de treball
+ExpressionEditor;Editor d 'expressions
+TheFileParameterBetweenQuotesIsOpenCloseItBeforeOverwriteIt;El fitxer '{0}' està obert, tanqueu-lo abans de sobreescriure.
+TheFileParameterBetweenQuotesContainsErrorsThatPreventSavingAskCloseWithoutSaving;El fitxer '{0}' conté errors que impedeixen guardar, Voleu tancar sense desar?
+TheFileContainsErrorsAndNotPossibleToSave;L'arxiu té errors i no ha estat possible guardar-lo.
+TheFileDoesNotHaveTheExpectedVersion;L'arxiu no té la versió esperada
+TheSelectedDirectoryIsNotAGitDirectory;El directori seleccionat no és un directori git.
+TheSelectedDirectoryIsNotEmpty;El directori seleccionat no està buit.
+TheSelectedDirectoryDoesNotExists;El directori seleccionat no existeix.
+TheFileMustBeInsideParameterBetweenQuotes;El fitxer ha de trobar-se dins de '{0}'
+TheFileIsNotAsExpected;El hash de l'arxiu no és l'esperat
+TheColumnNameCannotBeginWithArroba;El nom de la columna no pot començar per @.
+TheObjectTypeParameterBetweenQuotesNotValidSource;L'objecte de tipus '{0}' no és un origen vàlid.
+TheParameterParameterIsCatalogParameterAndCannotDelete;El paràmetre {0} és un paràmetre de catàleg i no es pot eliminar.
+TheRepositoryIsNotOnHead;El repositori no està en el HEAD.
+TheTextHasBeenCopiedToClipboard;El text s'ha copiat al porta-retalls.
+TheTypeParameterBetweenParenthesesIsNotEnumeration;El tipus '{0}' no és una enumeració
+TheUsesDoesNotBelongToAnyGroup;L'usuari no pertany a cap grup.
+TheDefaultValueIsBadlyDefined;El valor per defecte està mal definit.
+SelectedValueInParameterCausesRecursionSelectAnotherValue;El valor seleccionat en {0} causa recursivitat, si us plau, seleccioni un altre valor.
+SelectedValuesUsesThisParameterSelectAnotherValueToAvoidRecursion;El valor seleccionat fa servir aquest paràmetre, si us plau, seleccioni un altre valor per evitar recursivitat.
+DeleteParenthesesParameterColumns;Eliminar ({0} columnes)
+DeleteSelected;Eliminar seleccionats
+DeleteAllColumns;Eliminar totes les columnes
+ErrorDisplayingRequestResultParameterBetweenQuotes;Error a l'mostrar el resultat de la petició '{0}'.
+ErrorGettingParameter;Error a l'obtenir {0}
+IntentionallyCausedError;Error provocat intencionadament
+ThisActionDoesNotContainAnyPropertyThatCouldBeModified;Aquesta acció no conté cap propietat que es pugui modificar.
+ThisJoinIsMarkedToNotCheck;Aquesta relació està marcada perquè no es verifiqui.
+ThisJoinHasReferentialIntegrityInDatabase;Aquesta relació té integritat referencial a la base de dades.
+SetParameter;Establir {0}
+StatisticsOfTheResult;Estadístiques d'el resultat
+TheseColumnsTogether;Aquestes columnes, en conjunt,
+ThisFilterAppliesAllSheets;Aquest filtre s'aplica a tots els fulls
+ThisFilterAppliesOnlyThisSheetColonParameter;Aquest filtre s'aplica només en aquest full: {0}
+ThisFilterDoesNotApplyAnySheet;Aquest filtre no s'aplica a cap full
+ExcludeParameterInThisQuery;Excloure {0} en aquesta consulta
+ThereIsASyntaxError;Ha un error de sintaxi.
+ServerExplorer;Explorador de servidors
+FilterBusinessItems;Filtrar elements de negoci
+FilterOnTheFollowingPanels;Filtrar en els panells següents
+FilterOnAllSheets;Filtrar en tots els fulls
+FilterOnAllPanels;Filtrar en tots els panells
+FilterOnlyOnThisSheet;Filtrar només en aquest full
+FilterOnlyInThisPanel;Filtrar només en aquest panell
+FormatParenthesesParameterColumns;Format ({0} columnes)
+NotImplementedFormat;Format no implementat
+FormulaValidatedCorrectly;Fórmula validada correctament
+GenericColonParameter;Genèrica: {0}
+TheConnectionToTheServerHasFailed;Ha fallat la connexió amb el servidor
+ThereWasAnErrorWhileCommitting;Hi ha hagut un error mienstras es feia commit.
+ThereWasAProblemWhileRegisteringCheckInternetOrContactCrono;Hi ha hagut un problema a l'hora de registrar el producte. Revisi la seva connexió a internet o poseu-vos en contacte amb info@crono.net.
+AnErrorOccurredDuringExecution;Hi ha hagut un error durant l'execució.
+AnErrorOccurredDuringPublication;Hi ha hagut un error durant la publicació.
+AnErrorOccurredDuringDataValidation;Hi ha hagut un error durant la validació de les dades.
+AnErrorOccurredInTheApplicationAndWillNowClose;Hi ha hagut un error en l'aplicació i va a tancar-se.
+AnUnexpectedErrorOccurredWhileExportingInformation;Hi ha hagut un error imprevist a l'exportar la informació ...
+AnUnexpectedErrorOccurredDuringThisCommandExecution;Hi ha hagut un error imprevist durant l'execució d'aquesta comanda.
+ThereHaveBeenNewCommitsSinceTheLastCheck;Hi ha hagut nous commits des de l'última comprovació.
+ThereAreFilesInStage;Hi ha fitxers en stage
+ThereIsAnErrorWithTheQuery;Hi ha un error amb la consulta
+ThereIsAnIncompleteMerge;Hi ha un merge incomplet.
+DeviceIdentifierColonParameter;Identificador de l'equip: {0}
+IndicatesWhetherVariableModificationsAreMadeDirectlyOnTheListOrInACopy;Indica si les modificacions que es facin sobre les variables es realitzen directament sobre la llista passada per paràmetre a la propietat variable o es realitzaran en una còpia
+SessionInformation;Informació de sessió
+EnterTheLicenseNumber;Introduïu el número de llicència.
+EnterAContactEmail;Introduïu un correu electrònic de contacte
+TheFolderParameterBetweenQuotesNotContainGitRepository;La carpeta '{0}' no conté un repositori git.
+TheConnectionIsNotDefined;La connexió no està definida
+TheDefinitionContainsSyntaxError;La definició conté algun error de sintaxi
+TheExpressionIsNotCorrect;L'expressió no és correcta.
+TheExpressionIsNotAFilter;L'expressió no és un filtre
+TheExpressionMustBeAQuery;La instrucció ha de ser una consulta
+ThePropertyParameterIsReadOnly;La propietat '{0}' és de només lectura.
+ThePropertyParameterIsReadOnlyAndCannotBeSetByBinding;La propietat '{0}' és readonly i no es pot establir per binding.
+ThePropertyParameterIsReadOnlyAndItsValueCannotBeSetExternally;La propietat '{0}' és readonly i no es pot establir el seu valor externament.
+ThePropertyParameterBetweenQuotesNotExistsInModelParameterBetweenParentheses;La propietat '{0}' no existeix en el model ({1})
+TheListPropertyIsNotEnumerableType;La propietat de llista no és de l'tipus enumerable
+ListPropertyHasNotBeenFound;La propietat de llista no s'ha trobat
+TheSQLStatementIsCorrect;La sentència SQL és correcta.
+LocateInCatalog;Localitzar en catàleg
+ChangesMadeToFileParameterBetweenQuotesWillBeLostAskContinueAnyway;Els canvis realitzats en el fitxer '{0}' es perdran. ¿Continua de totes maneres?
+FiltersWillAlwaysApplyToThePanelsWhereTheyAreIn;Els filtres sempre s'aplicaran als panells en què es troben.
+ReportsFromCubesAreNotYetAvailable;Els informes des cubs no estan disponibles encara
+TheParameterParameterHasNotBeenDefined;El paràmetre {0} no s'ha definit.
+RamMemoryColonParameterMb;Memòria RAM: {0: N2} MB
+ShowColumnSelector;Mostra selector de columnes
+YouNeedLinceseNumberToUseCronoSolutionCanGetOneFromDemoCrono;Necessita un número de llicència per utilitzar la solució Crono. Pot obtenir-ne un gratuïtament des http://demo.crono.net
+NoObjectInCatalogUsesTheParameterParameterBetweenQuotes;Cap objecte al catàleg utilitza el paràmetre '{0}'
+ThePropertyParameterBetweenQuotesNotExistsInParameterBetweenQuotesParenthesesViewModelColonParameterBetweenQuotes;No existeix la propietat '{0}' a '{1}' (viewmodel: '{2}')
+DoNotFilterOnThisSheet;No filtrar en aquest full
+CouldNotValidateLicenseNumberMayBeProblemsWithInternetConnectionOrServerMeyNotBeOperationalAtThisTimeTryItAgainLater;No ha pogut validar el número de llicència. És possible que hi hagi problemes amb la seva connexió a Internet o que el servidor no estigui operatiu en aquest moment. Ho a provar més tard.
+ItWasNotPossibleToUseThisCatalog;No ha estat possible utilitzar aquest catàleg
+ItWasNotPossibleToValidateProductKey;No ha estat possible validar la clau de producte.
+ThereAreNoPendingChanges;No hi ha canvis pendents
+ThereIsNoEstablishedConnectionAtThisTime;No hi ha cap connexió establerta en aquest moment.
+ThePublicationAddresHasNotBeenConfigured;No s'ha configurat la direcció de publicació.
+AnOriginHasNotBeenConfiguredInTheRepository;No s'ha configurat un 'origin' al repositori.
+TheColorThemeLibraryWasNotFoundColon;No s'ha trobat la llibreria de el tema de colors:
+NoCatalogFoundOnTheSpecifiedRoute;No s'ha trobat cap catàleg a la ruta especificada
+CouldNotOpenJobColonParameter;No s'ha pogut obrir el treball: {0}
+CouldNotUpdateServerInformation;No s'ha pogut actualitzar la informació de servidor
+CouldNotAssignValue;No s'ha pogut assignar el valor.
+CouldNotChangeRegistryValue;No s'ha pogut canviar el valor de l'registre
+CouldNotCloneRepository;No s'ha pogut clonar el repositori.
+CouldNotGenerateFileParameterBetweenQuotes;No s'ha pogut generar el fitxer '{0}'.
+NoServersHaveBeenRegistered;No s'ha registrat cap servidor
+NoSourceHasBeenSelected;No s'ha seleccionat cap origen.
+CouldNotGenerateSDLViewOfParameterBetweenQuotes;No s'han pogut generar la vista SDL d' '{0}'
+NoFilesHaveBeenSelected;No s'ha seleccionat fitxers.
+ThisPanelCannotBeExportedInCardsMode;No es pot exportar aquest panell en la manera de presentació 'Targetes'
+CannotSaveIntoFolderParameterBetweenQuotes;No es pot guardar a la carpeta '{0}'
+CannotLocateMapFileParameterBetweenQuotes;No es pot localitzar el fitxer de mapes '{0}'
+YouHaveNoRegisteredServerThatSupportsPublishingAskWantToAddOneNow;No té cap servidor registrat que admeti publicació, Voleu afegir un ara?
+LicenseNumberColonParameter;Número de llicència: {0}
+ObjectForTheListOfValues;Objecte per a la llista de valors
+ObjectsUsingParameter;Objectes que fan servir {0}
+GetsOrSetsACollectionUsedToGenerateTheDatagridContent;Obté o estableix una recol·lecció que s'utilitza per generar el contingut de l'DataGrid
+GetsACollectionOfDatagridColumns;Obté una col·lecció de columnes de l'DataGrid
+HideParenthesesParameterColumns;Amaga ({0} columnes)
+AnErrorOcurredDuringSynchronization;S'ha produït un error durant la sincronització.
+PassAllToQuery;Passar tots a consulta
+PercentageWithRespectToAGroup;Percentatge respecte a un grup
+ProblemGettingPropertyParameterBetweenQuotesOfAParameterBetweenQuotes;Problema a l'obtenir la propietat '{0}' d'un '{1}'
+UnregisteredProduct;Producte no registrat
+PropertyParameterBetweenQuotesLinkedToIncorrectType;Propietat '{0}' enllaçada a tipus incorrecte
+PropertyParameterBetweenQuotesNotFoundInObjectOfTypeParameterBetweenQuotes;Propietat '{0}' no trobada en l'objecte de l'tipus '{1}'.
+FolderProperties;Propietats de carpeta
+ColumnProperties;Propietats de columna
+FilterProperties;Propietats de filtre
+CubeElementProperties;Propietats de l'element de la galleda
+RepositoryProperties;Propietats repositori
+ReferenceToNonExistentPropertyColon;Referència a propietat inexistent:
+HighlightCompatibleObjects;Ressaltar els objectes compatibles
+TheExpressionMustBeSpecified;S'ha d'especificar l'expressió.
+ACommitMessageMustBeSpecified;S'ha d'especificar un missatge de commit.
+TheJobMustBeNamed;S'ha de nomenar el treball.
+AtLeastParameterParameterMustBeSelected;S'ha de seleccionar al menys {0} {1}
+TheDestinationDirectoryMustBeSelected;S'ha de seleccionar el directori de destinació.
+ACalendarMustBeSelected;S'ha de seleccionar un calendari.
+ADirectoryMustBeSelected;S'ha de seleccionar un directori.
+AFileToExecuteMustBeSelected;S'ha de seleccionar un fitxer a executar
+ASingleQueryMustBeUsed;S'ha d'utilitzar una única consulta
+AnoObjectOfTypeTypeWasExpectedButIsTypeParameterBetweenQuotes;S'esperava un objecte de l'tipus 'Type' però és de l'tipus '{0}'
+TheTableIsMaterializing;S'està materialitzant la taula
+TheRepositoryHasBeenAccessedCorrectly;S'ha accedit a el repositori correctament.
+RegistrationCompletedSuccessfully;S'ha completat el registre satisfactòriament.
+TheDatabaseWasCreatedAndConnectionHasBeenEstablishedCorrectly;S'ha creat la base de dades i s'ha establert la connexió correctament.
+TheDatabaseHasBeenDeletedSuccessfully;S'ha eliminat la base de dades correctament.
+TheConnectionToCronoServerHasBeenEstablishedSuccessfully;S'ha establert correctament la connexió amb el servidor de Crono.
+ItHasBeenPublishedCorrectly;S'ha publicat correctament.
+UpdatesHaveBeenLookedFor;S'han buscat actualitzacions
+ParameterDifferentCombinationsHaveBeenFound;S'han trobat {0: N0} combinacions diferents.
+TheLookForUpdatesStarts;S'inicia la recerca d'actualitzacions
+TheDatabaseParameterIsGoingToBeDeletedWithAllItsContentAskAreSureWantContinue;Es va eliminar completament la base de dades {0} i tot el seu contingut. Esteu segur que vol continuar?
+SelectParameterInThisQuery;Seleccionar {0} en aquesta consulta
+SelectGreaterThanOrEqualTo;Seleccionar major o igual que
+SelectLessThanOrEqualTo;Seleccionar menor o igual que
+SelectLocation;Seleccionar ubicació
+SelectTheImageFile;Seleccioneu el fitxer d'imatge
+SelectTheCatalogLanguage;Seleccioneu l'idioma de l'catàleg
+SelectTheActionTypeYouWantCreate;Seleccioneu el tipus d'acció que voleu crear.
+SelectTheJob;Seleccioneu el treball
+SelectBusinessElementsTahtWillBeAllowedToChoosesWhenAskingTheParameter;Seleccioneu els elements de negoci que es permetran escollir quan es pregunti pel paràmetre.
+SelectTheValuesToFilterBy;Seleccioneu els valors pels quals filtrar.
+SelectACatalogWithWhichToBuildYourReport;Seleccioneu un catàleg amb el qual construir el seu informe
+SelectADirectory;Seleccioneu un directori
+SelectAnItemFromCatalog;Seleccioneu un element del catàleg.
+SelectADimension;Seleccioneu una dimensió.
+ServerForLocalCubes;Servidor per cubs locals
+IfPasswordIsSpecifiedAUserMustAlsoBeSpecified;Si s'especifica una clau també s'ha d'especificar un usuari.
+SynchronizationCompleted;Sincronització completada.
+OperatingSystemColonParameter;Sistema operatiu: {0}
+OnlyPaginaViewItemAndPaginaViewGroupItemAreAllowed;Només s'admeten 'PaginaViewItem' i 'PaginaViewGroupItem'
+SplashScreenClosedParenthesesAfterParameterMs;SplashScreen tancada (després de {0} ms)
+InstallationTypeColonParameter;Tipus d'instal·lació: {0}
+ValidatingProductKeyElipsis;Validant clau de producte ...
+ValidateLicenseNumber;Validar número de llicència
+NotAllowedValueInParameter;Valor no admès en {0}
+ShowVerificationErrors;Veure errors de verificació
+ShowVerificationStatement;Veure sentencia de verificació
+InstallationVerification;Verificació de la instal·lació
+AParameterWithThisKeyAlreadyExists;Ja existeix un paràmetre amb aquesta clau
+WouldYouLikeToDefineThemNow;Voleu definir-los ara?
+WouldYouLikeToDefineItNow;Voleu definir-ara?
+TheBusinessItemLowerCase;l'element de negoci
+Execute;Executar
+ParenthesesParameterMs;({0} ms)
+AskWantToCheckThisJoinLastVerificationDataColonParameterLastVerificationTimeColonParameterSeconds;Voleu verificar aquesta relació?|Data última verificació: {0}|Temps última verificació: {1} segons
+TheParentTypeIsParameterWithCronoSqlColonParameter;El pare és de l'tipus {0} amb CronoSql:|{1}
+FailedToFindPropertyParameterBetweenQuotesInObjectTypeParameterBetweenQuotesParameter;Decisió a l'buscar la propietat '{0}' en l'objecte de tipus '{1}'|{2}
+FailedToSetPropertyParameterBetweenQuotesParameter;Decisió a l'establir la propietat '{0}'|{1}
+TheFilePublicationDateOnServerNotMatchCurrentOneAskPostAnywayLastPublicationInformationColonParameter;La data de publicació de l'fitxer al servidor no concorda amb l'actual.|Publicar igualment?||Informació d'última publicació:|{0}
+TheConnectionParameterBetweenQuotesToAccessTheDatabaseDoesNotExistsAskWantCreateItNow;No hi ha la connexió ' {0} ' per accedir a la base de dades.|Voleu crear-ara?
+Format;Format
+Exclude;Excloure
+_Select;Seleccionar
+Accept;Acceptar
+Enable;Activa
+ManageFilters;Administrar filtres
+Disable;Desactivar
+Documentation;Documentació
+EditQuery;Edita consulta
+FilterOn;Filtra sobre la
+General;General
+NewAction;Nova acció
+NewFilter;Nou filtre
+Hide;Amaga
+OrganizationColonParameter;Organització: {0}
+PassToQuery;Passar a consulta
+PassToFormula;Passar a fórmula
+Registration;Registre
+Log;Registre
+PercentageSalesMarginAVsCostB;% Marge de venda A vs cost B
+PercentageVariationOfAVsB;% Variació d'A vs B
+AMinusBDividedBPercentageBetweenParentheses;(A-b) / b (Percentatge)
+ParameterAccumulated;{0} acumulat
+ADivideBPercentageBetweenParentheses;a / b (Percentatge)
+ADivideBRatioBetweenParentheses;a / b (Ràtio)
+AboutCrono;Sobre Crono
+Acknowledgment;Agraïments
+AddColumn;Afegir columna
+Authorization;Autorització
+Basics;Bàsics
+Calendar;Calendari
+GoogleCalendar;Calendari de Google
+FolderOnServer;Carpeta en servidor
+LocalFolder;Carpeta local
+Scientific;Científic
+ProductKey;Clau del producte
+ForeignKey;Clau externa
+Cloning;Clonant
+Clone;Clonar
+CloneRepository;Clonar repositori
+Commit;Commit
+CheckingStatus;Comprovar estat
+CheckingHead;Comprovant HEAD
+CheckingSource;Comprovant origen
+CheckingStage;Comprovant stage
+NetworkConfiguration;Configuració de xarxa
+ConfigureConnection;Configura connexió
+ConfigureOrderBy;Configura ORDER BY
+ConfigureTop;Configura TOP
+ContactColonParameter;Contacte: {0}
+CopyName;Copia nom
+Correct;Correcte
+SplashCreated;Creat Splash
+Credentials;Credencials
+Available;Disponible
+Duration;Durada
+Edit;Edita
+EditExpression;Edita expressió
+SqlQueryEditor;Editor consulta SQL
+CronoSqlEditor;Editor Crono SQL
+QueryEditor;Editor de consulta
+PermissionsEvaluatedSequentiallyInCaseContradictoryAssignmentsLastPrevailsIfNoPermissionApplicableDefaultApplicationPermissionsAreMaintained;Els permisos s'avaluen seqüencialment. En cas d'assignacions contradictòries preval l'últim de la llista.||Si cap permís específic és aplicable, es mantenen els permisos per defecte de l'aplicació.
+DeleteColumn;Eliminar columna
+BindingErrorsColon;Errors de binding:
+Statistics;Estadístiques
+Eula;EULA
+Explorer;Explorador
+Export;Exporta
+DateAndTime;Data i hora
+ColumnFilter;Filtre de columna
+AdvancedFilters;Filtres avançats
+Print;Imprimir
+Start;Inici
+EnterYourCity;Introdueixi la seva ciutat
+EnterYourName;El teu nom
+TheRequestToParameterBetweenParenthesesWasResolvedWithTheCodeColonParameterParameter;La petició a '{0}' es va resoldre amb el codi:||{1} {2}
+ExpiredLicense;Llicència caducada
+LicenceDeleted;Llicència eliminada.
+ClearFilters;Netejar filtres
+ClearValue;Netejar valor
+TheFollowingFilesAreLockedCloseProgramsMayBeUsingThemAndTrySynchronizeAgain;Els següents fitxers estan bloquejats, tanqui els programes que puguin estar utilitzant aquests fitxers i intenti sincronitzar de nou.||{0}
+ErrorMessage;Missatge d'error
+Currency;Moneda
+ShowingMainWindow;Ara es mostren MainWindow
+ShowWarnings;Mostra avisos
+ShowSummations;Mostra sumatoris
+NotAvailable;No disponible
+CouldNotConnectToTheCloudParameter;No s'ha pogut connectar al núvol.||{0}
+CouldNotGetRepositoryInformationCheckRepositoryAddressIsWellWrittenAndCredentialsAreCorrect;No s'ha pogut obtenir informació de l'arxiu.||Comproveu que la direcció de l'repositori està ben escrita i que els credencials són correctes.
+NewCube;Nou cub
+Number;Nombre
+Objects;Objectes
+GeneralOptions;Opcions generals
+Sort;Ordenar
+Custom;Personalitzats
+Percentage;Percentatge
+PercentageParameter;Percentatge {0}
+PercentageOfTheTotal;Percentatge de l'total
+ProductActivated;Producte activat
+CubeProperties;Propietats de la galleda
+RankingPercentage;Rànquing%
+UserSelection;Selecció d'usuari
+FormatSelection;Selecció format
+SelectCatalog;Seleccionar catàleg
+SelectValues;Seleccionar valors
+SelectTheType;Seleccioneu el tipus
+SelectYourCountry;Seleccioni el seu país
+SelectAnObject;Seleccioneu un objecte
+Server;Servidor
+DoUpperCase;SI
+DoNotUpperCase;NO
+Synchronize;Sincronitzar
+SynchronizeProject;Sincronitzar projecte
+SyntaxCorrect;Sintaxi correcta.
+TechnicalSupport;Suport tècnic
+SqlServerColonParameterParameterBetweenParentheses;SQL Server: {0} ({1})
+Startup;Startup
+CumulativeSum;Suma acumulada
+CumulativeSumPercentageBetweenParentheses;Suma acumulada (%)
+ReplaceWith;Substituir per
+TestText;Text de prova
+TextWithoutFormat;Text sense format
+NullValueLowerCase;valor nul
+TableValues;Valors de la taula
+ShowGroups;Veure grups
+CheckJoin;Verificar relació
+CheckUniqueness;Verificar unicitat
+VersionColonParameter;Versió: {0}
+ParenthesesRestOfLatinAmerica;(Resta d'Amèrica Llatina)
+ExclamationThanksForUsingCrono;Gràcies per utilitzar Crono!
+TaskManager;Administrador de tasques
+ManageRepositories;Administrar repositoris
+ManageServers;Administrar servidors
+AddExistingGitFolder;Afegeix una carpeta git existent
+DragToTheRightPanelTheColumnsByWhichWantSortTheQuery;Arrossegueu a el panell de la dreta les columnes per les quals voleu ordenar la consulta.
+DragHereToCreateAFilter;Arrossegueu fins aquí per crear un filtre.
+WindowsAuthentication;Autenticació Windows
+WindowsAuthenticationColon;Autentificació Windows:
+LookForUpdates;Cerca actualitzacions
+CustomNumericFormatStrings;cadenes de format numèric personalitzat
+ChangeLicenseNumber;Canviar número de llicència
+ChangesInTheLocalFolder;Canvis en la carpeta local
+BackupsFolder;Carpeta còpies de seguretat
+CronoConfigurationFolder;Carpeta de configuració Crono
+CloseWindowWhenExecutionFinished;Tancar aquesta finestra a l'finalitzar l'execució
+GroupColumnsColon;Columnes d'agrupament:
+OderColumnsColon;Columnes d'ordenació:
+AvailableColumnsColon;Columnes disponibles:
+CheckAccessForColon;Comprovar accés per:
+ConfigureProxyServer;Configura servidor intermediari
+KeepCloudChanges;Conservar canvis del núvol
+KeepLocalChanges;Conservar canvis locals
+KeepAllCloudChanges;Conservar tots els canvis del núvol
+KeepAllLocalChanges;Conservar tots els canvis locals
+ContainsUniqueValues;Conté valors únics
+CronoUsesOpenSourceSoftwareAndThirdPartyApplications;Crono utilitza programari de codi obert i altres aplicacions d'altres fabricants.
+DownloadUpdatesAutomatically;Descarregar actualitzacions automàticament
+DownloadDirectoryColon;Directori de descàrrega:
+DownloadDirectory;Directori de descàrregues
+WorkDirectoryColon;Directori de treball:
+RunGarbageCollector;Executar recol·lector d'escombraries
+ParameterizableBusinessItem;Element de negoci parametritzable
+DeleteDatabaseParenthesesDropDatabase;Eliminar base de dades (DROP DATABASE)
+ConfigurationFolderContainsComputerConnectionsAndOtherInformation;A la carpeta de configuració es guarden les connexions d'equip i la resta de paràmetres.
+EnterYourLicenseNumber;Escrigui el seu número de llicència
+ThisInformationIsShared;Aquesta informació és compartida
+ThisStatisticsWindowCanHelpYouDetectCandidateFieldsToFormPrimaryKeyOrUniqueRestriction;Aquesta finestra d'estadístiques li pot ajudar a detectar els camps candidats a formar clau primària o restricció UNIQUE.
+WeStudyAndAppreciateAllRequestsWeRecive;Estudiem i valorem totes les peticions que rebem.
+FormulaFromExistingColumnsInQuery;Fórmula a partir de les columnes existents a la consulta
+SaveConfigurationInTheProfileOfEachUser;Guardar la configuració en el perfil de cada usuari
+SaveConfigurationInAFolderOnComputer;Guardar la configuració en una carpeta de l'equip
+LicenseInformation;Informació de llicència
+SystemInformation;Informació de el sistema
+StartCronoExcelWhenOpeningMicrosoftExcel;Iniciar Crono Excel a l'obrir Microsoft Excel
+EnterTheVariableParametersOfThisDocument;Introduïu els paràmetres variables d'aquest document.
+TheCronoExcelRegistryKeyExists;La clau de l'registre de Crono Excel existeix
+TheInformationIsSavedIn;La informació es guarda en
+LimitNumberOfRows;Limitar nombre de files
+MoreInformationAboutTheChanges;Més informació sobre els canvis
+ShowAdvancedGITFunctionalities;Mostra funcionalitats avançades de GIT
+ShowTextInSeparateWindowWhenDoubleClicking;Mostra text en finestra independent a l'fer doble clic
+ShowAllRows;Mostra totes les files
+TheCronoExcelKeyDoesNotExistsInWindowsRegistry;No hi ha la clau de Crono Excel en el registre de Windows
+NoRulesFoundForThisUser;No s'ha trobat cap regla per a aquest usuari
+NewCalculatedColumn;Nova columna calculada
+NewComputerConnection;Nova connexió d'equip
+NuevoCombinedAndOrFilter;Nou filtre combinat I / O
+AnotherSqlServer;Un altre servidor SQL Server
+ToInstallTheEvaluationVersionYouNeedALicenseNumberWithThisFormatColonXXX;Per instal·lar la versió d'avaluació necessita un número de llicència amb aquest format: XXXX-XXXX-XXXX.
+ForMoreInformationSeetheHelpAboutThe;Per a més informació vegeu l'ajuda sobre les
+ForHelpingUsImproveCrono;per ajudar-nos a millorar Crono.
+BetweenAllCronoApplicationsOfThisUser;per totes les aplicacions Crono d'aquest usuari.
+BetweenAllCronoApplicationsAndUsersOfThisMachine;per totes les aplicacions Crono i tots els usuaris d'aquesta màquina
+PercentageOfTheTotalCountOfRecords;Percentatge de el nombre total de registres
+TaskScheduler;Programador de tasques
+YouCanContactUsFromTheSupportWebsiteOrByEmail;Pot contactar amb nosaltres des de la web de suport o mitjançant correu electrònic.
+CountOfDifferentValues;Recompte de valors diferents
+PathOrUrlOfTheCatalogColon;Ruta o Url de l'catàleg:
+TheSampleDatabaseIsBeingDownloaded;S'està descarregant la base de dades d'exemple
+DefaultServer;Pares servidor
+RegisteredServers;Servidors registrats
+RegisteredServersColon;Servidors registrats:
+IfNotHaveValidLicenseNumberCanRequestForFreeAtFollowingAddressColon;Si encara no disposa d'un número de llicència vàlid, pot sol·licitar-se gratuïtament en la següent adreça:
+UploadTheChangesToTheCloudAutomaticallyAfterSynchronize;Pujar els canvis al núvol automàticament després de sincronitzar
+ColumnFilterType;Tipus de filtre de columna
+RemoteBackupsLocation;Ubicació remota còpies de seguretat
+UseThisScreenToLimitNumberOfRecordsReturnedOrSetRankingBasedOnOneOfTheColumns;Utilitzeu aquesta pantalla per limitar el nombre de registres retornats o per establir un rànquing basat en alguna de les columnes.
+SelectedValues;Valors seleccionats
+SeeObjectThatUseThisParameter;Veure objectes que fan servir aquest paràmetre
+VerifyConnectionToLocalDB;Verificar connexió a LocalDB
+VerifyCredentials;Verificar credencials
+VerifyInstallation;Verificar instal·lació
+VisitCronoWebsite;Visitar pàgina web de Crono
+IAlreadyHaveALicenseNumber;Ja tinc un número de llicència
+IAlreadyHaveALicense;Ja tinc una llicència
+HomeUpperCase;INICI
+Definition;Definició
+Verify;Verificar
+Diagram;Diagrama
+QueyUpperCase;CONSULTA
+DescriptionColon;Descripció:
+NameColon;Nom:
+UserColon;Usuari:
+PasswordColon;Password:
+FontColon;Font:
+UrlColon;Url:
+ActionsColon;Accions:
+DatabaseColon;Base de dades:
+Cancel;Cancel
+ConnectionColon;Connexió:
+DiscardChanges;Descarta els canvis
+Disabled;Desactivat
+ExecutingElipsis;Executant ...
+Environment;Entorn
+ListOfValues;Llista de valors
+ListOfValuesColon;Llista de valors:
+EditConnection;Modificar connexió
+FullNameColon;Nom complet:
+ServerColon;Servidor:
+DataTypeColon;Tipus de dada:
+ParenthesesWithoutProxy;(Sense proxy)
+Activated;Activat
+UpdateList;Actualitzar llista
+AdvancedPluralFemale;Avançades
+BackgroundColorColon;Color de fons:
+QueriesColon;Consultes:
+PasswordLocalizedColon;Clau:
+EmailColon;Correu electrònic:
+Design;Disseny
+CompanyColon;Empresa:
+ExpressionColon;Expressió:
+FormulaColon;Fórmula:
+Save;Desar
+ReadAndWrite;Lectura i escriptura
+Message;Missatge
+EditServer;Modificar servidor
+SourceColon;De:
+Path;Ruta
+SelectSeveral;Seleccionar diversos
+TextColon;Text:
+Type;Tipus
+FormatType;Tipus format
+ValueColon;Valor:
+CheckConnection;Verificar connexió
+ParenthesesRestOfEurope;(Resta d'Europa)
+ParenthesesRestOfTheWorld;(Resta de l'món)
+AnonymousAccess;Accés anònim.
+About;Sobre
+AttachedColon;Adjunt:
+Germany;Alemanya
+AmazonS3;Amazon S3
+Andorra;Andorra
+Argentina;Argentina
+Australia;Austràlia
+Austria;Àustria
+SqlAuthentication;Autenticació SQL
+Belgium;Bèlgica
+Bolivia;Bolívia
+Brazil;Brasil
+Bulgaria;Bulgària
+Search;Cercar
+ConnectionStringColon;Cadena de connexió:
+Calculator;Calculadora
+CalendarColon;Calendari:
+ChangesInTheCloud;Canvis en el núvol
+Canada;Canadà
+Loading;Carregant
+CubeFolderColon;Carpeta de cubs:
+FolderColon;Carpeta:
+GitFolders;Carpetes GIT
+LocalCatalog;Catàleg local
+CatalogColon;Catàleg:
+Catalogs;Catàlegs
+RecentCatalogsColon;Catàlegs recents:
+Chile;Xile
+China;Xina
+Cyprus;Xipre
+CityColon;Ciutat:
+AccessKey;Clau d'accés
+Colombia;Colòmbia
+Column;Columna
+Check;Comprovar
+Granted;Concedit
+ComputerConnection;Connexió d'equip
+ComputerConnections;Connexions d'equip
+ConnectionsColon;Connexions:
+ContainsNulls;Conté nuls
+CopyText;Copiar text
+CostaRica;Costa Rica
+CreateDatabase;Crear base de dades
+AmazonCredentials;Credencials Amazon
+EmailCredentials;Credencials correu
+GitCredentials;Credencials de GIT
+NetworkCredentials;Credencials de xarxa
+Cuba;Cuba
+Cube;Cub
+Cubes;Cubs
+LocalCubesColon;Cubells locals:
+Denied;Denegat
+Deny;Denegar
+DownloadColon;Descàrrega:
+_Stop;Aturar
+Denmark;Dinamarca
+UrlAddressColon;Direcció Url:
+AddressColon;Direcció:
+DomainColon;Domini:
+Ecuador;Equador
+EditManually;Edita manualment
+ExecutingActions;Executant accions
+ElSalvador;El Salvador
+BusinessItemColon;Element de negoci:
+RemoveFromTheList;Elimina de la llista
+DeleteFilter;Eliminar filtre
+Awaiting;En espera
+_Error;Error
+Spain;Espanya
+UnitedStates;Estats Units
+Style;Estil
+TokenDateColon;Data token:
+Fetch;Fetch
+Philippines;Filipines
+FilterCatalogColon;Filtrar catàleg:
+AdvancedFilter;Filtre avançat
+CombinedFilterColon;Filtre combinat:
+AdvancedFormula;Fórmula avançada
+France;França
+Generic;Generica
+Gibraltar;Gibraltar
+Greece;Grècia
+GroupsColon;Grups:
+SaveAs;Desa
+SaveInTheCloud;Guardar en el núvol
+SaveLocally;Guardar a local
+Guatemala;Guatemala
+Guinea;Guinea
+EquatorialGuinea;Guinea Equatorial
+Haiti;Haití
+Inherited;Heretat
+Honduras;Hondures
+Identification;Identificació
+AvailableLanguagesColon;Idiomes disponibles:
+India;Índia
+Ireland;Irlanda
+Israel;Israel
+Italy;Itàlia
+Japan;Japó
+Read;Lectura
+LimitResult;Limitar resultat
+LimitColon;Límit:
+Clear;Netejar
+ClearColumns;Netejar columnes
+Morocco;Marroc
+MessageColon;Missatge:
+Messages;Missatges
+Mexico;Mèxic
+ThankYouSoMuch;Moltes gràcies
+SampleColon;Mostra:
+Nicaragua;Nicaragua
+ConnectionName;Nom connexió
+KeyNameColon;Nom de l'Key:
+BucketNameColon;Nom de l'bucket:
+Norway;Noruega
+NewConnection;Nova connexió
+NewParameter;Nou paràmetre
+LicenseNumberColon;Número de llicència:
+AdvancedOptions;Opcions avançades
+AdvancedOperators;Operadors avançats
+SortResult;Ordenar resultat
+OrganizationColon;Organització:
+CountryColon;País:
+Netherlands;Països Baixos
+Panama;Panamà
+Paraguay;Paraguai
+CalculatedParameter;Paràmetre calculat
+UserParameter;Paràmetre d'usuari
+ParameterColon;Paràmetre:
+Pending;Pendent
+PermissionsColon;Permisos:
+ContactPersonColon;Persona de contacte:
+Peru;Perú
+PleaseWait;Si us plau.
+Portugal;Portugal
+GitProjectsColon;Projectes git:
+PropertiesColon;Propietats:
+ProxyColon;Proxy:
+PuertoRico;Port Ric
+PortColon;Port:
+Pull;Pull
+Push;Push
+Refresh;Refrescar
+RegionColon;Regió:
+Register;Registrar
+RegisterProduct;Registrar producte
+UnitedKingdom;Regne Unit
+DominicanRepublic;República Dominicana
+Russia;Rússia
+SecretKeyColon;Secret Key:
+MultipleSelection;Selecció múltiple
+SimpleSelection;Selecció simple
+SelectAll;Seleccionar tots
+CronoServer;Servidor crono
+LocalServerColon;Servidor local:
+SierraLeone;Serra Leone
+_ReadOnly;Només lectura
+Support;Suport
+SqlServer;SQL Server
+SouthAfrica;Sud-àfrica
+Sweden;Suècia
+Switzerland;Suïssa
+Substitutions;Substitucions
+AccessTypeColon;Tipus d'accés:
+TokenColon;Token:
+JobsColon;Treballs:
+Turkey;Turquia
+CurrentLocationColon;Lloc actual:
+Uruguay;Uruguai
+UsernameColonNotLocalized;Username:
+UserOrGroupColon;Usuari o grup:
+UsersColon;Usuaris:
+DefaultValueColon;Valor per defecte:
+Venezuela;Veneçuela
+ShowDifferences;Veure diferències
+ShowDetailedError;Veure error detallat
+ShowReport;Veure informe
+ShowExecutionLog;Veure log d'execució
+ExpectedVersion;Versió esperada
+VersionColon;Versió:
+SupportWebColon;Web de suport:
+AndUpperCase;I
+NewBusinessItem;Nou element de negoci
+ThereWasAnErrorDuringObjectVerification;Hi ha hagut un error durant la verificació de l'objecte.
+NewFolder;Nova carpeta
+NewItem;Nou element
+Right;Dreta
+Document;Document
+EditReport;Edita informe
+AwaitingElipsis;Esperant ...
+Browse;Navega
+EndDate;Data fi
+StartDate;Data inici
+Filters;Filtres
+Parameters;Paràmetres
+ForeignKeys;Claus externes
+Views;Vistes
+TimeElapsedColon;Temps transcorregut:
+AuthorColon;Autor:
+TitleColon;Títol:
+NewQuery;Nova consulta
+Publish;Publicar
+AskEnsureWantPublishThisDocumentPublicationLocationColonParameterTheDocumentWillBeSavedBeforePublishing;Esteu segur que voleu publicar aquest document?||Ubicació de publicació:|{0}||El document es guardarà abans de publicar.
+CreatingMainWindow;Creant MainWindow
+AskWantDeleteAllSelectedBusinessItems;Voleu eliminar tots els elements de negoci seleccionats?
+ReportProperties;Propietats d'informe
+TheCatalogPathCannotBeLeftBlank;La ruta de l'catàleg no es pot deixar en blanc
+DefaultCredentials;Credencials predeterminades
+TheUserIsNotDefined;L'usuari no està definit
+UpdatingElipsis;Actualitzant ...
+CurrentlyItIsNotPossibleToModifyDefaultIconsOfConditionalFormatsThisConditionalFormatMustBeDeletedIntColumnParameterBetweenParenthesesInOrderToSaveThisDocument;Actualment no és possible modificar les icones per defecte dels formats condicionals.||S'ha d'eliminar aquest format condicional a la columna '{0}' per poder guardar aquest document.
+TheFileDoesNotExists;El fitxer no existeix
+ThisVersionIsTooOldConsultWithYourSystemAdministratorToInstallANewerVersionOfCrono;Aquesta versió és massa antiga. Consulteu amb l'administrador de sistema per instal·lar una versió més recent de Crono.
+FiltersOfThisSheet;Filtres d'aquest full
+WeCannotSaveParameterBetweenQuotesBecauseTheFileIsReadOnlyInOrderToSaveChangesSaveReportWithNewNameInDifferentLocation;No podem guardar '{0}' perquè l'arxiu és de només lectura.||Per desar els canvis, guardi l'informe amb un nou nom a un lloc diferent.
+FileUpperCase;ARXIU
+OpenLocation;Obre la ubicació
+NewSite;Nou lloc
+ShowLog;Veure registre
+NewReport;Nou informe
+InterfaceLanguageColon;Idioma de la interfície:
+Application;Aplicació
+IfFindErrorsInAnyTranslationHelpUsByWritingUsToInfoCronoDotNet;Si troba errors en alguna de les traduccions ajudi'ns escrivint-nos a info@crono.net
+TestServer;Provar servidor
+ThereAreUnsavedChangesAskEnsureWantCloseAndLoseChanges;Hi ha canvis sense desar, Està segur que desitja tancar i perdre els canvis realitzats?
+Rename;Canviar el nom
+CopyResult;Copia resultat
+ShowSql;Veure SQL
+Result;Resultat
+CopySql;Copia SQL
+UsernameColon;Nom d'usuari:
+VariableNameColon;Nom de la variable:
+SmtpServerColon;Servidor SMTP:
+EnableSsl;Habilitar SSL.
+SenderEmailBetweenParenthesesColon;Remitent (correu electrònic):
+SenderNameBetweenParenthesesColon;Remitent (nom):
+VariableValueColon;Valor de la variable:
+TestingSmtpServer;Provant servidor SMTP
+AskSaveChangesOfParameterBetweenQuotes;Voleu desar els canvis de '{0}'?
+CopyAllTablesNames;Copia nom de totes les taules
+ParameterRows;{0: N0} files
+ParameterColumns;{0: N0} columnes
+CopyTablesNames;Copiar nom de les taules
+CopyFieldsNames;Copia nom dels camps
+AnUnexpectedErrorOccurredDuringConnectionStringCreation;Hi ha hagut un error imprevist a l'generar la cadena de connexió.
+Display;Mostra
+YouMustSpecifyAValidNameForThisVariable;Cal especificar un nom vàlid per a aquesta variable.
+AVariableWithThisNameAlreadyExists;Ja existeix una variable amb aquest mateix nom.
+SaveAll;Desar tot
+ParameterReadonlyBetweenSquareBrackets;{0} [només lectura]
+ExecuteAll;Executar tot
+Authorizations;Autoritzacions
+CollapseAll;Col·lapsar tot
+CollapseChildren;Col·lapsar fills
+ManageAuthorizations;Administrar autoritzacions
+ManageFolderAuthorizations;Administrar autoritzacions de la carpeta
+ConvertToWebFolder;Convertir a carpeta web
+CronoServerParameterHasBeenInstalledSuccessfully;Crono Server {0} s'ha instal · lat correctament
+YouMustSpecifyTheServerName;Cal especificar el nom de servidor
+ErrorInstallingCronoServer;Error a l'instal·lar Crono Server
+InstallingCronoServer;Instal·lant Crono Server
+TheSpecifiedServerUrlIsNotValid;L'URL de servidor especificada no és vàlida
+ServerProperties;Propietats de l'servidor
+SelectCronoServerFolder;Seleccioneu carpeta d'crono server
+SelectTheVersionToInstall;Seleccioneu la versió a instal·lar
+ManagingAuthorizationsForTheDirectoryColon;Administrant autoritzacions per al directori:
+ManageConnections;Admninistrar connexions
+LogDatabase;Base de dades de log
+LogDatabaseColon;Base de dades de log:
+ConfigurationFolderColon;Carpeta de configuració:
+ContentFolderColon;Carpeta de contingut:
+ServerFolderParenthesesIisApplicationColon;Carpeta de servidor (aplicació IIS):
+CheckStatus;Comprovar estat
+CheckTheDatabaseStructure;Comprovar l'estructura de la base de dades
+Content;Contingut
+TheServerIsWorkingCorrectly;El servidor està funcionant correctament.
+GoogleClientIdColon;Google ID client:
+GoogleClientSecretColon;Google secret client:
+ServerInformation;Informació de l'servidor
+AuthenticationModeColon;Mode d'autenticació:
+CannotConnectToTheServerColon;No és possible connectar amb el servidor:
+RequestCount;Nombre de peticions
+InheritedPermissions;Permisos heretats
+RecordCronoServerActivityInALogDatabase;Registrar en una base de dades de log l'activitat de Crono Server.
+ActivityLog;Registre d'activitat
+LastConnection;Darrera connexió
+ServerUrlColon;Url de servidor:
+User;Usuari
+UserOrGroup;Usuari o grup
+ConnectedUsers;Usuaris connectats
+InstalledVersionColon;Versió instal·lada:
+NewGroup;Nou grup
+TheHostHasNoAValidFormatTheSpacesAndCharactersColonBarAreNotAllowed;El host no té un format vàlid, els espais i els caràcters ': /' no estan admesos.
+TheSelectedSiteIsAlreadyInTheList;El site seleccionat ja és a la llista
+NoUserOrGroupHasBeenSelected;No s'ha assignat un usuari o grup.
+NewUser;Nou usuari
+SiteProperties;Propietats de el lloc
+TheUserNameMustBeEntered;S'ha d'introduir el nom d'usuari
+SelectTheSiteFolder;Seleccioneu la carpeta de el lloc
+IfYouSelectThisOPtionServerWillRespondAllRequestAccordingTheFirstSiteWithoutValidatingHostOrAuthentication;Seleccionar això per al servidor respondrà totes les peticions segons el primer ' site ', sense validar ni el ' host ' ni l'autenticació.
+AutoRouteCronoXmlFilesCxmlBetweenParentheses;Autoenrutar arxius Crono XML (* .cxml)
+AutoRouteMarkdownFilesMdBetweenParentheses;Autoenrutar arxius Markdown (* .md)
+StartDocumentColon;Document d'inici:
+IsADevelopementServerLocalhostBetweenParentheses;És un servidor de desenvolupament (localhost)
+Enabled;Habilitat
+EditSite;Modificar lloc
+RouteColon;Ruta:
+Sites;Llocs
+SitesColon;Llocs:
+UsersAndGroups;Usuaris i grups
+ParameterAskWantToSelectANewPath;{0}|Voleu seleccionar una nova ruta?
+ErrorInsertingDataColonParameterParameter;Error a l'inserir dades:|{0}
+TheQueryOfDatainputValuesIsNotCorrectParameter;La consulta de valors de datainput no és correcta||{0}
+ThePanelWillBeOverwrittenAskWantContinue;Es va a sobreescriure el panell.||Voleu continuar?
+TitleBetweenHyphensExecutionUpperCase;----------------- EXECUCIÓ -----------------
+DoubleHyphenEndTimeColonParameter;- Hora de finalització: {0}
+DoubleHyphenStartTimeColonParameter;- Hora d'inici: {0}
+DoubleHyphenNumberOfRecordsColonParameter;- Nombre de registres: {0}
+DoubleHyphenTotalTimeColonParameterSeconds;- Temps total: {0: N2} segons
+ParameterPerhapsBeingUsedByAnotherProgram;{0} Potser estigui utilitzant un altre programa.
+ParameterPerhapsHasBeenMoverOrDeleted;{0} Potser ha estat mogut o eliminat.
+ParameterNotDefined;{0} no definit.
+AskWantDeleteTheReportParameterBetweenQuotes;Voleu esborrar l'informe '{0}'?
+AskWantToDeleteTheFolderParameterBetweenQuotesAndAllItsContents;Voleu esborrar la carpeta '{0}' i tot el seu contingut?
+AskEnsureWantDeleteThisSheet;Esteu segur que voleu suprimir aquest full?
+AskEnsureWantDeleteThisPanel;Esteu segur que voleu suprimir aquest panell?
+DashboardOpeningDiscarded;Obertura de dashboard descartada
+EndActionExecutedSuccessfully;Acció a la fin executada correctament
+InitialActionExecutedSuccessfully;Acció a el principi executada correctament
+ActionExecutedSuccessfully;Acció executada correctament.
+EachRowActionExecutedSuccessfully;Acció per a cada fila executada correctament
+ReportManager;Administrador d'informes
+WpfApplicationLoaded;Aplicació WPF carregada
+AuthenticationColonWindows;Autentificació: Windows
+ApplicationLoadCompleted;Càrrega aplicació completada
+RemoteCatalogInnaccesibleParameterBetweenParenthesesCheckInternetConnectionAndRemoteCatalogAddress;Catàleg remot inaccessible ({0}). Verifica la connexió a internet i la direcció remota de l'catàleg.
+CreateDocumentWithCatalogParameterBetweenQuotes;Crear un document amb el catàleg ' {0} '
+NetworkCredentialsColonParameter;Credencials de xarxa: {0}
+NetworkCredentialsColonNotSpecified;Credencials de xarxa: No especificades
+CronoServerInfoConnectedUserColonParameter;Crono server (info), Connected user: {0}
+CronoServerInfoIisUserDomainNameColonParameter;Crono server (info), IIS user domain name: {0}
+CronoServerInfoServerDomainNameColonParameter;Crono server (info), Server domain name: {0}
+WhenTwoDimensionsPieChartMapsOnlySupportsOneIndicator;Quan hi ha 2 dimensions, els mapes de gràfics circulars només admeten gener indicador
+FromLeftToRight;D'esquerra a dreta
+YouMustChooseTheNameOfTheReport;Ha d'escollir el nom de l'informe
+DomainColonParameter;Domini: {0}
+TheFileParameterBetweenQuotesDoesNotExists;El fitxer '{0}' no existeix.
+TheSelectedFileIsTheSameOneCurrentlyOpen;L'arxiu seleccionat és el mateix que està obert en aquest moment.
+TheSelectedFileDoesNotContainAnyReport;L'arxiu seleccionat no conté cap informe.
+TheCalendarNeedsADateDimension;El calendari necessita una dimensió de data.
+TheCalendarRequiresAnyDataToShowInAdditionToTheDate;El calendari requereix alguna dada de mostrar a part de la data.
+TheCatalogParameterBetweenParenthesesIsBadDefined;El catàleg '{0}' està mal definit.
+TheCatalogHasBeenModifiedByAnotherProgramAndHasBeenUpdatedSuccessfully;El catàleg ha estat modificat per un altre programa i s'ha actualitzat amb èxit.
+TheFunnelChartOnlySupportsOneDimensionAsMaximum;El gràfic d'embut només admet una dimensió com a màxim
+TheReportWillBeImportedInAnUnexpectedPlace;L'informe es va a importar en un lloc no esperat.
+ThePanelNameCannotBeLeftBlank;El nom de el panell no pot deixar-se en blanc.
+TheDatePickerCanOnlyBeRepresentedWithADateDimensionAndAnIndicator;El selector de dates només es pot reprensentar amb una dimensió de dates i un indicador
+TheGaugeCanOnlyBeRepresentedWhenThereIsOnlyOneValue;El velocímetre només es pot representar quan hi ha un sol valor
+ThisChartRequiresAtLeastOneDimension;Aquest gràfic requereix al menys una dimensió
+ThisChartRequiresAnIndicator;Aquest gràfic requereix un indicador
+ThisChartOnlyAllowsOneIndicator;Aquest gràfic només admeten un indicador
+ThisChartCanOnlyBeConstructedFromAGrographicalDimensionAndAnIndicator;Aquest gràfic només es pot construir a partir d'una dimensió geogràfica i un indicador
+ThisMapAtMostAcceptsTwoDimensions;Aquest mapa com a molt accepta 2 dimensions
+ExcludeParameterInThisSheet;Excloure {0} en aquest full
+ExcludeParameterInThisReport;Excloure {0} en aquest informe
+ThereWasAnErrorUpdatingTheChartDevelopersAlreadyNotified;Hi ha hagut un error a l'actualitzar el gràfic. Els desenvolupadors ja han estat notificats.
+ThereWasAnErrorDrawingTheChartColon;Hi ha hagut un error a l'dibuixar el gràfic:
+ThereWasAnErrorDrawingTheChartLabelsColon;Hi ha hagut un error a l'dibuixar les etiquetes de l'gràfic:
+ThereWasAnErrorFinalizingTheChartColon;Hi ha hagut un error a l'finalitzar el gràfic:
+ThereAreTooManyArgumentsToRepresentTheChart;Hi ha massa arguments per a representar el gràfic
+ReportParameter;Informe {0}
+TheSheetParameterHasAlreadyBeenInitialized;El full {0} ja ha estat inicialitzada
+ThePivotTableAsMaximumAllowsTwoDimensions;La taula pivotada com a màxim admet dues dimensines
+ThePivotTableNeedsAnIndicator;La taula pivotada necessita un indicador.
+ThePivotTableOnlyAllowsOneIndicatorWheItIsShownWithTwoDimensions;La taula pivotada només admet un indicador quan es mostra amb dues dimensions
+TheDataOfTheDimensionParameterAreNotDates;Les dades de la dimensió {0} no són dates
+ScatterChartsAtMostAllowThreeIndicatorsInOrderToShowTheXAxysYAxisAndThickness;Els gràfics de dispersió com a molt admeten tres indicadors per mostrar l'eix X, l'eix Y i el gruix
+ScatterChartsNeedAtLeastTwoIndicatorsInOrderToShowTheXAxisAndYAxis;Els gràfics de dispersió necessiten al menys dos indicadors per mostrar en l'eix X i en l'eix Y
+StockChartsNeedOneDimensionAndThreeOrFourIndicators;Els gràfics estoc necessiten una dimensió i tres o quatre indicadors
+TheReportsDoNotUseTheSameCatalogs;Els informes no utilitzen els mateixos catàlegs.
+PieChartsMapsNeedAtLeastOneIndicator;Els mapes de gràfics circulars necessiten al menys un indicador
+MapsRequireOneGeographicDimension;Els mapes requereixen gener dimensió geogràfica
+ItWasNotPossibleToAccessTheDocumentCatalog;No ha estat possible accedir a el catàleg de el document.
+ItWasNotPossibleToObtainTheCoordinatesListForTheDimensionParameterBetweenQuotes;No ha estat possible obtenir el llistat de coordenades per a la dimensió '{0}'
+ThereIsNotEnoughDataToRepresentAChart;No hi ha prou dades per representar un gràfic
+TheAttributeToLinkParameterWithTheMapHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg l'atribut per vincular {0} amb el mapa
+TheIdFieldToLinkParameterWithMapHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg el camp id per vincular {0} amb el mapa
+TheLatitudeFieldHasForParameterHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg el camp latitud per {0}
+TheLengthFieldForPArameterHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg el camp longitud per {0}
+TheMapPathForTheDimensionParameterHasNotBeenSpecifiedInTheCatalog;No s'ha especificat en el catàleg la ruta d'el mapa per la dimensió {0}
+CouldNotOpenTheCatalogParameterBetweenQuotes;No s'ha pogut obrir el catàleg '{0}'.
+CouldNotOpenTheDocumentParameterBetweenQuotes;No s'ha pogut obrir el document ' {0} '
+CouldNotOpenTheDocument;No s'ha pogut obrir el document.
+CouldNotConnectToTheServer;No s'ha pogut connectar amb el servidor.
+CouldNotGenerateTheDashboardContent;No s'ha pogut generar el contingut de l'dashboard.
+CouldNotGenerateTheMap;No s'ha pogut generar el mapa.
+NoChangesDetected;No s'han detectat canvis
+ThisViewCannotBeRepresentedBecauseIndicatorReturnsNonNumericalData;No es pot representar aquesta visualització perquè un indicador retorna dades no numèrics
+CannotRepresentAnyKindOfChartWithMoreThanTenThousandRecords;No es pot representar cap tipus de gràfic amb més de 10.000 registres
+CannotRepresentBarOrPieChartsWithMoreThanThousandRecords;No es poden representar gràfics de barres o de pastissos de més de 1.000 registres.
+CannotBeRepresentedMapsWithMoreThanTwoThousandRecords;No es poden representar mapes de més de 2.000 registres.
+NewCalculatedItem;Nou element calculat
+AnErrorOccurredWhileReadingTheFile;S'ha produït un error a l'llegir l'arxiu.
+PropagationToAllPanels;Propagació a tots els panells
+DocumentProperties;Propietats de el document
+ItemProperties;Propietats de l'element
+PathColonParameter;Ruta: {0}
+AReportMustBeSelected;S'ha de seleccionar un informe.
+TheCatalogOfThisDocumentHasBeenUpdatedThisUsuallyOccursWhenChangesOrImprovementsPublishedOnServer;S'ha actualitzat el catàleg d'aquest documento.¬ ¬ Això sol passar quan es publiquen canvis o millores en el servidor.
+TheReferenceToThePanelManagerHasBeenLost;S'ha perdut la referència a l'administrador de panells.
+TheReferenceToThePanelControllerHasBeenLost;S'ha perdut la referència a el controlador de panells.
+TheReferenceToThePanelHasBeenLost;S'ha perdut la referència a el panell.
+SelectParameterInThisSheet;Seleccionar {0} en aquest full
+SelectParameterInThisReport;Seleccionar {0} en aquest informe
+SelectTheFileFromWhichWantImportTheReport;Seleccioneu el fitxer des del qual es desitja importar l'informe
+SelectTheReportToImport;Seleccioneu l'informe a importar
+ServerColonParameter;Servidor: {0}
+UndefinedChartType;Tipus de gràfic no definit
+NotImplementedPanelType;Tipus de panell no implementat
+TypeColonParameter;Tipus: {0}
+CustomPopupWindow;Finestra emergent personalitzada
+Area;Àrea
+SplineArea;Àrea corbada
+StepArea;Àrea esglaonada
+Bar;Barra
+CleanWhite;Blanc net
+MagicLight;És clar màgic
+FlatLight;És clar pla
+Classic;Clàssic
+DataInputColumn;Columna data input
+DbConnection;Connexió DB
+Cosmic;Còsmic
+Day;Dia
+WhereToSave;On guardar
+Echo;Eco
+SecondaryYAxis;Eix I secundari
+ManualEntry;Entrada manual
+SingleDate;Data única
+Futuristic;Futurista
+QueriesHistory;Històric queries
+SheetParameter;Full {0}
+ImportReport;Importa informe
+StartAndEnd;Inici i fi
+Intelligent;Intel·ligent
+IStyle;iStyle
+Line;Línia
+Spline;Línia corbada
+Timeline;Línia de temps
+StepLine;Línia esglaonada
+Month;Mes
+FlatDark;Fosc pla
+Progressive;Progressiu
+SheetProperties;Propietats full
+PanelProperties;Propietats panell
+RedClock;Rellotge vermell
+DropDownSelector;Selector desplegable
+Week;Setmana
+CompleteWeek;Setmana completa
+Workweek;Setmana laboral
+WithoutDataInput;Sense data input
+WithoutPropagation;Sense propagació
+YellowSubmarine;Submarí groc
+SerieType;Tipus sèrie
+TypeColonCronoServer;Tipus: Crono server
+TypeColonDirect;Tipus: directa
+DefaultValue;Per defecte
+PopupWindow;Finestra emergent
+UserItems;Elements d'usuari
+Below;A baix
+BusinessActionsColon;Accions de negoci:
+UpdateReport;Actualitzar informe
+AllowsDataInputColon;Admet data input:
+AdjustWidthAutomatically;Ajustar ample automàticament
+AtTheEnd;A la fin
+AtTheBeginning;A el principi
+AlternateRowsColor;Alternar color files
+Donut;Anell
+NestedDonuts;Anells niats
+AnimateGraphic;Animar gràfic
+StackedAreas;Àrees apilades
+FullStackedAreas;Àrees apilades completament
+SplineAreas;Àrees corbades
+StepAreas;Àrees esglaonada
+ArgumentsSwapped;Arguments intercanviats
+DragHereToCreateASheetFilter;Arrossegueu fins aquí per crear un filtre de fulla.
+Above;A dalt
+AdvancedPluralMale;Avançats
+StackedBars;Barres apilades
+FullStackedBars;Barres apilades completament
+LockQueryParenthesesPreventsAddingRemovingColumnsAndFilters;Bloquejar consulta (impedeix afegir o treure columnes i filtres)
+LockReport;Bloquejar informe
+DeleteSelection;Esborrar selecció
+ChangeName;Canviar nom
+Car;Cotxe
+Colors;Colors
+MergeCells;Combinar cel·les
+CustomQueryOfValuesColon;Consulta personalitzada de valors:
+CopyAsService;Copia com a servei
+CopyData;Copiar dades
+LocalDocuments;Documents locals
+DuplicateSheet;Duplicar full
+DuplicatePanel;Duplicar panell
+EditCube;Edita cub
+QueriesEditor;Editor de consultes
+DeleteReport;Eliminar informe
+Funnel;Embut
+InTheRow;A la fila
+ReadOnlyDocumentColon;És document de sol lectura:
+StyleColon;Estil:
+Stock;Estoc
+FilterThisColumnInDependantPanels;Filtrar aquesta columna en panells dependents
+SaveToServer;Desa al servidor
+History;Històric
+Sheet;Full
+HorizontalPlural;Horitzontals
+ImageParentheses32x32Colon;Imatge (32x32):
+DebugInformation;Informació debug
+ClearQuery;Netejar consulta
+Splines;Línies corbes
+StepLines;Línies escalonades
+MapUpperCase;MAPA
+InputModeColon;Mode d'introducció:
+PropagationMode;Mode de propagació
+PropagationModeToOtherPanelsOfThisSheet;Mode de propagació a la resta de panells d'aquest full:
+RepresentationMode;Mode representació
+ShowGrouping;Mostra agrupament
+ShowColumnHeaders;Mostra capçaleres de columnes
+ShowRowHeaders;Mostra capçaleres de files
+ShowNavigationControls;Mostra els controls de navegació
+ShowCoordinates;Mostra coordenades
+ShowSearchBox;Mostra quadre de cerca
+ShowDetails;Mostra els detalls
+ShowScale;Mostra escala
+ShowLabels;Mostra etiquetes
+ShowFilters;Mostra filtres
+ShowLegend;Mostra llegenda
+ShowPositionLines;Mostra línies de posició
+ShowHorizontalLines;Mostra línies horitzontals
+ShowVerticalLines;Mostra línies verticals
+ShowPoints;Mostra punts
+AlwaysShowZero;Mostra sempre zero
+ShowColumnSubtotals;Mostra subtotals de columna
+ShowRowSubtotals;Mostra subtotals de fila
+ShowAllRowsParenthesesShowAllRecordsEvenThoseWithoutData;Mostra totes les files (mostra tots els registres, fins i tot aquells sense dades)
+ShowColumnTotals;Mostra totals de columna
+ShowRowTotals;Mostra totals de fila
+NumberOfColorsColon;Nombre colors:
+NewSheet;Nou full
+NumberOfScalesColon;Nombre escales:
+OptionsUpperCase;OPCIONS
+ColorPalette;Paleta de colors
+ChartColorPaletteColon;Paleta de colors de gràfic:
+ForEachRow;Per a cada fila
+Paste;Enganxa
+AllowAddRecords;Permet afegir registres
+AllowDeleteRecords;Permet eliminar registres
+AllowChangeTheTableSortingParenthesesToPreventSortingByClickingColumn;Permetre canviar l'ordenació de la taula (per prevenir l'ordenació a l'fer clic sobre una columna)
+AllowFilterTheQueryResultParenthesesHidesOrShowsTheFilterIconThatAppearsLeavingTheCursorOnColumnHeader;Permetre filtrar el resultat de la consulta (oculta o mostra la icona de filtre que surt a deixar el cursor sobre la capçalera d'una columna)
+AllowReorderTheColumnsParenthesesToPreventUnintentionalModificationOfTheQuery;Permetre reordenar les columnes (per prevenir la modificació involuntària de la consulta)
+AllowHorizontalZoom;Permetre zoom horitzontal
+AllowVerticalZoom;Permetre zoom vertical
+PropagateSelectionToOtherPanels;Propagar selecció a la resta de panells
+Recents;Recents
+ReturnedRecords;Registres retornats
+MandatorySelectionParenthesesPreventsDependantPanelsFromBeingExecutedUnlessThereIsAnyFieldSelected;Selecció obligatòria (impedeix que s'executin panells dependents llevat que hi hagi algun camp seleccionat)
+DatePicker;Selector data
+SemiCircular;Semi circular
+DynamicTable;Taula dinàmica
+PivotTable;Taula pivotada
+SizeProportionalToTheIndicator;Mida proporcional a l'indicador
+Cards;Targetes
+Time;Temps
+ChartType;Tipus de gràfic
+ViewType;Tipus visualització
+ColumnSubtotalLocation;Ubicació subtotals de columna
+RowSubtotalLocation;Ubicació subtotals de fila
+UseComputerConnectionParenthesesIfAvailable;Utilitzar connexió d'equip (si està disponible)
+MaximumValueColon;Valor màxim:
+MinimumValueColon;Valor mínim:
+Candle;Vela
+GaugeUpperCase;Velocímetre
+Gauges;Velocímetres
+Verticals;Verticals
+Visualization;Visualització
+FlipColors;Voltejar colors
+FolderName;Nom de la carpeta
+AcceptChanges;Acceptar canvis
+Areas;Àrees
+Bars;Barres
+Bubbles;Bombolles
+Pie;Circular
+DataInput;Data input
+Scatter;Dispersió
+DeleteRow;Eliminar fila
+Reports;Informes
+Left;Esquerra
+Lines;Línies
+Map;Mapa
+Points;Punts
+Circular;Circular
+ThisReportDoesNotHasCatalogSpecifyTheCatalogInOrderToUseTheReport;Aquest informe no té catàleg. Especifiqueu el catàleg per poder utilitzar l'informe.
+ShowSheets;Mostra fulles
+HideSheets;Amaga fulles
+CurrentlyOnlyUniqueProjectsAreSupportedTwo;Actualment només es suporten projectes únicos.2
+SomethingIsNotRightParameterBetweenParentheses;Alguna cosa no està bé ({0}).
+SomethingWentWrongParameterBetweenParenthesesParameterBetweenParentheses;Alguna cosa no ha anat bé ({0}) ({1}).
+ApplyingTemplateToTheTestFile;Aplicant plantilla a el fitxer de test
+LoadingCssElipsis;Carregant css ...
+LoadingJsElipsis;Carregant js ...
+CleanColonDeleteBinFolders;Clean: Elimina carpetes BIN
+CompileParameterBetweenQuotes;Compila '{0}'
+TheCodeSigningCertificateCertificcateNameBetweenParenthesesMustBeSpecified;Cal especificar el certificat de signatura de codi (CertificateName)
+RunTestsColonParameterProjects;Executar tests: {0} projectes
+TheFileHasNotBeenSignedColon;El fitxer no s'ha signat:
+TheFileIsAlreadySignedColon;El fitxer ja està signat:
+TheAssemblyNameMustNotContainSpacesOrDots;El nom de l'acoblament no ha de contenir ni espais ni punts.
+ItIsNecessaryToCompileColon;ÉS necessari compilar:
+ThisProjectDoesNotHaveTheTestProjectDefined;Aquest projecte no té el projecte de Tests definit.
+APublishedVersionAlreadyExists;Hi ha una versió ja publicada ({0}).
+GenerateParameter;Genera {0}
+GeneratingTemplateElipsis;Generant plantilla ...
+MoreTests;Més tests
+MergeColonInParameter;Merge: En {0}
+TheOrganizationCompanyBetweenParenthesesIsNotInformed;No aquesta informada l'organització (Company)
+ItDoesNotExistsTheFileParameterBetweenQuotes;No existeix el fitxer '{0}'
+TheEnvironmentFileDoesNotExists;No existeix el fitxer d'entorn ({0})
+TheEulaParenthesesEndUserLicenseAgreementFileDoesNotExistsOrHasNotBeenDefined;No existeix o no s'ha definit l'arxiu EULA (End User License Agreement).
+NotExistsColonParameter;No existeix: {0}
+PropertyPArameterBetweenQuotesasNotBeenProperlyAssignedInParameter;No s'ha assignat corractament la propietat '{0}' a {1}
+TheTrxFileOfResultsHasNotBeenCreatedColon;No s'ha creat el fitxer TRX de resultats:
+TheFileHasNotCreatedColon;No s'ha creat el fitxer:
+TheFolderHasNotBeenCreated;No s'ha creat la carpeta:
+TheContentSeedHasNotBeenCreated;No s'ha creat la llavor de contingut:
+NotCreated;No s'ha creat: {0}
+CannotFindParameterBetweenQuotesNiParameterBetweenQuotes;No s'ha trobat '{0}' ni '{1}'
+TheGitDirectoryHasNotBeenSpecified;No s'ha especificat el directori GIT.
+TheEnUserLicenseAgreementEulaBetweenParenthesesFileHasNotBeenSpecified;No s'ha especificat el fitxer de End User License Agreement (EULA)
+TheNugetDotExeLocationHasNotBeenSpecified;No s'ha especififcado la ubicació de nuget.exe
+TheReleaseModeHasNotBeenSet;No s'ha establert el ReleaseMode.
+TheUpgradeCodeHasNotBeenSet;No s'ha establert el UpgradeCode.
+TheBackupFolderHasNotBeenSet;No s'ha establert la carpeta de backups
+ItHasNotBeenSigned;No s'ha signat
+TheExecutableHasNotBeenSignedColon;No s'ha signat l'executable:
+TheThemeAssemblyHasNotBeenGenerated;No s'ha generat el ensablado del tema.
+TheMsiFileHasNotBeenGenerated;No s'ha generat el fitxer MSI.
+TheWixobjFileHasNotBeenGenerated;No s'ha generat el fitxer WIXOBJ.
+TheWxsFileHasNotBeenGenerated;No s'ha generat el fitxer WXS.
+LaunchApplicationOnFinishWasNotReportedCorrectly;No s'ha informat correctament el LaunchApplicationOnFinish
+TheManofacturerOfTheMsiCompanyBetweenParenthesesHasNotBeenInformed;No s'ha informat el fabricant de l'MSI (Company)
+TheFileHasNotBeenModifiedCorrectly;No s'ha modificat correctament el fitxer:
+TheReleasesFileHasNotBeenModified;No s'ha modificat el fitxer releases
+TheFolderParameterHasNotBeenFound;No s'ha trobat la carpeta {0}
+TheLibraryHasNotBeenObfuscatedColon;No s'ha ofuscat la llibreria:
+CouldNotDetermineTheAssemblyNameParameterBetweenParentheses;No s'ha pogut determinar el nom d'acoblament ({0})
+CouldNotDetermineTheFinalVersion;No s'ha pogut determinar la versió final
+CouldNotDetermineTheInitialVersion;No s'ha pogut determinar la versió inicial
+TheGitCredentialsHaveNotBeenSpecified;No s'han especificat les credencials de GIT.
+CouldNotDownloadTheLogs;No s'han pogut descarregar els logs
+NotAllTestsHaveBeenPassed;No s'han superat totes les proves ({0}).
+CannotUploadTheFileBecauseItDoesNotExists;No es pot pujar el fitxer perquè no existeix.
+NotAllProjectsHaveTheSameVersion;No tots els projectes tenen la mateixa versió.
+NugetSpecDoesNotHaveTheExpectedFormat;NugetSpec no té el formarto esperat.
+NugetPackageColonParameter;Paquet Nuget: {0}
+InstalledPrograms;Programes instal·lats
+PropertyParameterBetweenQuotesNotFoundInParameter;Propietat '{0}' no trobada en {1}
+SetVersionVersionUpperCasseBetweenSquareBracketsParenthesesParameterProjects;Setembre versio [VERSION] ({0} projectes)
+SetVersionParameterParenthesesParameterProjects;Setembre versió {0} ({1} projectes)
+SetVersionColonFromParameterToParameterParenthesesInParameterProjects;Setembre Version: De {0} a {1} (en {2} projectes)
+TheReleaseFileIsOnlyUpdatedInDeployMsiAllUpperCase;NOMÉS S'ACTUALITZA EL FITXER RELEASE A DEPLOY MSI
+ItIsOnlyAllowedTransformToHtmlFromTestResultFileDotTrxBetweenParentheses;Només es permet transforma a HTML des d'un fitxer de resultat de test (.trx)
+ReplaceTheMainColorWithParameter;Substitueix el color principal per {0}
+TrxerColonCreateParameter;Trxer: Crea {0}
+TheFileAlreadyExistsColon;Ja existeix el fitxer:
+TheAssemblyNameCannotContainSpacesNorDots;El nom de l'acoblament no pot contenir ni espais ni punts.
+CredentialsAreMissingToPublishTheCalendar;Falten credencials per publicar el calendari.
+Customer;Client
+PurchaseInvoice;Factura de compra
+Provider;Proveïdor
+NewCompanySl;Nova empresa SL
+PageParameterBetweenParenthesesColonParameterXParameterPx;- Pàgina ({0}): {1} x {2} px
+AskEnsureWantDeleteParameterBetweenQuotes;Esteu segur que voleu suprimir '{0}'?
+Period;Exercici
+TheCustomerMustHaveACode;El client ha de tenir un codi.
+TheLoadedReportNotUseSameCatalogAsCurrentReportAskWantContinueLoading;L'informe carregat no utilitza el mateix catàleg que l'informe actual.|Voleu continuar amb la càrrega?
+ThePeriodMustHaveACode;El període deu tenir un codi.
+TheProviderMustHaveACode;El proveïdor ha de tenir un codi.
+TheReceibtMustHaveACode;El rebut deu tenir un codi.
+GeneratingPdfOfParameterPages;Generant PDF de {0} pàgines.
+ReportLoadedSuccessfully;Informe carregat correctament.
+TheInvoiceMustHaveACode;La factura ha de tenir un codi.
+TheSerieMustHaveACode;La sèrie deu tenir un codi
+CouldNotLoadTheReport;No s'ha pogut carregar l'informe
+TheActionNameMustBeSpecified;S'ha d'especificar el nom de l'acció.
+TheInvoiceDateMustBeSpecified;S'ha d'especificar la data de la factura
+TheReceibtDateMustBeSpecified;S'ha d'especificar la data de el rebut
+AnItemMustBeSelected;S'ha de seleccionar un element.
+SelectTheReportFile;Seleccioneu el fitxer d'informe
+SelectAnItem;Seleccioneu un element
+Serie;Sèrie
+CustomerColon;Client:
+Customers;Clients
+ClientCodeColon;Codi de client:
+PeriodCodeColon;Codi d'exercici:
+ProviderCodeColon;Codi de proveïdor:
+SerieCodeColon;Codi de sèrie:
+CompanyCodeColon;Codi empresa:
+Connect;Connectar
+ConfigureScanner;Configura escàner
+Disconnect;Desconnectar
+DocumentsDirectory;Directori de documents
+DocumentColon;Document:
+PeriodColon;Exercici:
+Periods;Exercicis
+Company;Empresa
+ItIsCurrentPeriod;És exercici actual
+ScanDocument;Escanejar document
+PurchaseInvoices;Factures de compra
+AmountColon;Import:
+ReportColon;Informe:
+NewFeminine;Nova
+CollectionNumberColon;Nombre de cobrament:
+InvoiceNumberColon;Número de factura:
+ReceiptNumberColon;Nombre de el rebut:
+ProviderColon;Proveïdor:
+Providers;Proveïdors
+CollectionReceipts;Rebuts de cobrament
+PaymentReceipts;Rebuts de pagament
+SummaryColon;Resum:
+SerieColon;Sèrie:
+Series;Sèries
+DocumentTypeColon;Tipus de document:
+ShowDocument;Veure document
+ImageColon;Imatge:
+SelectAlreadyExistingDocument;Seleccionar document ja existent
+SelectLocalDocument;Seleccionar document local
+CouldNotExecuteTheReportDueTheFollowingErrorColonParameter;L'informe no s'ha pogut executar pel següent error:||{0}
+ThereWasAnErrorRenamingTheFileColonParameter;Hi ha hagut un error a l'reanomenar el fitxer:||{0}
+ItWasNotPossibleToOpenTheProjectColonParameter;No ha estat possible obrir el projecte:||{0}
+TheProcedureParameterBetweenQuotesHasNotBeenFoundCheckNoErrorInFileWhereIsDefined;No s'ha trobat el procediment '{0}'.|Comproveu que no hi ha cap error en el fitxer on està definit.
+TheFollowingFilesHaveBeenRestoredColonParameter;S'han restaurat els següents arxius:||{0}
+GeneralBetweenParentheses;(General)
+ParameterParenthesesLineParameter;{0} (línia {1})
+ParameterFiles;{0} fitxers
+ParameterVisibles;{0} visibles
+ParameterVisible;{0} visible
+DoubleHyphenParameter;- {0}
+AskEnsureWantDeleteTheFile;Estàs segur que vol eliminar el fitxer?
+AskWantRenameThisFileToParameter;Vols canviar el nom aquest fitxer a '{0}'?
+ManageEnvironments;Administrar entorns
+Files;Arxius
+ProjectFiles;Arxius de projecte
+AttributesOfParameter;Atributs de {0}
+AutoRename;Autorenombrar
+DeleteParameterColumns;Esborrar {0} columnes
+DeleteParameterRelationships;Esborrar {0} relacions
+Load;Càrrega
+CloseAll;Tancar tots
+CloseAllSaved;Tancar tots els guardats
+CloseAllTemporals;Tancar tots els temporals
+CopyingSiteResources;Copiant els recursos de el lloc
+ConvertTo;Convertir a
+CreatingTheHtmlFile;Creant el fitxer html
+CronoEtlCannotDetermineADefaultNameForThisFile;Crono ETL no pot determinar un nom predeterminat per a aquest fitxer
+YouMustSelectAnEnvironment;Ha de seleccionar un entorn
+DropProcedureParameter;DROP PROCEDURE {0}
+DropTableParameter;DROP TABLE {0}
+DropViewParameter;DROP VIEW {0}
+EditSQLFreely;Edita SQL lliure
+SqlEditor;Editor SQL
+ExecuteThisJob;Executa aquest treball
+TheSelectedDirectoryIsAlreadyAWebDirectory;El directori seleccionat ja és un directori web.
+TheFileNameAlreadyMatchesTheDefaultName;El nom de l'arxiu ja coincideix amb el nom predeterminat.
+TheProcedureParameterBetweenQuotesNotFoundProbablyHasBeenDeletedOrRenamedUpdateOneLevelAboveElipsis;El procediment '{0}' no s'ha trobat probablement hagi estat eliminat o rebatejat, actualitzi un nivell per sobre ...
+TheProcedureDoesNotExist;El procediment no existeix.
+TheParentProcedureCannotBeNull;El procediment pare no pot ser nul.
+TheProjectHasBeenModifiedByExternalApplicationAtThisTimeIsRecommendedCloseAndReopenProject;El projecte ha estat modificat per una aplicació externa, en aquest moment, es recomana tancar i reobrir el projecte
+ErrorReloadingTheFile;Error a l'recarregar el fitxer.
+ThisProjectDoesNotHaveMainProcedure;Aquest projecte no té MAIN PROCEDURE.
+ThisProjectHaveSeveralMainProcedure;Aquest projecte té diversos MAIN PROCEDURE.
+Strategy;Estratègia
+ExcludeFromTheProject;Excloure de el projecte
+ExecuteFromHere;EXECUTE des d'aquí
+HtmlFileCreatedSuccessfully;Fitxer HTML creat correctament
+_Function;Funció
+GeneratingFile;Generant arxiu
+GeneratingHtml;Generant HTML
+GenerateStaticWeb;Generar web estàtica
+TheGenerationOfTheStaticWebHasFinished;Ha finalitzat la generació del web estàtica.
+ExecutionHistory;Històric execució
+ProjectImplementation;Implementació projecte
+ImplementParameter;Implementar {0}
+ImplementFlow;Implementar flux
+ImplementFlowAndExecute;Implementar flux i executar
+ImplementProject;Implementar projecte
+ImplementProjectAndExecute;Implementar projecte i executar
+IncludeInTheProject;Incloure en el projecte
+Index;Índex
+Indices;Índexs
+SqlReports;Informes SQL
+RepeatedInstruction;Instruccion repetida.
+GoToDefinition;Anar a definició
+LineParameterColumnParameter;Línia {0}, Columna {1}
+TheNamesOfTheTablesOfThisDatabaseHaveBeenCopiedIntoTheClipboard;Els noms de les taules d'aquesta base de dades s'han copiat al porta-retalls.
+TheNamesOfTheTablesOfThisSchemeHaveBeenCopiedIntoTheClipboard;Els noms de les taules d'aquest esquema s'han copiat al porta-retalls.
+TheNamesOfTheFieldsOfThisTableHaveBeenCopiedIntoTheClipboard;Els noms dels camps d'aquesta taula s'han copiat al porta-retalls.
+TheFollowingParameterFilesHaveCrossDependenciesColon;Els següents {0} fitxers tenen dependències creuades:
+ShowProjectFiles;Mostra arxius de el projecte
+ShowDiagram;Mostra diagrama
+ShowCallFlowOfTheMainProcedures;Mostra flux de trucades dels procediments principals
+ShowProcedureList;Mostra llista de procediments
+ItIsNotPosibleToSortTheFilesOfThisDeploy;No és possible ordenar els fitxers d'aquest deploy.
+ItIsNotPossibleToAutomaticallyRenameThisFileAnotherFileCalledParameterBetweenParenthesesAlreadyExists;No és possible canviar el nom automàticament aquest fitxer. Ja hi ha un altre arxiu anomenat '{0}'
+DoesNotExistsSelectedProject;No hi ha projecte seleccionat.
+ItWasNotPossibleToObtainTheKeyListOfTableParameter;No ha estat possible obtenir el llistat de claus de la taula {0}
+ItWasNotPossibleToObtainTheColumnListOfTableParameter;No ha estat possible obtenir el llistat de columnes de la taula {0}
+CatalogNotDefined;No s'ha definit el catàleg
+NoItemWithIdParameterBetweenQuotesHasBeenFound;No s'ha trobat cap element amb l'id '{0}'
+TheVisualizationModeParameterHasNotBeenImplemented;No s'ha implementat la visualització en mode {0}
+CouldNotOpenProjectColonParameterBetweenQuotes;No s'ha pogut obrir el projecte: '{0}'
+CouldNotGenerateTheWeb;No s'ha pogut generar el web.
+CannotCreateTheFileWithTheEnteredParameters;No es pot crear el fitxer amb els paràmetres introduïts.
+CannotRenameFileBecauseAnotherFileNamedParameterBetweenQuotesAlreadyExists;No es pot canviar el nom d'aquest fitxer perquè ja hi ha un altre arxiu anomenat '{0}'
+AttributeName;Nom de l'atribut
+NewColumn;Nova columna
+NewPage;Nova pàgina
+NewAttribute;Nou atribut
+NewJob;Nou treball
+Sources;Orígens
+Others;Altres
+Pages;Pàgines
+ProblemParsingColonParameter;Problema a l'parsejar: {0}
+Procedure;Procediment
+Procedures;Procediments
+ReloadingSiteComponents;Recarregant components de el lloc
+Restriction;Restricció
+Restrictions;Restriccions
+Routes;Rutes
+TheItemIdMustBeSpecified;S'ha d'especificar l'ID de l'element.
+AnEnvironmentMustBeSelected;S'ha de seleccionar un entorn.
+ASiteMustBeSelected;S'ha de seleccionar un site.
+ATemporaryCopyOfTheModifiedFilesHasBeenSavedCanRecoverFilesNextTimeOpenThisProject;S'ha guardat una còpia temporal dels arxius modificats, podrà recuperar aquests fitxers la propera vegada que obri aquest projecte.
+TheStaticWebGenerationHasStarted;S'ha iniciat la generació del web estàtica.
+SelectTheWebOfTheNewFile;Seleccioneu la web de el nou arxiu
+SelectTheKeysToDelete;Seleccioneu les claus a eliminar
+SelectTheColumnsToDelete;Seleccioneu les columnes a eliminar
+FileSizeBytesBetweenParentheses;Mida de fitxer (bytes)
+Tasks;Tasques
+TemporaryParameter;Temporal {0}
+HasErrors;Té errors
+Jobs;Treballs
+TruncateTableAndDependencies;TRUNCATE TABLE i dependències
+UseTableRow;Utilitza TABLE ROW
+Variables;Variables
+Show;Veure
+Web;Web
+ParenthesesNoneSelected;(Cap seleccionat)
+OpenWindowsTaskScheduler;Obrir el programador de tasques de Windows
+OpenProject;Obrir projecte
+OpenElipsis;Obre ...
+AttributesColon;Attributos:
+ChangeType;Canviar tipus
+JobsFolderColon;Carpeta d'jobs:
+Code;Codi
+SmtpAccount;Compte SMTP
+Details;Detalls
+ExecuteMainProcedure;Executar procediment principal
+DeleteEnvironment;Eliminar entorn
+ProjectEnvironment;Entorn projecte
+EndTimeColon;Hora de finalització:
+StartTimeColon;Hora d'inici:
+Implementation;Implementació
+ImplementMainProcedure;Implementar procediment principal
+ImplementMainProcedureAndExecute;Implementar procediment principal i executar
+Bottom;Inferior
+Instruction;Instruccion
+CheckBoxesOfButtonsYouWantToUseInProject;Marqueu les caselles d'aquells botons que voleu utilitzar en el seu projecte
+EditEnvironment;Modificar entorn
+NavigateBackwards;Navegar cap a enrere
+NavigateForward;Navegar cap endavant
+ItIsNotPossibleRepresentDiagramOfThisTypeOfQuery;No és possible representar el diagrama d'aquest tipus de consulta
+NewSqlAction;Nova acció SQL
+NewProject;Nou projecte
+NewEtlProject;Nou projecte ETL
+ProcedureColon;Procediment:
+Processes;Processos
+ComponentPropertiesColon;Propietats de l'component:
+Project;Projecte
+RecentProjects;Projectes recents
+UrlPathOfThePageColon;Ruta URL de la pàgina:
+EnvironmentSubstitutionsColon;Substitucions de l'entorn:
+Text;Text
+Components;Components
+DeleteTableAndDependences;DELETE TABLE i dependències
+DropTableAndDependences;DROP TABLE i dependències
+ThereAreColumnsThatUseQueryFieldsThatHaveBeenDeletedAskWantDeleteTheseColumns;Hi columnes que fan servir camps de la consulta que han estat esborrats.|¿Desa esborrar aquestes columnes?||{0}
+TheFollowingPropertiesWillBeLostAskChangeToParameterLineBreakParameter;Les següents propietats es perdran.|Canviar a {0}?||{1}
+TheNameOfTheUpdateDateColumnIsNotValid;El nom de la columna data d'actualització no és vàlid.
+TheNameOfTheDeleteDateColumnIsNotValid;El nom de la columna data d'eliminació no és vàlid.
+TheNameOfTheInsertDateColumnIsNotValid;El nom de la columna data d'inserció no és vàlid.
+AuditFields;Camps d'auditoria
+UpdateDateColon;Data d'actualització:
+DeletionDateColon;Data d'eliminació:
+InsertionDateColon;Data d'inserció:
+EtlOptions;Opcions ETL
+TheFolderParameterBetweenQuotesDoesNotExist;La carpeta '{0}' no existeix.
+Environments;Entorns
+NewEnvironment;Nou entorn
+TheFileNoLongerExists;El fitxer ja no existeix.
+ThisFileTypeCannotBeEditedWithCronoEtl;Aquest tipus de fitxer no es pot editar amb Crono ETL.
+LimitResultsCountToColon;Limitar nombre de resultats a:
+AllowSavingFilesWithSyntaxErrors;Permetre guardar fitxers amb errors de sintaxi.
+EnvironmentProperties;Propietats d'entorn
+CopyFolderPath;Copiar ruta de la carpeta
+ANameForThisEnvironmentMustBeEstablished;Cal establir un nom per a aquest entorn.
+DuplicateEnvironment;Duplicar entorn
+CloseAllButThis;Tancar tots excepte l'actual
+CannotCreateNewProjectInSelectedPathBecauseAlreadyContainsProjectOrItIsInsideAnotherProject;No es pot crear un nou projecte a la ruta seleccionada perquè ja conté un projecte o està dins d'un altre projecte
+NoProjectExistsInTheSelectedPathAskCreateItNow;No exite cap projecte a la ruta seleccionada. Voleu crear-lo ara?
+CopyFileFullPath;Copiar ruta completa de l'arxiu
+CopyFileName;Copia nom de l'arxiu
+OpenFileLocation;Obrir la ubicació de l'arxiu
+TheFileParameterBetweenQuotesHasBeenModifiedFromAnotherApplicationAskWantReloadFile;El fitxer '{0}' ha estat modificat des d'una altra aplicació. Voleu recarregar el fitxer?
+ReloadFromDisc;Recarregar des del disc
+AskEnsureWantReloadFileAndLoseChanges;Esteu segur que voleu recarregar el fitxer i perdre els canvis realitzats?
+YoMustSaveChangesBeforeSettingThisFileOnReadonlyMode;Ha de guardar els canvis abans de posar aquest fitxer en mode de només lectura.
+TheFileParameterBetweenQuotesContainsSyntaxErrors;El fitxer '{0}' conté errors de sintaxi.
+AskEnsureWantSaveItWithErrors;Esteu segur que voleu guardar-ho amb errors?
+ItIsNotPossibleToSaveTheFileParameterBetweenQuotesBecauseItContainsSyntaxErrorsCheckCodeAndTryItAgain;No és possible desar el fitxer '{0}' perquè conté errors de sintaxi. Revisi el codi i torneu a provar.
+YouCanChangeThisSettingFromTheProjectProperties;Podeu canviar aquest arranjament des de les propietats de el projecte.
+ProjectProperties;Propietats de projecte
+OneRow;1 fila
+OneColumn;1 columna
+AnErrorOccurredDuringQueryExecution;Hi ha hagut un error durant l'execució de la consulta.
+QueryExecutedSuccessfullyAt;Consulta executada correctament a les
+ThereWasAProblemGettingTheDataFromParameter;Hi ha hagut un problema a l'obtenir les dades de||{0}
+CouldNotReadOrAddTheXmlSchemaOfTheTable;No s'ha pogut llegir o afegir l'esquema XML de la taula.||{0}
+LoadingCronoBindings;Carregant crono bindings
+TheFilePropertyMustBeSpecified;Cal especificar la propietat 'File'
+TheOutputPropertyMustBeSpecified;Cal especificar la propietat 'Output'
+UnexpectedErrorTheCatalogOfTheQueryHasNotBeenLocated;Error imprevist. No s'ha localitzat el catàleg de l'la consulta.
+ItIsNotPosibleToEditThisQuery;No és possible editar aquesta consulta.
+CouldNotLocateTheMappingParameter;No s'ha pogut localitzar el mapping {0}
+CouldNotReestablishTheFilterThatThereWasInTheCoulumnParameter;No s'ha pogut restablir el filtre que hi havia a la columna {0}
+CannotEditTheCurrentTableBecauseItWasNotGeneratedWithCronoExcel;No es pot editar la taula actual perquè no s'ha generat amb Crono Excel
+WorkbookProperties;Propietats de el llibre
+Loads;Càrregues
+SourceTableNameColon;Nom taula d'origen:
+DestinationTableName;Nom taula de destinació:
+PreprocessCodeColon;Codi preprocés:
+PostprocessCodeColon;Codi postprocés
+CouldNotFindTableParameterBetweenQuotesInThisWorkbook;No s'ha trobat la taula '{0}' en aquest llibre.
+ThereIsAProblemWithThePreprocessCode;Hi ha un problema amb el codi de preprocés.
+ThereIsAProblemWithThePostprocessCode;Hi ha un problema amb el codi de postprocessat.
+TimeTableUsageInformation;La configuració de la taula de temps serveix per calcular valors TD, YTD, QTD i MTD. Un cop definida la taula de temps, es poden utilitzar les funcions td (), YTD (), QTD () i MTD () en el catàleg.||Aquesta funcionalitat requereix que la base de dades suport la sintaxi ANSI (incloent la clàusula WITH i les funcions de finestra OVER).
+GeographicalDimensionsUsageInformation;Les dimensions geogràfiques permeten realitzar gràfics de tipus mapa. Hi ha tres tipus de mapes que poden representar: De bombolla, de pastís, o de regions acolorides.||La latitud i longitud de cada valor de la dimensió s'utilitzarà per realitzar els gràfics geogràfics de tipus bombolla i de tipus pastís. El mapa personalitzat s'utilitza per identificar les formes (shapes) de cada regió en els mapes acolorits.
+TimeTableFieldsOrderUsageInformation;Seleccioneu i ordeni els camps rellevants per a l'ordenació de el temps (Exemple: Any, semestre, trimestre, num_mes, data, dia).|Aquesta informació s'utilitzarà per calcular els acumulats temporals (TD, YTD, QTD, MTD).
+AskWantToCheckTheseParameterJoinsLastVerificationDateColonParameterLastVerificationTimeColonParameterSeconds;Voleu verificar aquestes {0} relacions?|Data última verificació: {1}|Temps última verificació: {2} segons
+CalculatingDataTypeOfTheBusinessItemsThisActionOnlyNecessaryOncePerCatalog;Calculant tipus de dada dels elements de negoci.|Aquesta acció només és necessària una vegada per catàleg.
+TheCurrentDiagramIsAlreadyUsingTheTableParameterBetweenQuotesAskWantChooseNewAliasForTableParameterBetweenQuotes;El diagrama actual ja està utilitzant la taula '{0}'.||Voleu escollir un nou àlies per a la taula '{1}'?
+TheFollowingTablesAreOutdatedColonParameter;Les següents taules estan desactualitzades:|{0}
+ProblemCheckingParameterParameter;Problema a l'verificar {0}|{1}
+ParameterBetweenQuotesSuccessfullyVerified;'{0}' verificat correctament
+AskWantToUpdateThem;Voleu actualitzar-?
+AskEnsureWantDeleteThisStarColonParameterBetweenQuotes;Esteu segur que voleu suprimir aquesta estrella: '{0}'?
+UpdateTables;Actualitzar taules
+SomeBusinessItemIsNotValidUseFunctionalityVerifyBusinessItemsToLearnMoreDetails;Algun element de negoci no és vàlid. Utilitzeu la funcionalitat verificar elements de negoci per a conèixer més detalls.
+SomeNestedObjectContainsErrors;Algun objecte niat conté errors
+SomeJoinHasVerificationProblems;Algúna relació té problemes de verificació.
+_Alias;Alias
+ChangeTheAliasOfThisTable;Canviar l'àlies d'aquesta taula
+ChangeItemType;Canviar tipus d'element
+Fields;Camps
+ImportedFields;Camps importats
+CountValues;Comptar valors
+ConvertToIndicator;Convertir a indicador
+ConvertIntoIndicators;Convertir en indicadors
+Coordinates;Coordenades
+CreateSnowflake;Crear floc de neu
+CreateSnowflakeParenthesesWithAlias;Crear floc de neu (amb àlies)
+DataProfile;Data profile
+YouMustSpecifyANameForThisFolder;Cal especificar un nom per a aquesta carpeta.
+YouMustSelectAtLeastOneFieldFromTheTwoTablesInOrderToGenerateTheJoin;Heu de seleccionar al menys 1 camp de les dues taules per generar la join
+YouMustSelectTheMapFieldByWhichItLinksToTheDimension;Heu de seleccionar el camp de el mapa pel qual s'enllaça amb la dimensió
+YouMustSelectAnImportedField;Ha de seleccionar un camp importat
+DuplicateItem;Duplicar element
+FormulaEditor;Editor de fórmules
+TheFieldParameterDoesNotExistInTheDatabase;El camp {0} no existeix a la base de dades
+TheFieldUsedByTheBusinessItemParameterBetweenQuotesIsNotImported;El camp utilitzat per l'element de negoci '{0}' no està importat
+TheBusinessItemParameterBetweenQuotesHasARepeatedGuid;L'element de negoci '{0}' té un guid repetit
+TheBusinessItemNameParameterBetweenQuotesIsNotValid;El nom d'element de negoci '{0}' no és vàlid
+DeleteJoin;Eliminar relació
+InTheDefinitionOfBusinessItemParameterBetweenQuotesParameterNotDefinedParametersAreBeingUsed;En la definició de l'element de negoci '{0}' s'usen paràmetres que no s'han definit.
+ThisJoinHasNotBeenVerified;Aquest join no s'ha verificat
+FilterTables;Filtrar taules
+ThereIsSomeErrorInTheJoinDefinition;Hi ha algun error en la definició de la join
+ImportTable;Importa taula
+ImportTableParenthesesWithAlias;Importa taula (amb àlies)
+TheWhereClauseCannotBeEmpty;La clàusula where no pot estar buida.
+TheDefinitionOfTheBusinessItemParameterBetweenQuotesContainsErrors;La definició de l'element de negoci '{0}' conté errors
+TheTableStructureDoesNotCorrespondWithTheOneAtTheDatabase;L'estructura de la taula no es correspon amb la de la base de dades
+TheExpressionMustBeAFilter;L'expressió ha de ser un filtre
+TheSelectionMustBeADatabaseTable;La selecció ha de ser una taula de la base de dades
+TheGeographicSqlIsBadDefined;La sql geogràfica està mal definida
+TheTableParameterBetweenQuotesIsNotFoundInAnyDiagram;La taula '{0}' no es troba en cap diagrama.
+TheTableHasTheCorrectStructure;La taula té l'estructura correcta.
+TheDocumentationUrlDoesNotHaveValidFormat;L'URL de documentació no té un format vàlid
+CouldNotUpdateTheFollowingTables;Les següents taules no s'han pogut actualitzar: {0}
+LocateTableInDiagram;Localitzar taula en diagrama
+TheCurrentFieldsDoNotMatchThoseInTheDatabaseAskWantReloadThem;Els camps actuals no coincideixen amb els de la base de dades, Voleu recarregar?
+TheBusinessItemsHaveBeenCheckedSuccessfully;Els elements de negoci s'han verificat correctament
+ShowError;Mostra error
+ItHasNotBeenPossibleAccessSampleCatalogsCheckInternetConnectionIfProblemPersistsContactUsAtEmail;No ha estat possible accedir als catàlegs d'exemple, comprovi la seva connexió a internet, si el problema persisteix posis en contacte amb nosaltres a info@crono.net
+ACatalogHasNotBeenSetToTheEditor;No se li ha assignat un catàleg a l'editor
+CustomMapAttributeHasNotBeenConfigured;No s'ha configurat l'atribut de mapa personalitzat
+TheFieldWithTheMapIdHasNotBeenConfigured;No s'ha configurat el camp amb l'id de el mapa
+NoTableNamedParameterBetweenQuotesHasBeenFoundInTheDatabase;No s'ha trobat cap taula a la base de dades amb el nom '{0}'
+CouldNotOpenCatalogParameterBetweenQuotes;No s'ha pogut obrir el catàleg ' {0} '
+CouldNotConnectToTheDatabase;No s'ha pogut connectar amb la base de dades.
+CouldNotRelateAnyTableWithThisBusinessItem;No s'ha pogut relacionar cap taula amb aquest element de negoci.
+NoChangesDetectedInTableParameterBetweenQuotes;No s'han detectat canvis en la taula '{0}'
+CouldNotLoadTheMapFiles;No s'han pogut carregar els fitxers de mapa
+CannotChangeItemTypeWhenFoldersAndBusinessITemsHaveBeenSelectedAtTheSameTime;No es pot canviar el tipus d'element quan s'han seleccionat carpetes i elements de negoci a el mateix temps.
+CannotLoadTheDbfMapFile;No es pot carregar el fitxer de mapa .dbf
+CannotLoadTheShpMapFile;No es pot carregar el fitxer de mapa .shp
+CannotCheckTheInformationOfTheTableParameterBetweenParenthesesBecauseItWasNotPossibleToAccessDatabase;No es pot contrastar la informació de la taula '{0}' perquè no ha estat possible accedir a la base de dades
+CannotCreateThisJoinsBecausePathFromParameterToPArameterAlreadyExistsAndCircularJoinWouldBeCreated;No es pot crear aquesta relació perquè ja hi ha un camí des de '{0}' a '{1}' i es crearia una relació circular.
+ObjectNameInParameter;Nom de l'objecte en {0}
+NewAlias;Nou àlies
+NewAliasColon;Nou àlies:
+NewCatalog;Nou catàleg
+NewSnowflake;Nou floc de neu
+SortBy;Ordenar per
+OrderByNotLocalized;Order by
+InOrderToCalculateJoinAutomaticallyIsNecessarySelectSameNumberOfFieldsInTheTwoTables;Per calcular automàticament la join cal seleccionar el mateix nombre de camps en les dues taules.
+CatalogProperties;Propietats de catàleg
+JoinProperties;Propietats de relació
+TableProperties;Propietats de taula
+RecalculateDefaultFormat;Recalcular format predeterminat
+TheStructureOfTheTableParameterBetweenParenthesesHasBeenUpdated;S'ha actualitzat l'estructura de la taula '{0}'
+ErrorsHaveBeenFoundInSomeBusinessItems;S'han trobat errors en algun element de negoci
+SelectField;Seleccionar camp
+SelectTheFactTableOfTheNewSnowflake;Seleccioneu la taula de fets de el nou floc de neu.
+CustomSql;SQL personalitzada
+FactTable;Taula de fets
+ImportedTables;Taules importades
+ItemType;Tipus d'element
+AllJoinsHaveBeenVerifiedCorrectly;Totes les relacions s'han verificat correctament.
+AllTablesAreUpdated;Totes les taules estan actualitzades.
+AllTablesHaveBeenUpdatedSuccessfully;Totes les taules s'han actualitzat correctament.
+AllVerifiedCorrectly;Tot verificat correctament
+ShowValuesParenthesesOnlyHundredRows;Veure valors (només 1000 files)
+Verifications;Verificacions
+VerifyParameter;Verificar {0}
+CheckItems;Verificar elements
+AnImportedTableWithAliasParameterBetweenQuotesAlreadyExists;Ja hi ha una taula importada amb l'àlies '{0}'
+OpenCatalog;Obrir catàleg
+OpenConfiguration;Obrir configuració.
+DefaultAggregationColon;Agregació defecte:
+AddWhereClause;Afegir clàusula Where
+AliasColon;Alias:
+MapAttributeColon;Atribut de mapa:
+KeyAttributeColon;Attributo clau:
+ConnectionString;Cadena de connexió
+CalculateWhereClauseAutomatically;Calcular clàusula where automàticament
+YearFieldColon;Camp Any:
+SortingFieldColon;Camp d'ordenació:
+IdFieldForMapColon;Camp id per mapa:
+LatitudeFieldColon;Camp latitud:
+FieldLongitudeColon;Camp longitud:
+MonthFieldColon;Camp Mes:
+QuarterFieldColon;Camp Trimestre:
+TableFieldsColon;Camps de la taula:
+SortFieldsColon;Camps d'ordenació:
+EquivalentFields;Camps equivalents
+RecentCatalogs;Catàlegs recents
+ConnectedToTheDatabase;Connectat a la base de dades
+Snowflakes;Flocs de neu
+SnowflakesColon;Flocs de neu:
+CreateNewCatalog;Crear nou catàleg
+DisconnectedFromTheDatabase;Desconnectat de la base de dades
+SqlDialectColon;Dialecte SQL:
+GeographicDimension;Dimensió geogràfica
+DocumentationUrlBetweenParenthesesColon;Documentació (URL):
+ExampleColonFilterPatterns;Exemple: dbo.dim _ *, dbo.fac _ *,! * Tmp *
+TheItemTypeIsVisualAidToInformNatureOfDimensionOrIndicatorItDoesNotAffectGeneratedQueriesOrDataType;El tipus d'element és una ajuda visual per informar la naturalesa de la dimensió o indicador. No afecta les consultes generades ni a el tipus de dada.
+BusinessItems;Elements de negoci
+BusinessItemsColon;Elements de negoci:
+IsGeographicalDimension;És dimensió geogràfica
+IsTimeTable;És taula temps.
+ThisJoinMustNotBeVerified;Aquesta relació no ha de verificar
+ThisDocumentIsNotConfiguredForItsPublication;Aquest document no està configurat per a la seva publicació.
+AvoidIncludingTheSameTableSeveralTimesInTheSameDiagramColon;Evitar incloure mateixa taula diverses vegades en el mateix diagrama:
+LastPublicationDateColon;Data última publicació:
+FilterOfVisibleTablesColon;Filtre de taules visibles:
+FilterForTheListOfValues;Filtre per a la llista de valors:
+ConditionalFormating;Format condicional
+HyperlinkColon;Hipervincle:
+IdOfMap;Aneu de mapa
+CatalogLanguageColon;Idioma el catàleg:
+FirstLanguageColon;Idioma principal:
+Languages;Idiomes
+SecondaryLanguagesColon;Idiomes secundaris:
+AdditionalInformation;Informació addicional
+Latitude;Latitud
+Length;Longitud
+CustomMapColon;Mapa personalitzat:
+HyperlinkModeColon;Mode hipervincle:
+ShowHundred;Mostra 1000
+ShowAll;Mostra tots
+ComputerNameColon;Nom d'equip:
+NumberOfRecordsColon;Nombre de registres:
+SortListOfValuesByFieldColon;Ordenar llista de valors pel camp:
+AllowListsOfValuesOfThisBusinessItem;Permetre llistes de valors d'aquest element de negoci.
+TestCatalog;Provar catàleg
+Publication;Publicació
+PublishCatalog;Publicar catàleg
+References;Referències
+Joins;Relacions
+JoinsColon;Relacions:
+TheDocumentMustBeSavedBeforePublishing;S'ha de guardar el document abans de publicar.
+TableOneParenthesesDetailTable;Taula 1 (taula detall)
+TableTwoParenthesesDimensionTable;Taula 2 (taula dimensió)
+DetailTableColon;Taula detall:
+TimeTable;Taula temps
+TableColon;Taula:
+AdditionalTablesColon;Taules addicionals:
+TablesColon;Taules:
+ElementTypeColon;Tipus d'element:
+DefaultColumnFilterTypeColon;Tipus de filtre de columna per defecte:
+LocationColon;Ubicació:
+LastPublication;Última publicació
+LastVerification;Darrera verificació
+UseSampleCatalog;Utilitza catàleg d'exemple
+WindowsUserColon;Usuari de Windows:
+Verification;Verificació
+CheckCurrent;Verificar actual
+CheckNow;Verificar ara
+CheckFields;Verificar camps
+CheckAllTablesStructures;Verificar estructura de totes les taules
+CheckAll;Verificar tot
+UpdateStructureFromDatabase;Actualitzar estructura des de base de dades
+VerifyStructureFromDatabase;Verificar estructura des de base de dades
+GroupAndSort;Agrupacions i ordenacions
+Data;Dades
+ConvertIntoKey;Convertir en clau
+ToolBox;Quadre d'eines
+ReportExplorer;Explorador d'informe
+TheFollowingQueriesNeedAKeySinceContainSubQueries;Les següents consultes necessiten un clau ja que contenen sub consultes:||{0}
+CannotBeQueriesWithSameName;No poden haver consultes amb el mateix nom:||{0}
+NoActionHasBeenImplementedForNodeOfTypeParameterBetweenQuotes;No s'ha implementat acció per al node de tipus '{0}'
+RemoveKey;Treure clau
+WindowOfParameter;Finestra de {0}
+OpenReport;Obrir informe
+HighColon;Alt:
+WidthColon;Ample:
+SubjectColon;Assumpte:
+ExportFolderColon;Carpeta d'exportació:
+PageConfig;Format de pàgina
+RightColon;Dret:
+SendByEmail;Envia per correu
+PdfExport;Exportació PDF
+ExportInTheTemporaryFolder;Exportar a la carpeta temporal
+Horizontal;Horitzontal
+BottomColon;Inferior:
+RecentReports;Informes recents
+LeftColon;Esquerre:
+Margins;Marges
+DisplayReport;Mostra informe
+DocumentNameColon;Nom d'el document:
+OrientationColon;Orientació:
+KeywordsColon;Paraules clau:
+TopColon;Superior:
+KindOfPaperColon;Tipus de paper:
+Vertical;Vertical
+AskEnsureWantMoveSheetToThisNewPosition;Estàs segur que vols moure el full a aquesta nova posició?
+DeletedFileParameterBetweenAccents;Eliminat fitxer `{0}`
+CreatedFileParameterBetweenAccents;Arxiu creat `{0}`
+EditedFileParameterBetweenAccents;Arxiu editat `{0}`
+GitHubToken;Token de GitHub
+YouCanGenerateATokenToInteractWithGitHubFrom;Pots generar un símbol per interactuar amb GitHub des
+BranchColon;Branca:
+RepositoryColon;Repositori:
+OwnerColon;Propietari:
+IconParentheses32x32Colon;Icona (32x32):
+TheGitHubTokenMustBeSpecified;S'ha d'especificar el testimoni de GitHub
+ShowData;Veure dades
+LoadsToDatabase;Càrregues a força de dades
+ShowLoadsButton;Mostra botó càrregues
+DefaultConnectionForLoadsColon;Connexió per defecte per a càrregues:
+DefaultCatalogColon;Catàleg predeterminat:
+ShowXmlDefinition;Veure definició XML
+TheSourceTableAndDestinationTableFieldsMustBeFilledBothOrEmptyBoth;Els camps de taula d'origen i taula de destinació s'han d'omplir els dos o deixar buits dels dos
+Catalan;Català
+French;Francès
+German;Alemany
+Portuguese;Portuges
+TheCredentialsAreCorrectTheUserAssociatedToThisAccountIsColonParameter;Les credencials són correctes. L'usuari associat a aquest compte és: {0}
+ExecuteLoads;Executar càrregues
+TheCredentialsAreNotCorrectColonParameter;Les credencials no són correctes: {0}
+Contains;Conté
+UpdateAll;Actualitzar tot
+UpdateQuery;Actualitzar consulta
+StartDateColon;Data d'inici:
