@@ -1,0 +1,250 @@
+Iso;Iso3;IsoNumber;Name;SpanishName;Continent;Population;Longitude;Latitude;ShapeId
+AW;ABW;533;Aruba;Aruba;NA;107635;-69,9667;12,5;AW
+AF;AFG;4;Afghanistan;Afghanistán;AS;30419928;65;33;AF
+AO;AGO;24;Angola;Angola;AF;18056072;18,5;-12,5;AO
+AI;AIA;660;Anguilla;Anguilla;NA;15423;-63,1667;18,25;AI
+AX;ALA;248;Aland Islands;Islas Aland;EU;28007;20;60,25;AX
+AL;ALB;8;Albania;Albania;EU;3002859;20;41;AL
+AD;AND;20;Andorra;Andorra;EU;85082;1,5;42,5;AD
+AE;ARE;784;United Arab Emirates;Emiratos Árabes Unidos;AS;5314317;54;24;AE
+AR;ARG;32;Argentina;Argentina;SA;42192494;-64;-34;AR
+AM;ARM;51;Armenia;Armenia;AS;2970495;45;40;AM
+AS;ASM;16;American Samoa;Samoa Americana;OC;68061;-170;-14,3333;AS
+AQ;ATA;10;Antarctica;Antártida;AN;-1;0;-90;AQ
+TF;ATF;260;French Southern Territories;Tierras Australes Francia;AN;-1;77,5333;-37,8333;TF
+AG;ATG;28;Antigua and Barbuda;Antigua y Barbuda;NA;89018;-61,8;17,05;AG
+AU;AUS;36;Australia;Australia;OC;22015576;133;-27;AU
+AT;AUT;40;Austria;Austria;EU;8219743;13,3333;47,3333;AT
+AZ;AZE;31;Azerbaijan;Azerbaiján;AS;9493600;47,5;40,5;AZ
+BI;BDI;108;Burundi;Burundi;AF;10557259;30;-3,5;BI
+BE;BEL;56;Belgium;Bélgica;EU;10438353;4;50,8333;BE
+BJ;BEN;204;Benin;Benin;AF;9598787;2,25;9,5;BJ
+BQ;BES;;Bonaire, Sint Eustatius and Saba;Bonaire, Sint Eustatius and Saba;NA;0;-68,25;12,1667;BQ
+BF;BFA;854;Burkina Faso;Burkina-Faso (Alto Volta);AF;17275115;-2;13;BF
+BD;BGD;50;Bangladesh;Balgladesh;AS;161083804;90;24;BD
+BG;BGR;100;Bulgaria;Bulgaria;EU;7037935;25;43;BG
+BH;BHR;48;Bahrain;Bahrain;AS;1248348;50,55;26;BH
+BS;BHS;44;Bahamas;Bahamas;NA;316182;-76;24,25;BS
+BA;BIH;70;Bosnia and Herzegovina;Bosnia-Herzegovina;EU;4622292;18;44;BA
+BL;BLM;;Saint Barthelemy;Saint Barthelemy;NA;7332;-62,8333;17,9;BL
+BY;BLR;112;Belarus;Bielorrusia;EU;9542883;28;53;BY
+BZ;BLZ;84;Belize;Belice;NA;327719;-88,75;17,25;BZ
+BM;BMU;60;Bermuda;Bermudas;NA;69080;-64,75;32,3333;BM
+BO;BOL;68;Bolivia, Plurinational State of;Bolivia;SA;10290003;-65;-17;BO
+BR;BRA;76;Brazil;Brasil;SA;205716890;-55;-10;BR
+BB;BRB;52;Barbados;Barbados;NA;287733;-59,5333;13,1667;BB
+BN;BRN;96;Brunei Darussalam;Brunei;AS;408786;114,6667;4,5;BN
+BT;BTN;64;Bhutan;Bután;AS;716896;90,5;27,5;BT
+BV;BVT;74;Bouvet Island;Isla Bouvet;AN;-1;3,4;-54,4333;BV
+BW;BWA;72;Botswana;Botswana;AF;2098018;24;-22;BW
+CF;CAF;140;Central African Republic;República Centroafricana;AF;5057208;21;7;CF
+CA;CAN;124;Canada;Canadá;NA;34300083;-95;60;CA
+CC;CCK;166;Cocos (Keeling) Islands;Islas Cocos;AS;596;96,8333;-12,5;CC
+CH;CHE;756;Switzerland;Suiza;EU;7655628;8;47;CH
+CL;CHL;152;Chile;Chile;SA;17067369;-71;-30;CL
+CN;CHN;156;China;China;AS;1343239923;105;35;CN
+CI;CIV;384;Cote d'Ivoire;Costa de Marfil;AF;21952093;-5;8;CI
+CM;CMR;120;Cameroon;Camerún;AF;20129878;12;6;CM
+CD;COD;180;Congo, The Democratic Republic of the;Rep.Democrática del Congo;AF;73599190;25;0,0167;CD
+CG;COG;178;Congo;Congo;AF;4125916;15;-1;CG
+CK;COK;184;Cook Islands;Islas Cook;OC;10777;-159,7667;-21,2333;CK
+CO;COL;170;Colombia;Colombia;SA;45239079;-72;4;CO
+KM;COM;174;Comoros;Comoros;AF;737284;44,25;-12,1667;KM
+CV;CPV;132;Cape Verde;República de Cabo Verde;AF;523568;-24;16;CV
+CR;CRI;188;Costa Rica;Costa Rica;NA;4636348;-84;10;CR
+CU;CUB;192;Cuba;Cuba;NA;11075244;-80;21,5;CU
+CW;CUW;;Curacao;Curacao;NA;142180;-69;12,1667;CW
+CX;CXR;162;Christmas Island;Isla Navidad;AS;1496;105,6667;-10,5;CX
+KY;CYM;136;Cayman Islands;Islas Caimán;NA;52560;-80,5;19,5;KY
+CY;CYP;196;Cyprus;Chipre;AS;1138071;33;35;CY
+CZ;CZE;203;Czech Republic;República Checa;EU;10177300;15,5;49,75;CZ
+DE;DEU;276;Germany;Alemania;EU;81305856;9;51;DE
+DJ;DJI;262;Djibouti;Djibuti;AF;774389;43;11,5;DJ
+DM;DMA;212;Dominica;Dominica;NA;73126;-61,3333;15,4167;DM
+DK;DNK;208;Denmark;Dinamarca;EU;5543453;10;56;DK
+DO;DOM;214;Dominican Republic;República Dominicana;NA;10088598;-70,6667;19;DO
+DZ;DZA;12;Algeria;Argelia;AF;35406303;3;28;DZ
+EC;ECU;218;Ecuador;Ecuador;SA;15223680;-77,5;-2;EC
+EG;EGY;818;Egypt;Egipto;AF;83688164;30;27;EG
+ER;ERI;232;Eritrea;Eritrea;AF;6086495;39;15;ER
+EH;ESH;;Western Sahara;Western Sahara;AF;522928;-13;24,5;EH
+ES;ESP;724;Spain;España;EU;47042984;-4;40;ES
+EE;EST;233;Estonia;Estonia;EU;1274709;26;59;EE
+ET;ETH;231;Ethiopia;Etiopia;AF;93815992;38;8;ET
+FI;FIN;246;Finland;Finlandia;EU;5262930;26;64;FI
+FJ;FJI;242;Fiji;Fiji;OC;890057;175;-18;FJ
+FK;FLK;238;Falkland Islands (Malvinas);Islas Malvinas (Falkland);SA;3140;-59;-51,75;FK
+FR;FRA;250;France;Francia;EU;65630692;2;46;FR
+FO;FRO;234;Faroe Islands;Islas Feroé;EU;49483;-7;62;FO
+FM;FSM;583;Micronesia, Federated States of;Fed.Estados Micronesia;OC;106487;158,25;6,9167;FM
+GA;GAB;266;Gabon;Gabón;AF;1608321;11,75;-1;GA
+GB;GBR;826;United Kingdom;Reino Unido;EU;63047162;-2;54;GB
+GE;GEO;268;Georgia;Georgia;AS;4570934;43,5;42;GE
+GG;GGY;831;Guernsey;Guernsey;EU;64775;-2,5833;49,4667;GG
+GH;GHA;288;Ghana;Ghana;AF;25241998;-2;8;GH
+GI;GIB;292;Gibraltar;Gibraltar;EU;29034;-5,35;36,1333;GI
+GN;GIN;324;Guinea;Guinea;AF;10884958;-10;11;GN
+GP;GLP;312;Guadeloupe;Guadalupe;NA;405500;-61,5833;16,25;GP
+GM;GMB;270;Gambia;Gambia;AF;1840454;-16,5667;13,4667;GM
+GW;GNB;624;Guinea-Bissau;Guinea-Bissau;AF;1628603;-15;12;GW
+GQ;GNQ;226;Equatorial Guinea;Guinea Ecuatorial;AF;685991;10;2;GQ
+GR;GRC;300;Greece;Grecia;EU;10767827;22;39;GR
+GD;GRD;308;Grenada;Granada;NA;109011;-61,6667;12,1167;GD
+GL;GRL;304;Greenland;Groenlandia;NA;57695;-40;72;GL
+GT;GTM;320;Guatemala;Guatemala;NA;14099032;-90,25;15,5;GT
+GF;GUF;;French Guiana;French Guiana;SA;217000;-53;4;GF
+GU;GUM;316;Guam;Guam;OC;183286;144,7833;13,4667;GU
+GY;GUY;328;Guyana;Guyana;SA;741908;-59;5;GY
+HK;HKG;344;Hong Kong;Hong-Kong;AS;7153519;114,1667;22,25;HK
+HM;HMD;334;Heard Island and McDonald Islands;Islas Heard, Mc.Donald;OC;-1;72,5167;-53,1;HM
+HN;HND;340;Honduras;Honduras;NA;8296693;-86,5;15;HN
+HR;HRV;191;Croatia;Croacia;EU;4480043;15,5;45,1667;HR
+HT;HTI;332;Haiti;Haití;NA;9801664;-72,4167;19;HT
+HU;HUN;348;Hungary;Hungría;EU;9958453;20;47;HU
+ID;IDN;360;Indonesia;Indonesia;AS;248216193;120;-5;ID
+IM;IMN;833;Isle of Man;Isla de Man;EU;85421;-4,5;54,25;IM
+IN;IND;356;India;India;AS;1205073612;77;20;IN
+IO;IOT;86;British Indian Ocean Territory;Archipielago de Chagos;AS;4000;71,5;-6;IO
+IE;IRL;372;Ireland;Irlanda;EU;4722028;-8;53;IE
+IR;IRN;364;Iran, Islamic Republic of;Iran;AS;78868711;53;32;IR
+IQ;IRQ;368;Iraq;Irak;AS;31129225;44;33;IQ
+IS;ISL;352;Iceland;Islandia;EU;313183;-18;65;IS
+IL;ISR;376;Israel;Israel;AS;7590758;34,75;31,5;IL
+IT;ITA;380;Italy;Italia;EU;61261254;12,8333;42,8333;IT
+JM;JAM;388;Jamaica;Jamaica;NA;2889187;-77,5;18,25;JM
+JE;JEY;832;Jersey;Jersey;EU;94949;-2,1667;49,25;JE
+JO;JOR;400;Jordan;Jordania;AS;6508887;36;31;JO
+JP;JPN;392;Japan;Japón;AS;127368088;138;36;JP
+KZ;KAZ;398;Kazakhstan;Kazakhstán;AS;17522010;68;48;KZ
+KE;KEN;404;Kenya;Kenia;AF;43013341;38;1;KE
+KG;KGZ;417;Kyrgyzstan;Kirguizistán;AS;5496737;75;41;KG
+KH;KHM;116;Cambodia;Camboya (Kampuchea);AS;14952665;105;13;KH
+KI;KIR;296;Kiribati;Kiribati;OC;101998;173;1,4167;KI
+KN;KNA;659;Saint Kitts and Nevis;San Cristóbal y Nieves;NA;50726;-62,75;17,3333;KN
+KR;KOR;410;Korea, Republic of;Corea del Sur;AS;48860500;127,5;37;KR
+KW;KWT;414;Kuwait;Kuwait;AS;2646314;47,9667;29,3667;KW
+LA;LAO;418;Lao People's Democratic Republic;Laos;AS;6586266;105;18;LA
+LB;LBN;;Lebanon;Lebanon;AS;4140289;35,8333;33,8333;LB
+LR;LBR;430;Liberia;Liberia;AF;3887886;-9,5;6,5;LR
+LY;LBY;434;Libyan Arab Jamahiriya;Líbia;AF;6733620;17;25;LY
+LC;LCA;662;Saint Lucia;Santa Lucía;NA;162178;-60,9667;13,8833;LC
+LI;LIE;438;Liechtenstein;Liechtenstein;EU;36713;9,5333;47,2667;LI
+LK;LKA;144;Sri Lanka;Sri-Lanka;AS;21481334;81;7;LK
+LS;LSO;426;Lesotho;Lesotho;AF;1930493;28,5;-29,5;LS
+LT;LTU;440;Lithuania;Lituania;EU;3525761;24;56;LT
+LU;LUX;442;Luxembourg;Luxemburgo;EU;509074;6,1667;49,75;LU
+LV;LVA;428;Latvia;Letonia;EU;2191580;25;57;LV
+MO;MAC;446;Macao;Macao;AS;578025;113,55;22,1667;MO
+MF;MAF;;Saint Martin (French part);Saint Martin (French part);NA;30959;-63,06;18,0753;MF
+MA;MAR;504;Morocco;Marruecos;AF;32309239;-5;32;MA
+MC;MCO;;Monaco;Monaco;EU;30510;7,4197;43,7328;MC
+MD;MDA;498;Moldova, Republic of;Mondavia;EU;3656843;29;47;MD
+MG;MDG;450;Madagascar;Madagascar;AF;22585517;47;-20;MG
+MV;MDV;462;Maldives;Maldivas;AS;394451;73;3,25;MV
+MX;MEX;484;Mexico;México;NA;114975406;-102;23;MX
+MH;MHL;584;Marshall Islands;Islas Marshall;OC;68480;168;9;MH
+MK;MKD;807;Macedonia, The Former Yugoslav Republic of;Macedonia;EU;2082370;22;41,8333;MK
+ML;MLI;466;Mali;Mali;AF;14533511;-4;17;ML
+MT;MLT;470;Malta;Malta;EU;409836;14,5833;35,8333;MT
+MM;MMR;104;Myanmar;Myanmar (Ant.Birmania);AS;54584650;98;22;MM
+ME;MNE;499;Montenegro;Montenegro;EU;657394;19,3;42,5;ME
+MN;MNG;496;Mongolia;Mongolia;AS;3179997;105;46;MN
+MP;MNP;580;Northern Mariana Islands;Islas Marianas del Norte;OC;44582;145,75;15,2;MP
+MZ;MOZ;508;Mozambique;Mozambique;AF;23515934;35;-18,25;MZ
+MR;MRT;478;Mauritania;Mauritania;AF;3359185;-12;20;MR
+MS;MSR;500;Montserrat;Montserrat;NA;5164;-62,2;16,75;MS
+MQ;MTQ;474;Martinique;Martinica;NA;397730;-61,0833;14,6;MQ
+MU;MUS;480;Mauritius;Mauricio;AF;1313095;57,55;-20,2833;MU
+MW;MWI;454;Malawi;Malawi;AF;16323044;34;-13,5;MW
+MY;MYS;458;Malaysia;Malasia Occ.y Oriental;AS;29179952;112,5;2,5;MY
+YT;MYT;175;Mayotte;Mayotte;AF;231139;45,1667;-12,8333;YT
+NA;NAM;516;Namibia;Namibia;AF;2165828;17;-22;NA
+NC;NCL;540;New Caledonia;Nueva Caledonia;OC;260166;165,5;-21,5;NC
+NE;NER;562;Niger;Níger;AF;17078839;8;16;NE
+NF;NFK;574;Norfolk Island;Isla Norfolk;OC;2182;167,95;-29,0333;NF
+NG;NGA;566;Nigeria;Nigeria;AF;170123740;8;10;NG
+NI;NIC;558;Nicaragua;Nicaragua;NA;5727707;-85;13;NI
+NU;NIU;570;Niue;Niue;OC;1269;-169,8667;-19,0333;NU
+NL;NLD;528;Netherlands;Paises Bajos;EU;16730632;5,75;52,5;NL
+NO;NOR;578;Norway;Noruega;EU;4707270;10;62;NO
+NP;NPL;524;Nepal;Nepal;AS;29890686;84;28;NP
+NR;NRU;520;Nauru;Nauru;OC;9378;166,9167;-0,5333;NR
+NZ;NZL;554;New Zealand;Nueva Zelanda;OC;4327944;174;-41;NZ
+OM;OMN;512;Oman;Omán;AS;3090150;57;21;OM
+PK;PAK;586;Pakistan;Pakistán;AS;190291129;70;30;PK
+PA;PAN;591;Panama;Panamá;NA;3510045;-80;9;PA
+PN;PCN;612;Pitcairn;Pitcairn;OC;48;-130,1;-25,0667;PN
+PE;PER;604;Peru;Perú;SA;29549517;-76;-10;PE
+PH;PHL;608;Philippines;Filipinas;AS;103775002;122;13;PH
+PW;PLW;585;Palau;Palaos;OC;21032;134,5;7,5;PW
+PG;PNG;598;Papua New Guinea;Papúa-Nueva Guinea;OC;6310129;147;-6;PG
+PL;POL;616;Poland;Polonia;EU;38415284;20;52;PL
+PR;PRI;;Puerto Rico;Puerto Rico;NA;3998905;-66,5;18,25;PR
+KP;PRK;408;Korea, Democratic People's Republic of;Corea del Norte;AS;24589122;127;40;KP
+PT;PRT;620;Portugal;Portugal;EU;10781459;-8;39,5;PT
+PY;PRY;600;Paraguay;Paraguay;SA;6541591;-58;-23;PY
+PS;PSE;275;Occupied Palestinian Territory;Estado Palestino, Ocupado;AS;4199083;35,25;32;PS
+PF;PYF;258;French Polynesia;Polinesia Francesa;OC;274512;-140;-15;PF
+QA;QAT;634;Qatar;Qatar;AS;1951591;51,25;25,5;QA
+RE;REU;;Reunion;Reunion;AF;827000;55,6;-21,1;RE
+RO;ROU;642;Romania;Rumanía;EU;21848504;25;46;RO
+RU;RUS;643;Russian Federation;Rusia;EU;138082178;100;60;RU
+RW;RWA;646;Rwanda;Ruanda;AF;11689696;30;-2;RW
+SA;SAU;682;Saudi Arabia;Arabia Saudita;AS;26534504;45;25;SA
+SD;SDN;736;Sudan;Sudán;AF;34206710;30;15;SD
+SN;SEN;686;Senegal;Senegal;AF;12969606;-14;14;SN
+SG;SGP;702;Singapore;Singapur;AS;5353494;103,8;1,3667;SG
+GS;SGS;239;South Georgia and the South Sandwich Islands;Georgia, Sandwich Sur;AN;-1;-37;-54,5;GS
+SH;SHN;654;Saint Helena, Ascension and Tristan da Cunha;Santa Elena;AF;7728;-5,7;-15,95;SH
+SJ;SJM;;Svalbard and Jan Mayen;Svalbard and Jan Mayen;EU;2067;20;78;SJ
+SB;SLB;90;Solomon Islands;Islas Salomón;OC;584578;159;-8;SB
+SL;SLE;694;Sierra Leone;Sierra Leona;AF;5485998;-11,5;8,5;SL
+SV;SLV;222;El Salvador;El Salvador;NA;6090646;-88,9167;13,8333;SV
+SM;SMR;674;San Marino;San Marino;EU;32140;12,4167;43,9333;SM
+SO;SOM;706;Somalia;Somalia;AF;10085638;49;10;SO
+PM;SPM;666;Saint Pierre and Miquelon;San Pedro y Miquelón;NA;5831;-56,3333;46,8333;PM
+RS;SRB;688;Serbia;Serbia;EU;7276604;21;44;RS
+SS;SSD;;South Sudan;South Sudan;AF;10625176;30;8;SS
+ST;STP;678;Sao Tome and Principe;Santo Tomé y Principe;AF;183176;7;1;ST
+SR;SUR;740;Suriname;Suriman;SA;560157;-56;4;SR
+SK;SVK;703;Slovakia;Eslovaquia;EU;5483088;19,5;48,6667;SK
+SI;SVN;705;Slovenia;Eslovenia;EU;1996617;14,8167;46,1167;SI
+SE;SWE;752;Sweden;Suecia;EU;9103788;15;62;SE
+SZ;SWZ;748;Swaziland;Swazilandia;AF;1386914;31,5;-26,5;SZ
+SX;SXM;;Sint Maarten (Dutch part);Sint Maarten (Dutch part);NA;37429;-63,0667;18,0417;SX
+SC;SYC;690;Seychelles;Seychelles;AF;90024;55,6667;-4,5833;SC
+SY;SYR;760;Syrian Arab Republic;Siria;AS;22530746;38;35;SY
+TC;TCA;796;Turks and Caicos Islands;Islas Turcas y Caicos;NA;46335;-71,5833;21,75;TC
+TD;TCD;148;Chad;Chad;AF;10975648;19;15;TD
+TG;TGO;768;Togo;Togo;AF;6961049;1,1667;8;TG
+TH;THA;764;Thailand;Thailandia;AS;67091089;100;15;TH
+TJ;TJK;762;Tajikistan;Tajikistán;AS;7768385;71;39;TJ
+TK;TKL;772;Tokelau;Tokelau;OC;1368;-172;-9;TK
+TM;TKM;795;Turkmenistan;Turkmenistán;AS;5054828;60;40;TM
+TL;TLS;626;Timor-Leste;Timor-Leste;AS;1201255;125,9167;-8,8333;TL
+TO;TON;776;Tonga;Tonga;OC;106146;-175;-20;TO
+TT;TTO;780;Trinidad and Tobago;Trinidad y Tobago;NA;1226383;-61;11;TT
+TN;TUN;788;Tunisia;Túnez;AF;10732900;9;34;TN
+TR;TUR;792;Turkey;Turquía;AS;79749461;35;39;TR
+TV;TUV;798;Tuvalu;Tuvalu;OC;10619;178;-8;TV
+TW;TWN;158;Taiwan, Province of China;Taiwan;AS;23113901;121;23,5;TW
+TZ;TZA;834;Tanzania, United Republic of;Tanzania;AF;43601796;35;-6;TZ
+UG;UGA;800;Uganda;Uganda;AF;35873253;32;1;UG
+UA;UKR;804;Ukraine;Ucrania;EU;44854065;32;49;UA
+UM;UMI;581;United States Minor Outlying Islands;Islas ultramarinas EEUU;OC;316;-169,5167;16,75;UM
+UY;URY;858;Uruguay;Uruguay;SA;3316328;-56;-33;UY
+US;USA;840;United States;Estados Unidos de América;NA;313847465;-97;38;US
+UZ;UZB;860;Uzbekistan;Uzbekistán;AS;28394180;64;41;UZ
+VA;VAT;336;Holy See (Vatican City State);Ciudad del Vaticano;EU;836;12,45;41,9;VA
+VC;VCT;670;Saint Vincent and The Grenadines;San Vicente;NA;103537;-61,2;13,25;VC
+VE;VEN;862;Venezuela, Bolivarian Republic of;Venezuela;SA;28047938;-66;8;VE
+VG;VGB;92;Virgin Islands, British;Islas Vírgenes Británicas;NA;31148;-64,5;18,5;VG
+VI;VIR;850;Virgin Islands, U.S.;Islas Vírgenes EEUU;NA;109574;-64,8333;18,3333;VI
+VN;VNM;704;Viet Nam;Vietnam;AS;91519289;107,8333;16,1667;VN
+VU;VUT;548;Vanuatu;Vanuatu;OC;227574;167;-16;VU
+WF;WLF;876;Wallis and Futuna;Islas Wallis y Futuna;OC;15453;-176,2;-13,3;WF
+WS;WSM;882;Samoa;Samoa Occidental;OC;194320;-172,3333;-13,5833;WS
+YE;YEM;887;Yemen;Yemen;AS;24771809;48;15;YE
+ZA;ZAF;710;South Africa;Sudafrica;AF;48810427;24;-29;ZA
+ZM;ZMB;894;Zambia;Zambia;AF;14309466;30;-15;ZM
+ZW;ZWE;716;Zimbabwe;Zimbabwe;AF;12619600;30;-20;ZW
